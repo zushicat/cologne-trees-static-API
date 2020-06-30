@@ -9,7 +9,7 @@ def _load_data() -> List[Dict[str, Any]]:
         tree_data_str = f.read().split("\n")
     
     tree_data: List[Dict[str, Any]] = []
-    for line in tree_data_str[:1000]:
+    for line in tree_data_str:
         try:
             current_tree = json.loads(line)
         except:
