@@ -1,0 +1,16 @@
+# Python 3
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Atom Remote Sync
+.remote-sync.json
+
+# Visual Studio Code
+.vscode/
+
+Pipfile.lock
+
+# 
+data/trees_cologne_merged.jsonl
