@@ -1,0 +1,68 @@
+{
+  "Kalk": {
+    "min": 0,
+    "max": 64,
+    "mean": 9,
+    "median": 7
+  },
+  "Mülheim": {
+    "min": 0,
+    "max": 59,
+    "mean": 8,
+    "median": 7.0
+  },
+  "unknown": {
+    "min": 0,
+    "max": 66,
+    "mean": 11,
+    "median": 9
+  },
+  "Innenstadt": {
+    "min": 0,
+    "max": 103,
+    "mean": 12,
+    "median": 10
+  },
+  "Porz": {
+    "min": 0,
+    "max": 72,
+    "mean": 9,
+    "median": 6.0
+  },
+  "Nippes": {
+    "min": 0,
+    "max": 106,
+    "mean": 12,
+    "median": 8.0
+  },
+  "Ehrenfeld": {
+    "min": 0,
+    "max": 82,
+    "mean": 11,
+    "median": 8
+  },
+  "Lindenthal": {
+    "min": 0,
+    "max": 108,
+    "mean": 15,
+    "median": 9.0
+  },
+  "Rodenkirchen": {
+    "min": 0,
+    "max": 82,
+    "mean": 10,
+    "median": 7.0
+  },
+  "Berzdorf": {
+    "min": 0,
+    "max": 8,
+    "mean": 3,
+    "median": 2.0
+  },
+  "Chorweiler": {
+    "min": 0,
+    "max": 65,
+    "mean": 10,
+    "median": 7.0
+  }
+}

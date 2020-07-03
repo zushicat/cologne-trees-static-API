@@ -1,0 +1,524 @@
+{
+  "Kalk": {
+    "min": 0,
+    "max": 56,
+    "mean": 9,
+    "median": 6
+  },
+  "Flittard": {
+    "min": 0,
+    "max": 31,
+    "mean": 7,
+    "median": 5
+  },
+  "Stammheim": {
+    "min": 0,
+    "max": 31,
+    "mean": 7,
+    "median": 5.0
+  },
+  "Buchheim": {
+    "min": 0,
+    "max": 35,
+    "mean": 8,
+    "median": 7.0
+  },
+  "Holweide": {
+    "min": 0,
+    "max": 59,
+    "mean": 10,
+    "median": 7
+  },
+  "Mülheim": {
+    "min": 0,
+    "max": 42,
+    "mean": 10,
+    "median": 8
+  },
+  "Buchforst": {
+    "min": 0,
+    "max": 24,
+    "mean": 8,
+    "median": 7
+  },
+  "unknown": {
+    "min": 0,
+    "max": 66,
+    "mean": 11,
+    "median": 8
+  },
+  "Höhenhaus": {
+    "min": 0,
+    "max": 42,
+    "mean": 8,
+    "median": 6
+  },
+  "Dünnwald": {
+    "min": 0,
+    "max": 27,
+    "mean": 6,
+    "median": 5.0
+  },
+  "Dellbrück": {
+    "min": 0,
+    "max": 40,
+    "mean": 7,
+    "median": 6.0
+  },
+  "Deutz": {
+    "min": 0,
+    "max": 76,
+    "mean": 13,
+    "median": 10
+  },
+  "Humboldt/Gremberg": {
+    "min": 0,
+    "max": 40,
+    "mean": 10,
+    "median": 8
+  },
+  "Brück": {
+    "min": 0,
+    "max": 26,
+    "mean": 7,
+    "median": 6.0
+  },
+  "Höhenberg": {
+    "min": 0,
+    "max": 54,
+    "mean": 10,
+    "median": 8.0
+  },
+  "Eil": {
+    "min": 0,
+    "max": 28,
+    "mean": 6,
+    "median": 4
+  },
+  "Rath/Heumar": {
+    "min": 0,
+    "max": 61,
+    "mean": 9,
+    "median": 7
+  },
+  "Merheim": {
+    "min": 0,
+    "max": 63,
+    "mean": 10,
+    "median": 7
+  },
+  "Vingst": {
+    "min": 0,
+    "max": 48,
+    "mean": 9,
+    "median": 7
+  },
+  "Ostheim": {
+    "min": 0,
+    "max": 64,
+    "mean": 12,
+    "median": 9
+  },
+  "Neubrück": {
+    "min": 0,
+    "max": 38,
+    "mean": 8,
+    "median": 6
+  },
+  "Gremberghoven": {
+    "min": 0,
+    "max": 30,
+    "mean": 4,
+    "median": 2.0
+  },
+  "Neustadt/Nord": {
+    "min": 0,
+    "max": 52,
+    "mean": 12,
+    "median": 10
+  },
+  "Riehl": {
+    "min": 0,
+    "max": 106,
+    "mean": 17,
+    "median": 13.0
+  },
+  "Nippes": {
+    "min": 0,
+    "max": 74,
+    "mean": 9,
+    "median": 7
+  },
+  "Altstadt-Nord": {
+    "min": 0,
+    "max": 83,
+    "mean": 13,
+    "median": 8
+  },
+  "Neuehrenfeld": {
+    "min": 0,
+    "max": 53,
+    "mean": 10,
+    "median": 8
+  },
+  "Neustadt/Süd": {
+    "min": 0,
+    "max": 69,
+    "mean": 12,
+    "median": 9
+  },
+  "Altstadt-Süd": {
+    "min": 0,
+    "max": 103,
+    "mean": 13,
+    "median": 9.0
+  },
+  "Sülz": {
+    "min": 0,
+    "max": 60,
+    "mean": 11,
+    "median": 9
+  },
+  "Lindenthal": {
+    "min": 0,
+    "max": 108,
+    "mean": 25,
+    "median": 16.0
+  },
+  "Poll": {
+    "min": 0,
+    "max": 42,
+    "mean": 9,
+    "median": 7
+  },
+  "Zollstock": {
+    "min": 0,
+    "max": 56,
+    "mean": 9,
+    "median": 7
+  },
+  "Finkenberg": {
+    "min": 0,
+    "max": 44,
+    "mean": 12,
+    "median": 9
+  },
+  "Widdersdorf": {
+    "min": 0,
+    "max": 41,
+    "mean": 6,
+    "median": 5.0
+  },
+  "Lövenich": {
+    "min": 0,
+    "max": 27,
+    "mean": 5,
+    "median": 4.0
+  },
+  "Weiden": {
+    "min": 0,
+    "max": 52,
+    "mean": 10,
+    "median": 7.0
+  },
+  "Müngersdorf": {
+    "min": 0,
+    "max": 33,
+    "mean": 6,
+    "median": 4
+  },
+  "Meschenich": {
+    "min": 0,
+    "max": 27,
+    "mean": 5,
+    "median": 3.0
+  },
+  "Rondorf": {
+    "min": 0,
+    "max": 79,
+    "mean": 10,
+    "median": 7
+  },
+  "Godorf": {
+    "min": 0,
+    "max": 22,
+    "mean": 7,
+    "median": 6.0
+  },
+  "Raderthal": {
+    "min": 0,
+    "max": 32,
+    "mean": 9,
+    "median": 8
+  },
+  "Hahnwald": {
+    "min": 0,
+    "max": 23,
+    "mean": 5,
+    "median": 3
+  },
+  "Rodenkirchen": {
+    "min": 0,
+    "max": 45,
+    "mean": 9,
+    "median": 8.0
+  },
+  "Raderberg": {
+    "min": 0,
+    "max": 82,
+    "mean": 16,
+    "median": 9.0
+  },
+  "Marienburg": {
+    "min": 0,
+    "max": 55,
+    "mean": 11,
+    "median": 9.0
+  },
+  "Bayenthal": {
+    "min": 0,
+    "max": 39,
+    "mean": 10,
+    "median": 9.0
+  },
+  "Sürth": {
+    "min": 0,
+    "max": 54,
+    "mean": 8,
+    "median": 6
+  },
+  "Weiß": {
+    "min": 0,
+    "max": 38,
+    "mean": 13,
+    "median": 7
+  },
+  "Junkersdorf": {
+    "min": 0,
+    "max": 79,
+    "mean": 9,
+    "median": 5
+  },
+  "Klettenberg": {
+    "min": 0,
+    "max": 56,
+    "mean": 10,
+    "median": 9
+  },
+  "Braunsfeld": {
+    "min": 0,
+    "max": 32,
+    "mean": 8,
+    "median": 7.0
+  },
+  "Ehrenfeld": {
+    "min": 0,
+    "max": 71,
+    "mean": 11,
+    "median": 8.0
+  },
+  "Bocklemünd/Mengenich": {
+    "min": 0,
+    "max": 48,
+    "mean": 10,
+    "median": 6.0
+  },
+  "Ossendorf": {
+    "min": 0,
+    "max": 75,
+    "mean": 10,
+    "median": 7.0
+  },
+  "Vogelsang": {
+    "min": 0,
+    "max": 82,
+    "mean": 15,
+    "median": 12.0
+  },
+  "Esch/Auweiler": {
+    "min": 0,
+    "max": 51,
+    "mean": 10,
+    "median": 7.0
+  },
+  "Bickendorf": {
+    "min": 0,
+    "max": 41,
+    "mean": 10,
+    "median": 8
+  },
+  "Pesch": {
+    "min": 0,
+    "max": 46,
+    "mean": 8,
+    "median": 5.0
+  },
+  "Bilderstöckchen": {
+    "min": 0,
+    "max": 85,
+    "mean": 12,
+    "median": 9
+  },
+  "Longerich": {
+    "min": 0,
+    "max": 47,
+    "mean": 9,
+    "median": 7.0
+  },
+  "Fühlingen": {
+    "min": 0,
+    "max": 47,
+    "mean": 9,
+    "median": 6.0
+  },
+  "Niehl": {
+    "min": 0,
+    "max": 99,
+    "mean": 11,
+    "median": 8.0
+  },
+  "Weidenpesch": {
+    "min": 0,
+    "max": 26,
+    "mean": 6,
+    "median": 5
+  },
+  "Merkenich": {
+    "min": 0,
+    "max": 49,
+    "mean": 6,
+    "median": 4
+  },
+  "Chorweiler": {
+    "min": 0,
+    "max": 65,
+    "mean": 13,
+    "median": 11.0
+  },
+  "Lindweiler": {
+    "min": 0,
+    "max": 26,
+    "mean": 6,
+    "median": 4.0
+  },
+  "Seeberg": {
+    "min": 0,
+    "max": 64,
+    "mean": 13,
+    "median": 10.0
+  },
+  "Volkhoven/Weiler": {
+    "min": 0,
+    "max": 56,
+    "mean": 11,
+    "median": 8
+  },
+  "Blumenberg": {
+    "min": 0,
+    "max": 51,
+    "mean": 8,
+    "median": 6.0
+  },
+  "Zündorf": {
+    "min": 0,
+    "max": 36,
+    "mean": 7,
+    "median": 5
+  },
+  "Heimersdorf": {
+    "min": 0,
+    "max": 39,
+    "mean": 6,
+    "median": 4.0
+  },
+  "Porz": {
+    "min": 0,
+    "max": 72,
+    "mean": 12,
+    "median": 8
+  },
+  "Ensen": {
+    "min": 0,
+    "max": 22,
+    "mean": 5,
+    "median": 4.0
+  },
+  "Mauenheim": {
+    "min": 0,
+    "max": 33,
+    "mean": 8,
+    "median": 7
+  },
+  "Lind": {
+    "min": 0,
+    "max": 51,
+    "mean": 13,
+    "median": 9
+  },
+  "Wahnheide": {
+    "min": 0,
+    "max": 38,
+    "mean": 10,
+    "median": 6.0
+  },
+  "Wahn": {
+    "min": 0,
+    "max": 36,
+    "mean": 9,
+    "median": 7
+  },
+  "Grengel": {
+    "min": 0,
+    "max": 16,
+    "mean": 3,
+    "median": 2
+  },
+  "Elsdorf": {
+    "min": 0,
+    "max": 20,
+    "mean": 5,
+    "median": 4.0
+  },
+  "Urbach": {
+    "min": 0,
+    "max": 71,
+    "mean": 11,
+    "median": 7
+  },
+  "Langel": {
+    "min": 0,
+    "max": 17,
+    "mean": 4,
+    "median": 3
+  },
+  "Westhoven": {
+    "min": 0,
+    "max": 50,
+    "mean": 9,
+    "median": 6
+  },
+  "Roggendorf/Thenhoven": {
+    "min": 0,
+    "max": 20,
+    "mean": 7,
+    "median": 5.0
+  },
+  "Hitdorf": {
+    "min": 0,
+    "max": 1,
+    "mean": 0,
+    "median": 0.5
+  },
+  "Efferen": {
+    "min": 0,
+    "max": 11,
+    "mean": 5,
+    "median": 5
+  },
+  "Berzdorf": {
+    "min": 0,
+    "max": 1,
+    "mean": 0,
+    "median": 0
+  }
+}

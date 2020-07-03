@@ -2,39 +2,14 @@ import json
 from typing import Any, Dict, List, Tuple
 
 from _save_endpoint_data import write_endpoint_data
+from _utils import clean_key
 
 
-SUBSTITUTE_NONE_VALUE = "unknown"
 ENDPOINT_GROUP = "agegroups"
 
 
-def _clean_key(attr_key: Any) -> str:
-    if attr_key is None:
-        attr_key = SUBSTITUTE_NONE_VALUE
-    else:
-        attr_key = str(attr_key)
-    return attr_key
-
-
-def _filter_cut_trees(tree_data: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
-    '''
-    Get 2 sets of tree data: still existing and not existing in 2020 (presumed cut down)
-    '''
-    trees_2017_only: List[Dict[str, Any]] = []
-    trees_2020: List[Dict[str, Any]] = []
-
-    for tree in tree_data:
-        if tree["found_in_dataset"]["2017"] is True and tree["found_in_dataset"]["2020"] is False:
-            trees_2017_only.append(tree)
-        else:
-            if tree["found_in_dataset"]["2020"] is True:
-                trees_2020.append(tree)
-    
-    return trees_2017_only, trees_2020
-
-
-def _count_age_groups(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[str, Any]:
-    counted_age_groups: Dict[str, int] = {}
+def _count_trees(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[str, Any]:
+    counted_trees: Dict[str, int] = {}
     for tree in tree_data:
         age_group = tree["tree_age"]["age_group_2020"]
         if age_group is None:
@@ -47,17 +22,23 @@ def _count_age_groups(tree_data: List[Dict[str, Any]], use_prediction: bool) -> 
                     except:
                         pass
         
-        age_group = _clean_key(age_group)
+        age_group = clean_key(age_group)
 
-        if counted_age_groups.get(age_group) is None:
-            counted_age_groups[age_group] = 0
-        counted_age_groups[age_group] += 1
+        if counted_trees.get(age_group) is None:
+            counted_trees[age_group]: Dict[str, Any] = {
+                "absolute": 0,
+                "percentage": 0
+            }
+        counted_trees[age_group]["absolute"] += 1
     
-    return counted_age_groups
+    for age_group, vals in counted_trees.items():
+        counted_trees[age_group]["percentage"] = round(vals["absolute"]/len(tree_data), 2)
+    
+    return counted_trees
 
 
 def _count_age_group_by_district(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[str, Any]:
-    counted_age_group_by_districts: Dict[str, int] = {}
+    counted_trees: Dict[str, int] = {}
     for tree in tree_data:
         age_group = tree["tree_age"]["age_group_2020"]
         if age_group is None:
@@ -70,22 +51,30 @@ def _count_age_group_by_district(tree_data: List[Dict[str, Any]], use_prediction
                     except:
                         pass
         
-        age_group = _clean_key(age_group)
+        age_group = clean_key(age_group)
 
-        if counted_age_group_by_districts.get(age_group) is None:
-            counted_age_group_by_districts[age_group]: Dict[str, Any] = {}
+        if counted_trees.get(age_group) is None:
+            counted_trees[age_group]: Dict[str, Any] = {}
 
-        district_name = _clean_key(tree["geo_info"]["city_district"])
+        district_name = clean_key(tree["geo_info"]["city_district"])
 
-        if counted_age_group_by_districts[age_group].get(district_name) is None:
-            counted_age_group_by_districts[age_group][district_name] = 0
-        counted_age_group_by_districts[age_group][district_name] += 1
+        if counted_trees[age_group].get(district_name) is None:
+            counted_trees[age_group][district_name]: Dict[str, Any] = {
+                "absolute": 0,
+                "percentage": 0
+            }
+        counted_trees[age_group][district_name]["absolute"] += 1
+
+    for agegroup, agegroup_vals in counted_trees.items():
+        all_agegroup_trees = sum([x["absolute"] for x in agegroup_vals.values()])
+        for district, vals in agegroup_vals.items():
+            counted_trees[agegroup][district]["percentage"] = round(vals["absolute"]/all_agegroup_trees, 2)
     
-    return counted_age_group_by_districts
+    return counted_trees
 
 
 def _count_age_group_by_genus(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[str, Any]:
-    counted_age_group_by_genus: Dict[str, int] = {}
+    counted_trees: Dict[str, int] = {}
     for tree in tree_data:
         age_group = tree["tree_age"]["age_group_2020"]
         if age_group is None:
@@ -98,10 +87,10 @@ def _count_age_group_by_genus(tree_data: List[Dict[str, Any]], use_prediction: b
                     except:
                         pass
         
-        age_group = _clean_key(age_group)
+        age_group = clean_key(age_group)
         
-        if counted_age_group_by_genus.get(age_group) is None:
-            counted_age_group_by_genus[age_group]: Dict[str, Any] = {}
+        if counted_trees.get(age_group) is None:
+            counted_trees[age_group]: Dict[str, Any] = {}
 
         genus_name = tree["tree_taxonomy"]["genus"]
         if genus_name is None:
@@ -110,26 +99,39 @@ def _count_age_group_by_genus(tree_data: List[Dict[str, Any]], use_prediction: b
                     genus_name = tree["predictions"]["by_radius_prediction"]["genus"]
                 except:
                     pass
-        genus_name = _clean_key(genus_name)
+        genus_name = clean_key(genus_name)
         
-        if counted_age_group_by_genus[age_group].get(genus_name) is None:
-            counted_age_group_by_genus[age_group][genus_name] = 0
-        counted_age_group_by_genus[age_group][genus_name] += 1
+        if counted_trees[age_group].get(genus_name) is None:
+            counted_trees[age_group][genus_name]: Dict[str, Any] = {
+                "absolute": 0,
+                "percentage": 0
+            }
+        counted_trees[age_group][genus_name]["absolute"] += 1
+
+    for agegroup, agegroup_vals in counted_trees.items():
+        all_agegroup_trees = sum([x["absolute"] for x in agegroup_vals.values()])
+        for genus, vals in agegroup_vals.items():
+            counted_trees[agegroup][genus]["percentage"] = round(vals["absolute"]/all_agegroup_trees, 2)
     
-    return counted_age_group_by_genus
+    return counted_trees
 
 
-
-def create_agegroup_endpoints(tree_data: List[Dict[str, Any]]) -> None:
-    tree_data_2017, tree_data_2020 = _filter_cut_trees(tree_data)
-    
+def create_agegroup_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
     # ***
     #
-    dat = _count_age_groups(tree_data_2020, False)
-    write_endpoint_data(dat, ENDPOINT_GROUP, "counted")
+    dat = _count_trees(tree_data_2020, False)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "tree_count")
     
-    dat = _count_age_groups(tree_data_2020, True)
-    write_endpoint_data(dat, ENDPOINT_GROUP, "counted_with_predictions")
+    dat = _count_trees(tree_data_2020, True)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "tree_count_with_predictions")
+
+    # ***
+    #
+    dat = _count_trees(tree_data_2017, False)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "cut_tree_count")
+    
+    dat = _count_trees(tree_data_2017, True)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "cut_tree_count_with_predictions")
 
 
     # ***

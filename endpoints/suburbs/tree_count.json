@@ -1,0 +1,350 @@
+{
+  "Kalk": {
+    "absolute": 2043,
+    "percentage": 0.01
+  },
+  "Flittard": {
+    "absolute": 529,
+    "percentage": 0.0
+  },
+  "Stammheim": {
+    "absolute": 656,
+    "percentage": 0.0
+  },
+  "Buchheim": {
+    "absolute": 808,
+    "percentage": 0.01
+  },
+  "Holweide": {
+    "absolute": 1969,
+    "percentage": 0.01
+  },
+  "Mülheim": {
+    "absolute": 4153,
+    "percentage": 0.03
+  },
+  "Buchforst": {
+    "absolute": 503,
+    "percentage": 0.0
+  },
+  "unknown": {
+    "absolute": 20997,
+    "percentage": 0.14
+  },
+  "Höhenhaus": {
+    "absolute": 1203,
+    "percentage": 0.01
+  },
+  "Dünnwald": {
+    "absolute": 836,
+    "percentage": 0.01
+  },
+  "Dellbrück": {
+    "absolute": 1830,
+    "percentage": 0.01
+  },
+  "Deutz": {
+    "absolute": 4419,
+    "percentage": 0.03
+  },
+  "Humboldt/Gremberg": {
+    "absolute": 1491,
+    "percentage": 0.01
+  },
+  "Brück": {
+    "absolute": 672,
+    "percentage": 0.0
+  },
+  "Höhenberg": {
+    "absolute": 970,
+    "percentage": 0.01
+  },
+  "Eil": {
+    "absolute": 583,
+    "percentage": 0.0
+  },
+  "Rath/Heumar": {
+    "absolute": 1347,
+    "percentage": 0.01
+  },
+  "Merheim": {
+    "absolute": 1323,
+    "percentage": 0.01
+  },
+  "Vingst": {
+    "absolute": 921,
+    "percentage": 0.01
+  },
+  "Ostheim": {
+    "absolute": 1207,
+    "percentage": 0.01
+  },
+  "Neubrück": {
+    "absolute": 861,
+    "percentage": 0.01
+  },
+  "Gremberghoven": {
+    "absolute": 384,
+    "percentage": 0.0
+  },
+  "Neustadt/Nord": {
+    "absolute": 5197,
+    "percentage": 0.04
+  },
+  "Riehl": {
+    "absolute": 4410,
+    "percentage": 0.03
+  },
+  "Nippes": {
+    "absolute": 2445,
+    "percentage": 0.02
+  },
+  "Altstadt-Nord": {
+    "absolute": 1875,
+    "percentage": 0.01
+  },
+  "Neuehrenfeld": {
+    "absolute": 2105,
+    "percentage": 0.01
+  },
+  "Neustadt/Süd": {
+    "absolute": 3727,
+    "percentage": 0.03
+  },
+  "Altstadt-Süd": {
+    "absolute": 2554,
+    "percentage": 0.02
+  },
+  "Sülz": {
+    "absolute": 3655,
+    "percentage": 0.02
+  },
+  "Lindenthal": {
+    "absolute": 9328,
+    "percentage": 0.06
+  },
+  "Poll": {
+    "absolute": 1519,
+    "percentage": 0.01
+  },
+  "Zollstock": {
+    "absolute": 1919,
+    "percentage": 0.01
+  },
+  "Finkenberg": {
+    "absolute": 929,
+    "percentage": 0.01
+  },
+  "Widdersdorf": {
+    "absolute": 970,
+    "percentage": 0.01
+  },
+  "Lövenich": {
+    "absolute": 970,
+    "percentage": 0.01
+  },
+  "Weiden": {
+    "absolute": 1594,
+    "percentage": 0.01
+  },
+  "Müngersdorf": {
+    "absolute": 1397,
+    "percentage": 0.01
+  },
+  "Meschenich": {
+    "absolute": 362,
+    "percentage": 0.0
+  },
+  "Rondorf": {
+    "absolute": 1657,
+    "percentage": 0.01
+  },
+  "Godorf": {
+    "absolute": 234,
+    "percentage": 0.0
+  },
+  "Raderthal": {
+    "absolute": 899,
+    "percentage": 0.01
+  },
+  "Hahnwald": {
+    "absolute": 361,
+    "percentage": 0.0
+  },
+  "Rodenkirchen": {
+    "absolute": 1586,
+    "percentage": 0.01
+  },
+  "Raderberg": {
+    "absolute": 722,
+    "percentage": 0.0
+  },
+  "Marienburg": {
+    "absolute": 1914,
+    "percentage": 0.01
+  },
+  "Bayenthal": {
+    "absolute": 852,
+    "percentage": 0.01
+  },
+  "Sürth": {
+    "absolute": 1295,
+    "percentage": 0.01
+  },
+  "Weiß": {
+    "absolute": 513,
+    "percentage": 0.0
+  },
+  "Junkersdorf": {
+    "absolute": 2043,
+    "percentage": 0.01
+  },
+  "Klettenberg": {
+    "absolute": 1243,
+    "percentage": 0.01
+  },
+  "Braunsfeld": {
+    "absolute": 1252,
+    "percentage": 0.01
+  },
+  "Ehrenfeld": {
+    "absolute": 3400,
+    "percentage": 0.02
+  },
+  "Bocklemünd/Mengenich": {
+    "absolute": 980,
+    "percentage": 0.01
+  },
+  "Ossendorf": {
+    "absolute": 2670,
+    "percentage": 0.02
+  },
+  "Vogelsang": {
+    "absolute": 2436,
+    "percentage": 0.02
+  },
+  "Esch/Auweiler": {
+    "absolute": 1118,
+    "percentage": 0.01
+  },
+  "Bickendorf": {
+    "absolute": 1477,
+    "percentage": 0.01
+  },
+  "Pesch": {
+    "absolute": 614,
+    "percentage": 0.0
+  },
+  "Bilderstöckchen": {
+    "absolute": 1771,
+    "percentage": 0.01
+  },
+  "Longerich": {
+    "absolute": 1544,
+    "percentage": 0.01
+  },
+  "Fühlingen": {
+    "absolute": 1596,
+    "percentage": 0.01
+  },
+  "Niehl": {
+    "absolute": 2980,
+    "percentage": 0.02
+  },
+  "Weidenpesch": {
+    "absolute": 949,
+    "percentage": 0.01
+  },
+  "Merkenich": {
+    "absolute": 1627,
+    "percentage": 0.01
+  },
+  "Chorweiler": {
+    "absolute": 3024,
+    "percentage": 0.02
+  },
+  "Lindweiler": {
+    "absolute": 386,
+    "percentage": 0.0
+  },
+  "Seeberg": {
+    "absolute": 2104,
+    "percentage": 0.01
+  },
+  "Volkhoven/Weiler": {
+    "absolute": 1339,
+    "percentage": 0.01
+  },
+  "Blumenberg": {
+    "absolute": 1068,
+    "percentage": 0.01
+  },
+  "Zündorf": {
+    "absolute": 797,
+    "percentage": 0.01
+  },
+  "Heimersdorf": {
+    "absolute": 398,
+    "percentage": 0.0
+  },
+  "Porz": {
+    "absolute": 1521,
+    "percentage": 0.01
+  },
+  "Ensen": {
+    "absolute": 320,
+    "percentage": 0.0
+  },
+  "Mauenheim": {
+    "absolute": 433,
+    "percentage": 0.0
+  },
+  "Lind": {
+    "absolute": 299,
+    "percentage": 0.0
+  },
+  "Wahnheide": {
+    "absolute": 122,
+    "percentage": 0.0
+  },
+  "Wahn": {
+    "absolute": 617,
+    "percentage": 0.0
+  },
+  "Grengel": {
+    "absolute": 69,
+    "percentage": 0.0
+  },
+  "Elsdorf": {
+    "absolute": 146,
+    "percentage": 0.0
+  },
+  "Urbach": {
+    "absolute": 549,
+    "percentage": 0.0
+  },
+  "Langel": {
+    "absolute": 209,
+    "percentage": 0.0
+  },
+  "Westhoven": {
+    "absolute": 609,
+    "percentage": 0.0
+  },
+  "Roggendorf/Thenhoven": {
+    "absolute": 522,
+    "percentage": 0.0
+  },
+  "Hitdorf": {
+    "absolute": 2,
+    "percentage": 0.0
+  },
+  "Efferen": {
+    "absolute": 39,
+    "percentage": 0.0
+  },
+  "Berzdorf": {
+    "absolute": 3,
+    "percentage": 0.0
+  }
+}

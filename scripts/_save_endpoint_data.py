@@ -20,7 +20,7 @@ def _create_group_dir(endpoint_group: str) -> None:
 def _create_data_endpoint(data: Dict[str, Any], endpoint_group: str, endpoint_name: str):
     endpoint_path = f"{BASE_DATA_DIR}/{endpoint_group}/{endpoint_name}.json"
     with open(f"{endpoint_path}", "w") as f:
-        f.write(json.dumps(data, ensure_ascii=False))
+        f.write(json.dumps(data, indent=2, ensure_ascii=False))
 
 
 def write_endpoint_data(data: Dict[str, Any], endpoint_group: str, endpoint_name: str) -> None:

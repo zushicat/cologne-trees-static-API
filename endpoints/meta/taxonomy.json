@@ -1,0 +1,987 @@
+{
+  "Robinia": {
+    "unknown": [
+      "Scheinakazie"
+    ],
+    "pseudoacacia": [
+      "Scheinakazie",
+      "Kugelrobinie",
+      "Straßen-Akazie",
+      "Kegel-Robinie",
+      "Goldrobinie",
+      "Säulenrobinie",
+      "Korkenzieher-Akazie"
+    ]
+  },
+  "Platanus": {
+    "acerifolia": [
+      "Platane"
+    ],
+    "hispanica": [
+      "Platane"
+    ],
+    "hybrida": null,
+    "orientalis": null
+  },
+  "Sorbus": {
+    "unknown": [
+      "Eberesche",
+      "Mehlbeere",
+      "Vogelbeerbaum"
+    ],
+    "aria": [
+      "Mehlbeere"
+    ],
+    "aucuparia": [
+      "Gewöhnliche Eberesche"
+    ],
+    "intermedia": [
+      "Schwedische Mehlbeere"
+    ],
+    "domestica": null,
+    "torminalis": null
+  },
+  "Fraxinus": {
+    "excelsior": [
+      "Gemeine Esche",
+      "Einblättrige Esche"
+    ],
+    "unknown": [
+      "Esche"
+    ],
+    "caroliniana": null,
+    "ornus": [
+      "Blumen-Esch"
+    ],
+    "angustifolia": [
+      "Esche"
+    ],
+    "americana": null,
+    "pennsylvanica": null,
+    "longicuspis": null
+  },
+  "Tilia": {
+    "cordata": [
+      "Winterlinde",
+      "Amerikanische Stadt-Linde",
+      "Winterlinde Cordaley",
+      "Winterlinde Dila",
+      "Winterlinde Rancho"
+    ],
+    "tomentosa": [
+      "Silberlinde",
+      "Ungarische Silberlinde"
+    ],
+    "unknown": [
+      "Linde"
+    ],
+    "platiphyllos": [
+      "Großblättrige Sommerlinde"
+    ],
+    "euchlora": [
+      "Krimlinde"
+    ],
+    "americana": [
+      "Amerikanische Linde"
+    ],
+    "intermedia": [
+      "Kaiserlinde"
+    ]
+  },
+  "Acer": {
+    "pseudoplatanus": [
+      "Bergahorn",
+      "Berg-Ahorn 'Spaethii'"
+    ],
+    "unknown": [
+      "Ahorn"
+    ],
+    "platanoides": [
+      "Kugelahorn",
+      "Spitzahorn",
+      "Spitzahorn Cleveland",
+      "Blut-Ahorn"
+    ],
+    "campestre": [
+      "Feldahorn",
+      "Feldahorn Huibers Elegant"
+    ],
+    "saccharinum": [
+      "Silber-Ahorn"
+    ],
+    "negundo": [
+      "Eschen-Ahorn"
+    ],
+    "palmatum": [
+      "Fächer-Ahorn"
+    ],
+    "globosum": null,
+    "rubrum": [
+      "Rotahorn",
+      "Schmalkroniger Rotahorn"
+    ],
+    "cappadocicum": [
+      "Kolchischer Ahorn"
+    ],
+    "ginnala": [
+      "Feuerahorn"
+    ],
+    "saccharum": null,
+    "monspessulanum": null,
+    "buergerianum": null,
+    "capillipes": null,
+    "rufinerve": null,
+    "trifidum": null,
+    "durettii": null,
+    "maximowiczianum": null,
+    "tataricum": null,
+    "shirasawanun": null,
+    "cissifolium": null,
+    "davidii": null,
+    "speudoplatanus": null
+  },
+  "Betula": {
+    "unknown": [
+      "Birke"
+    ],
+    "pendula": [
+      "Sandbirke",
+      "Farn- oder geschlitzblättrige Birke"
+    ],
+    "papyrifera": [
+      "Papierbirke"
+    ],
+    "nigra": [
+      "Schwarzbirke"
+    ],
+    "lenta": null,
+    "alleghaniensis": null,
+    "corylifolia": null,
+    "sandbergii": null,
+    "grossa": null,
+    "koehnei": null,
+    "ermanii": null,
+    "fruticosa": null,
+    "davurica": null
+  },
+  "Prunus": {
+    "avium": [
+      "Kirsche"
+    ],
+    "unknown": [
+      "Kirsche"
+    ],
+    "padus": [
+      "Trauben-Kirsche"
+    ],
+    "serrulata": [
+      "Japanische Nelken-Kirsche",
+      "Säulenkirsche"
+    ],
+    "mahaleb": null,
+    "hillieri": [
+      "Zierkirsche 'Spire'"
+    ],
+    "cerasifera": [
+      "Blut-Pflaume"
+    ],
+    "serotina": [
+      "Späte Traubenkirsche"
+    ],
+    "subhirtella": null,
+    "sargentii": null,
+    "dulcis dulcis": null,
+    "hirtipes": null,
+    "fenzliana": null,
+    "yedoensis": null,
+    "simonii": null,
+    "domestica": null,
+    "armeniaca": null,
+    "spinosa": null
+  },
+  "Metasequoia": {
+    "glyptostroboides": [
+      "Urweltmammutbaum",
+      "Chinesisches Rotholz"
+    ],
+    "unknown": [
+      "Urweltmammutbaum",
+      "Chinesisches Rotholz"
+    ]
+  },
+  "Ailanthus": {
+    "unknown": [
+      "Götterbaum"
+    ],
+    "altissima": [
+      "Götterbaum"
+    ]
+  },
+  "Aesculus": {
+    "unknown": [
+      "Kastanie"
+    ],
+    "hippocastanum": [
+      "Roßkastanie"
+    ],
+    "carnea": [
+      "Purpur-Kastanie",
+      "Blut-Kastanie"
+    ],
+    "flava": null,
+    "pavia": null,
+    "parviflora": null,
+    "turbinata": null
+  },
+  "Ulmus": {
+    "parvifolia": [
+      "Chinesische Ulme"
+    ],
+    "unknown": [
+      "Ulme",
+      "Rüster",
+      "Säulen-Ulme"
+    ],
+    "glabra": [
+      "Berg-Ulme"
+    ],
+    "carpinifolia": [
+      "Feldulme (procera",
+      "minor",
+      "campestris)"
+    ],
+    "minor": null
+  },
+  "Carpinus": {
+    "betulus": [
+      "Hainbuche",
+      "Weißbuche",
+      "Pyramiden-Hainbuche"
+    ],
+    "unknown": [
+      "Hainbuche",
+      "Weißbuche"
+    ],
+    "tschonoskii": null,
+    "turczaninowii": null
+  },
+  "Crataegus": {
+    "unknown": [
+      "Crataegus",
+      "Dorn"
+    ],
+    "laevigata": [
+      "Echter Rotdorn",
+      "Weißdorn"
+    ],
+    "monogyna": [
+      "Weißdorn"
+    ],
+    "prunifolia": [
+      "Pflaumenblättriger Weiß-Dorn"
+    ],
+    "lavallei": [
+      "Lederblättriger Weißdorn"
+    ]
+  },
+  "Pyrus": {
+    "unknown": [
+      "Birne"
+    ],
+    "communis": [
+      "Holzbirne",
+      "Gemeine Birne"
+    ],
+    "calleriana": [
+      "Zier-Birne"
+    ]
+  },
+  "Quercus": {
+    "robur": [
+      "Sommer-Eiche",
+      "Stieleiche",
+      "Pyramiden-Eiche",
+      "Säulen-Eiche"
+    ],
+    "unknown": [
+      "Eiche"
+    ],
+    "rubra": [
+      "Amerikanische Rot-Eiche"
+    ],
+    "palustris": [
+      "Sumpf-Eiche"
+    ],
+    "petraea": [
+      "Winter-Eiche",
+      "Trauben-Eiche"
+    ],
+    "frainetto": [
+      "Ungarische Eiche"
+    ],
+    "turneri": [
+      "Immergrüne Eiche"
+    ],
+    "cerris": null,
+    "canariensis": null,
+    "kewensis": null,
+    "prinus": null,
+    "suber": null,
+    "ilex": null,
+    "macrocarpa": null,
+    "coccinea": null,
+    "phellos": null,
+    "libanii": null,
+    "libani": null,
+    "benderi": null,
+    "pontica": null,
+    "dentata": null,
+    "hispanica": null,
+    "castaneifolia": null
+  },
+  "Corylus": {
+    "unknown": [
+      "Hasel"
+    ],
+    "colurna": [
+      "Baumhasel"
+    ],
+    "avellana": null,
+    "colurnoides": null
+  },
+  "Amelanchier": {
+    "unknown": [
+      "Felsenbirne"
+    ],
+    "canadensis": null,
+    "lamarkii (canadensis)": [
+      "Kupfer-Felsenbirne"
+    ],
+    "laevis": null
+  },
+  "Catalpa": {
+    "bignonioides": [
+      "Kugel-Trompetenbaum",
+      "Trompetenbaum"
+    ],
+    "unknown": [
+      "Trompetenbaum"
+    ],
+    "bungei": null,
+    "speciosa": null
+  },
+  "Gleditsia": {
+    "unknown": [
+      "Dreidorniger Lederhülsenbaum",
+      "Gleditschie"
+    ],
+    "triacanthos": [
+      "Gleditsie",
+      "Lederhülsenbaum",
+      "Gelbe Gleditschie"
+    ]
+  },
+  "Sophora": {
+    "japonica": [
+      "Japanischer Schnurbaum"
+    ],
+    "unknown": [
+      "Schnurbaum"
+    ]
+  },
+  "Fagus": {
+    "sylvatica": [
+      "Rot-Buche",
+      "Grüne Hängebuche",
+      "Rundblättrige Rotbuche"
+    ],
+    "unknown": null,
+    "engleriana": null
+  },
+  "Malus": {
+    "tschonoskii": [
+      "Zierapfel"
+    ],
+    "unknown": [
+      "Apfel"
+    ],
+    "trilobata": [
+      "Dreilappiger Apfel"
+    ],
+    "baccata": [
+      "Apfel Street Parade"
+    ],
+    "pumila": null,
+    "sieversii": null,
+    "sieboldii": null,
+    "domestica": null,
+    "toringoides": null
+  },
+  "Populus": {
+    "unknown": [
+      "Pappel"
+    ],
+    "nigra": [
+      "Säulenpappel",
+      "Pyramidenpappel",
+      "Schwarzpappel"
+    ],
+    "alba": [
+      "Silberpappel"
+    ],
+    "canadensis": [
+      "Kanadische Holz-Pappel"
+    ],
+    "cerasifera": [
+      "Pappel"
+    ],
+    "tremula": [
+      "Zitter-Pappel"
+    ],
+    "canescens": [
+      "Grau-Pappel"
+    ],
+    "berilonensis": null
+  },
+  "Picea": {
+    "omorika": [
+      "Serbische Fichte"
+    ],
+    "unknown": [
+      "Fichte"
+    ],
+    "abies": [
+      "Rotfichte"
+    ],
+    "pungens": null,
+    "purpurea": null,
+    "omorica": null,
+    "orientalis": [
+      "Kaukasus-Fichte",
+      "Sapindus-Fichte"
+    ]
+  },
+  "Salix": {
+    "matsudana": [
+      "Korkenzieher Weide"
+    ],
+    "unknown": [
+      "Weide"
+    ],
+    "caprea": [
+      "Sal-Weide"
+    ],
+    "alba": [
+      "Silber-Weide"
+    ]
+  },
+  "Larix": {
+    "unknown": [
+      "Lärche"
+    ],
+    "decidua": [
+      "Europäische Lärche"
+    ]
+  },
+  "Pinus": {
+    "nigra": [
+      "Schwarzkiefer",
+      "?ûsterreichische Schwarzkiefer",
+      "Österreichische Schwarzkiefer"
+    ],
+    "unknown": [
+      "Kiefer"
+    ],
+    "sylvestris": [
+      "Gewöhnliche Kiefer"
+    ],
+    "strobus": [
+      "Weymouthkiefrer"
+    ],
+    "ponderosa": null,
+    "bungeana": null,
+    "cembra": null,
+    "pinea": null,
+    "wallichiana": [
+      "Tränen-Kiefer"
+    ]
+  },
+  "Ginkgo": {
+    "biloba": [
+      "Ginkgobaum",
+      "Fächerblattbaum",
+      "Ginkgo"
+    ]
+  },
+  "Cedrus": {
+    "unknown": [
+      "Zeder"
+    ],
+    "atlantica": [
+      "Atlas-Zeder"
+    ],
+    "deodara": null,
+    "libani": [
+      "Libanon-Zeder"
+    ]
+  },
+  "Liquidambar": {
+    "styraciflua": [
+      "Amberbaum"
+    ],
+    "unknown": [
+      "Amberbaum"
+    ],
+    "orientalis": null,
+    "acalycina": null,
+    "formosana": null
+  },
+  "Alnus": {
+    "glutinosa": [
+      "Schwarz-Erle",
+      "Rot-Erle"
+    ],
+    "cordata": [
+      "Italienische Erle"
+    ],
+    "spaethii": [
+      "Späth's Erle"
+    ],
+    "unknown": [
+      "Erle"
+    ],
+    "viridis": null
+  },
+  "Pterocarya": {
+    "fraxinifolia": [
+      "Flügelnuß"
+    ],
+    "unknown": [
+      "Flügelnuß"
+    ],
+    "rhoifolia": null
+  },
+  "Rhus": {
+    "typhina": [
+      "Essigbaum"
+    ]
+  },
+  "Taxus": {
+    "baccata": [
+      "Eibe"
+    ]
+  },
+  "Juglans": {
+    "nigra": [
+      "Schwarznuß"
+    ],
+    "regia": [
+      "Walnuß"
+    ],
+    "unknown": [
+      "Wal-",
+      "Nußbaum"
+    ],
+    "ailantifolia": null,
+    "californica": null
+  },
+  "Liriodendron": {
+    "tulipifera": [
+      "Säulen-Tulpenbaum",
+      "Tulpenbaum"
+    ],
+    "unknown": [
+      "Amerikanischer Tulpenbaum"
+    ],
+    "chinense": null
+  },
+  "Ostrya": {
+    "carpinifolia": [
+      "Hopfenbuche"
+    ]
+  },
+  "Phellodendron": {
+    "amurense": [
+      "Echter Korkbaum",
+      "Amur-Korkbaum"
+    ],
+    "unknown": null
+  },
+  "Ilex": {
+    "aquifolium": [
+      "Stechpalme"
+    ],
+    "unknown": null
+  },
+  "Parrotia": {
+    "persica": [
+      "Eisenholzbaum",
+      "Eisenbaum"
+    ]
+  },
+  "Hippophae": {
+    "rhamnoides": [
+      "Sanddorn"
+    ]
+  },
+  "Koelreuteria": {
+    "paniculata": [
+      "Blasenbaum"
+    ]
+  },
+  "Cornus": {
+    "unknown": null,
+    "mas": null,
+    "florida": null,
+    "officinalis": null,
+    "sanguinea": null,
+    "asperifolia": null,
+    "kousa": null,
+    "macrophylla": null,
+    "alternifolia": [
+      "Etagen Hartriegel"
+    ]
+  },
+  "Sequoia": {
+    "sempervirens": [
+      "Küstenmammutbaum"
+    ]
+  },
+  "Paulownia": {
+    "tomentosa": [
+      "Blauglockenbaum"
+    ]
+  },
+  "Castanea": {
+    "sativa": [
+      "Marone",
+      "Eßkastanie"
+    ],
+    "unknown": [
+      "Marone",
+      "Eßkastanie"
+    ]
+  },
+  "Abies": {
+    "concolor": [
+      "Coloradotanne"
+    ],
+    "unknown": [
+      "Tanne"
+    ],
+    "cilicica": null,
+    "alba": null,
+    "ernestii": null,
+    "veitchii": null,
+    "homolepis": null,
+    "numidica": null
+  },
+  "Rhamnus": {
+    "catharticus": [
+      "Kreuzdorn"
+    ],
+    "tinctorius": null,
+    "davurica": null
+  },
+  "Sambucus": {
+    "nigra": [
+      "Schwarzer Holunder"
+    ],
+    "racemosa": [
+      "Roter Holunder"
+    ]
+  },
+  "Magnolia": {
+    "kobus": [
+      "Magnolie"
+    ],
+    "unknown": [
+      "Magnolie"
+    ],
+    "grandiflora": null,
+    "zenii": null,
+    "hybride": null,
+    "macrophylla": null,
+    "acumunata": null,
+    "loebneri": null,
+    "sinensis": null,
+    "lilliflora": null,
+    "soulangiana": null
+  },
+  "Photinia": {
+    "fraseri": [
+      "Lorbeermispel",
+      "Glanzmispel"
+    ]
+  },
+  "Verschiedene": {
+    "unknown": [
+      "Verschiedene"
+    ]
+  },
+  "Cupressocyparis": {
+    "leylandii": [
+      "Leyland-Zypresse Bastardzypresse Riesenzypresse"
+    ]
+  },
+  "Chamaecyparis": {
+    "lawsoniana": [
+      "Scheinzypresse"
+    ],
+    "unknown": null,
+    "nootkatensis": null,
+    "obtusa": null,
+    "pisifera": null
+  },
+  "Caragana": {
+    "arborescens": null
+  },
+  "Pseudotsuga": {
+    "menziesii var caesia": [
+      "Douglasfichte"
+    ],
+    "unknown": [
+      "Douglasie"
+    ],
+    "menziesii": null
+  },
+  "Cercis": {
+    "siliquastrum": [
+      "Gemeiner Judasbaum",
+      "Herzbaum"
+    ]
+  },
+  "Tsuga": {
+    "canadensis": [
+      "Kanadische Hemlocktanne"
+    ],
+    "diversifolia": null
+  },
+  "Zelkova": {
+    "serrata": [
+      "Zelkove"
+    ]
+  },
+  "Thuja": {
+    "unknown": [
+      "Lebensbaum"
+    ],
+    "occidentalis": [
+      "Abendländischer Lebensbaum"
+    ],
+    "plicata": null,
+    "standishii": null,
+    "orientalis": null
+  },
+  "Cercidiphyllum": {
+    "japonicum": [
+      "Judasblattbaum",
+      "Lebkuchenbaum"
+    ]
+  },
+  "Morus": {
+    "unknown": [
+      "Maulbeere"
+    ],
+    "alba": [
+      "Weißer Maulbeerbaum"
+    ],
+    "nigra": null
+  },
+  "Laburnum": {
+    "anagyroides": [
+      "Gemeiner Goldregen"
+    ]
+  },
+  "Viburnum": {
+    "sieboldii": null
+  },
+  "Juniperus": {
+    "communis": [
+      "Wacholder"
+    ],
+    "unknown": null,
+    "speciosa": null,
+    "chinensis": null
+  },
+  "Albizia": {
+    "julibrissin": null
+  },
+  "Araucaria": {
+    "araucana": null
+  },
+  "Pistacia": {
+    "chinenesis": null
+  },
+  "Carya": {
+    "unknown": null,
+    "cordiformis": null
+  },
+  "Buxus": {
+    "sempervirens": null
+  },
+  "Torreya": {
+    "nucifera": null,
+    "californica": null,
+    "unknown": null
+  },
+  "Cryptomeria": {
+    "japonica": null
+  },
+  "Cunningamia": {
+    "lanceolata": null
+  },
+  "Cupressus": {
+    "unknown": null,
+    "arizonica": null
+  },
+  "Tetradium": {
+    "daniellii": null
+  },
+  "Ficus": {
+    "carica": null
+  },
+  "Cydonia": {
+    "oblonga": null
+  },
+  "Zanthoxylum": {
+    "simulans": null
+  },
+  "Davidia": {
+    "involucrata": null
+  },
+  "Sciadopitis": {
+    "verticillata": null
+  },
+  "Cefalotaxus": {
+    "fortunei": null
+  },
+  "Euodia": {
+    "hupehensis": null,
+    "unknown": null
+  },
+  "Nyssa": {
+    "sylvatica": null
+  },
+  "Cephalanthus": {
+    "occidentalis": null
+  },
+  "Taxodium": {
+    "distichum": [
+      "Sumpfzypresse"
+    ]
+  },
+  "Crataegomespilus": {
+    "dardari": null
+  },
+  "Calocedro": {
+    "decurrens": null
+  },
+  "Sycopsis": {
+    "sinensis": null
+  },
+  "Notofagus": {
+    "antarctica": null
+  },
+  "Poncirus": {
+    "trifoliata": null,
+    "trifoliatus": null
+  },
+  "Hamamelis": {
+    "japonica": null
+  },
+  "Sinowilsonia": {
+    "henryi": null
+  },
+  "Ptelea": {
+    "trifoliata": null
+  },
+  "Chitalpa": {
+    "tashkentensis": null
+  },
+  "Chimonanthus": {
+    "yunnanensis": null
+  },
+  "Celtis": {
+    "australis": [
+      "Südlicher Zürgelbaum"
+    ],
+    "occidentalis": [
+      "Amerikanischer Zürgelbaum"
+    ],
+    "unknown": null
+  },
+  "Clerodendrum": {
+    "trichotomum": null
+  },
+  "Eriobotrya": {
+    "japonica": null
+  },
+  "Trachycarpos": {
+    "fortunei": null
+  },
+  "Stewartia": {
+    "pseudocamelia": null
+  },
+  "Alangium": {
+    "platanifolium": null
+  },
+  "Broussonetia": {
+    "papyrifera": null,
+    "unknown": null
+  },
+  "Idesia": {
+    "Polycarpa": null
+  },
+  "Diospyros": {
+    "lotus": null,
+    "virginiana": null
+  },
+  "Gymnocladus": {
+    "dioicus": null
+  },
+  "Trochodendron": {
+    "araliodes": null
+  },
+  "Fontanesia": {
+    "phillyreodes": null
+  },
+  "Syringa": {
+    "reticulata pekinensis": null
+  },
+  "Sequoiadendron": {
+    "giganteum": [
+      "Mammutbaum"
+    ]
+  },
+  "Eucommia": {
+    "ulmoides": null
+  },
+  "Mespilus": {
+    "germanica": null
+  },
+  "Maclura": {
+    "pomifera": null,
+    "tricuspidata": null
+  },
+  "Elaegnus": {
+    "angustifolia": null
+  },
+  "Thujopsis": {
+    "dolabrata": null
+  },
+  "Cladastris": {
+    "lutea": null
+  },
+  "Lindera": {
+    "benzoin": null
+  },
+  "Caria": {
+    "illinoinensis": null
+  },
+  "Euonymus": {
+    "europaeus": [
+      "Pfaffenhütchen (Spindelbaum"
+    ]
+  }
+}

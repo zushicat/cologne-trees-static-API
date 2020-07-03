@@ -1,0 +1,524 @@
+{
+  "Kalk": {
+    "mean": 0.73,
+    "median": 0.84,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Flittard": {
+    "mean": 0.43,
+    "median": 0.2,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Stammheim": {
+    "mean": 0.56,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Buchheim": {
+    "mean": 0.7,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Holweide": {
+    "mean": 0.62,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Mülheim": {
+    "mean": 0.7,
+    "median": 0.84,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Buchforst": {
+    "mean": 0.81,
+    "median": 0.94,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "unknown": {
+    "mean": 0.43,
+    "median": 0.5,
+    "min": 0.0,
+    "max": 1.0
+  },
+  "Höhenhaus": {
+    "mean": 0.6,
+    "median": 0.62,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Dünnwald": {
+    "mean": 0.61,
+    "median": 0.78,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Dellbrück": {
+    "mean": 0.52,
+    "median": 0.62,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Deutz": {
+    "mean": 0.65,
+    "median": 0.82,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Humboldt/Gremberg": {
+    "mean": 0.66,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Brück": {
+    "mean": 0.53,
+    "median": 0.62,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Höhenberg": {
+    "mean": 0.69,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Eil": {
+    "mean": 0.49,
+    "median": 0.2,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Rath/Heumar": {
+    "mean": 0.57,
+    "median": 0.62,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Merheim": {
+    "mean": 0.53,
+    "median": 0.62,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Vingst": {
+    "mean": 0.68,
+    "median": 0.84,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Ostheim": {
+    "mean": 0.64,
+    "median": 0.69,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Neubrück": {
+    "mean": 0.42,
+    "median": 0.2,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Gremberghoven": {
+    "mean": 0.65,
+    "median": 0.75,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Neustadt/Nord": {
+    "mean": 0.68,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Riehl": {
+    "mean": 0.61,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Nippes": {
+    "mean": 0.7,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Altstadt-Nord": {
+    "mean": 0.71,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Neuehrenfeld": {
+    "mean": 0.67,
+    "median": 0.69,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Neustadt/Süd": {
+    "mean": 0.68,
+    "median": 0.84,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Altstadt-Süd": {
+    "mean": 0.73,
+    "median": 0.77,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Sülz": {
+    "mean": 0.68,
+    "median": 0.84,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Lindenthal": {
+    "mean": 0.57,
+    "median": 0.6,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Poll": {
+    "mean": 0.66,
+    "median": 0.94,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Zollstock": {
+    "mean": 0.51,
+    "median": 0.62,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Finkenberg": {
+    "mean": 0.68,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Widdersdorf": {
+    "mean": 0.54,
+    "median": 0.62,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Lövenich": {
+    "mean": 0.7,
+    "median": 0.75,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Weiden": {
+    "mean": 0.69,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Müngersdorf": {
+    "mean": 0.68,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Meschenich": {
+    "mean": 0.45,
+    "median": 0.56,
+    "min": 0.06,
+    "max": 0.94
+  },
+  "Rondorf": {
+    "mean": 0.38,
+    "median": 0.19,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Godorf": {
+    "mean": 0.4,
+    "median": 0.2,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Raderthal": {
+    "mean": 0.56,
+    "median": 0.62,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Hahnwald": {
+    "mean": 0.36,
+    "median": 0.2,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Rodenkirchen": {
+    "mean": 0.63,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Raderberg": {
+    "mean": 0.45,
+    "median": 0.5,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Marienburg": {
+    "mean": 0.72,
+    "median": 0.78,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Bayenthal": {
+    "mean": 0.74,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Sürth": {
+    "mean": 0.63,
+    "median": 0.62,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Weiß": {
+    "mean": 0.67,
+    "median": 0.84,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Junkersdorf": {
+    "mean": 0.64,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Klettenberg": {
+    "mean": 0.79,
+    "median": 0.88,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Braunsfeld": {
+    "mean": 0.84,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Ehrenfeld": {
+    "mean": 0.78,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Bocklemünd/Mengenich": {
+    "mean": 0.6,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Ossendorf": {
+    "mean": 0.51,
+    "median": 0.62,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Vogelsang": {
+    "mean": 0.44,
+    "median": 0.2,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Esch/Auweiler": {
+    "mean": 0.6,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Bickendorf": {
+    "mean": 0.73,
+    "median": 0.88,
+    "min": 0.12,
+    "max": 1.0
+  },
+  "Pesch": {
+    "mean": 0.6,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Bilderstöckchen": {
+    "mean": 0.56,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Longerich": {
+    "mean": 0.56,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Fühlingen": {
+    "mean": 0.46,
+    "median": 0.2,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Niehl": {
+    "mean": 0.56,
+    "median": 0.62,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Weidenpesch": {
+    "mean": 0.63,
+    "median": 0.75,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Merkenich": {
+    "mean": 0.49,
+    "median": 0.2,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Chorweiler": {
+    "mean": 0.65,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Lindweiler": {
+    "mean": 0.67,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Seeberg": {
+    "mean": 0.64,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Volkhoven/Weiler": {
+    "mean": 0.78,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Blumenberg": {
+    "mean": 0.66,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Zündorf": {
+    "mean": 0.75,
+    "median": 0.84,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Heimersdorf": {
+    "mean": 0.59,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Porz": {
+    "mean": 0.73,
+    "median": 0.84,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Ensen": {
+    "mean": 0.68,
+    "median": 0.7949999999999999,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Mauenheim": {
+    "mean": 0.74,
+    "median": 0.88,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Lind": {
+    "mean": 0.65,
+    "median": 0.78,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Wahnheide": {
+    "mean": 0.73,
+    "median": 0.69,
+    "min": 0.2,
+    "max": 0.94
+  },
+  "Wahn": {
+    "mean": 0.71,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Grengel": {
+    "mean": 0.46,
+    "median": 0.2,
+    "min": 0.19,
+    "max": 0.94
+  },
+  "Elsdorf": {
+    "mean": 0.76,
+    "median": 0.94,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Urbach": {
+    "mean": 0.64,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Langel": {
+    "mean": 0.63,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Westhoven": {
+    "mean": 0.56,
+    "median": 0.62,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Roggendorf/Thenhoven": {
+    "mean": 0.67,
+    "median": 0.69,
+    "min": 0.19,
+    "max": 1.0
+  },
+  "Hitdorf": {
+    "mean": 0.1,
+    "median": 0.1,
+    "min": 0.1,
+    "max": 0.1
+  },
+  "Efferen": {
+    "mean": 0.06,
+    "median": 0.06,
+    "min": 0.06,
+    "max": 0.06
+  },
+  "Berzdorf": {
+    "mean": 0.06,
+    "median": 0.06,
+    "min": 0.06,
+    "max": 0.06
+  }
+}

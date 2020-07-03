@@ -1,0 +1,122 @@
+{
+  "Kalk": [
+    "Kalk",
+    "Holweide",
+    "Humboldt/Gremberg",
+    "Brück",
+    "Höhenberg",
+    "Rath/Heumar",
+    "Merheim",
+    "Vingst",
+    "Ostheim",
+    "Neubrück",
+    "Gremberghoven"
+  ],
+  "Mülheim": [
+    "Flittard",
+    "Stammheim",
+    "Buchheim",
+    "Holweide",
+    "Mülheim",
+    "Buchforst",
+    "Höhenhaus",
+    "Dünnwald",
+    "Dellbrück",
+    "Höhenberg"
+  ],
+  "Innenstadt": [
+    "Deutz",
+    "Neustadt/Nord",
+    "Riehl",
+    "Altstadt-Nord",
+    "Neustadt/Süd",
+    "Altstadt-Süd",
+    "Poll",
+    "Mülheim",
+    "Bayenthal",
+    "Buchforst"
+  ],
+  "Porz": [
+    "Eil",
+    "Gremberghoven",
+    "Poll",
+    "Finkenberg",
+    "Zündorf",
+    "Porz",
+    "Ensen",
+    "Lind",
+    "Wahnheide",
+    "Wahn",
+    "Grengel",
+    "Elsdorf",
+    "Urbach",
+    "Langel",
+    "Westhoven"
+  ],
+  "Nippes": [
+    "Riehl",
+    "Nippes",
+    "Bilderstöckchen",
+    "Neuehrenfeld",
+    "Longerich",
+    "Fühlingen",
+    "Niehl",
+    "Weidenpesch",
+    "Mauenheim",
+    "Merkenich"
+  ],
+  "Ehrenfeld": [
+    "Neuehrenfeld",
+    "Ehrenfeld",
+    "Braunsfeld",
+    "Bocklemünd/Mengenich",
+    "Ossendorf",
+    "Vogelsang",
+    "Bickendorf",
+    "Pesch"
+  ],
+  "Lindenthal": [
+    "Sülz",
+    "Lindenthal",
+    "Widdersdorf",
+    "Lövenich",
+    "Weiden",
+    "Müngersdorf",
+    "Junkersdorf",
+    "Klettenberg",
+    "Braunsfeld"
+  ],
+  "Rodenkirchen": [
+    "Zollstock",
+    "Meschenich",
+    "Rondorf",
+    "Godorf",
+    "Raderthal",
+    "Hahnwald",
+    "Rodenkirchen",
+    "Raderberg",
+    "Marienburg",
+    "Bayenthal",
+    "Poll",
+    "Sürth",
+    "Weiß",
+    "Klettenberg"
+  ],
+  "Berzdorf": [
+    "Meschenich",
+    "Berzdorf"
+  ],
+  "Chorweiler": [
+    "Esch/Auweiler",
+    "Fühlingen",
+    "Merkenich",
+    "Chorweiler",
+    "Pesch",
+    "Lindweiler",
+    "Seeberg",
+    "Volkhoven/Weiler",
+    "Blumenberg",
+    "Heimersdorf",
+    "Roggendorf/Thenhoven"
+  ]
+}

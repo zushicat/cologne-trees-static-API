@@ -1,0 +1,396 @@
+{
+  "Robinia": [
+    "Scheinakazie",
+    "Kugelrobinie",
+    "Straßen-Akazie",
+    "Kegel-Robinie",
+    "Goldrobinie",
+    "Säulenrobinie",
+    "Korkenzieher-Akazie"
+  ],
+  "Platanus": [
+    "Platane"
+  ],
+  "Sorbus": [
+    "Eberesche",
+    "Mehlbeere",
+    "Vogelbeerbaum",
+    "Gewöhnliche Eberesche",
+    "Schwedische Mehlbeere"
+  ],
+  "Fraxinus": [
+    "Gemeine Esche",
+    "Esche",
+    "Blumen-Esch",
+    "Einblättrige Esche"
+  ],
+  "Tilia": [
+    "Winterlinde",
+    "Silberlinde",
+    "Linde",
+    "Großblättrige Sommerlinde",
+    "Amerikanische Stadt-Linde",
+    "Krimlinde",
+    "Ungarische Silberlinde",
+    "Amerikanische Linde",
+    "Winterlinde Cordaley",
+    "Kaiserlinde",
+    "Winterlinde Dila",
+    "Winterlinde Rancho"
+  ],
+  "Acer": [
+    "Bergahorn",
+    "Ahorn",
+    "Kugelahorn",
+    "Spitzahorn",
+    "Feldahorn",
+    "Silber-Ahorn",
+    "Eschen-Ahorn",
+    "Fächer-Ahorn",
+    "Spitzahorn Cleveland",
+    "Blut-Ahorn",
+    "Rotahorn",
+    "Schmalkroniger Rotahorn",
+    "Kolchischer Ahorn",
+    "Feuerahorn",
+    "Feldahorn Huibers Elegant",
+    "Berg-Ahorn 'Spaethii'"
+  ],
+  "Betula": [
+    "Birke",
+    "Sandbirke",
+    "Papierbirke",
+    "Schwarzbirke",
+    "Farn- oder geschlitzblättrige Birke"
+  ],
+  "Prunus": [
+    "Kirsche",
+    "Trauben-Kirsche",
+    "Japanische Nelken-Kirsche",
+    "Zierkirsche 'Spire'",
+    "Blut-Pflaume",
+    "Späte Traubenkirsche",
+    "Säulenkirsche"
+  ],
+  "Metasequoia": [
+    "Urweltmammutbaum",
+    "Chinesisches Rotholz"
+  ],
+  "Ailanthus": [
+    "Götterbaum"
+  ],
+  "Aesculus": [
+    "Kastanie",
+    "Roßkastanie",
+    "Purpur-Kastanie",
+    "Blut-Kastanie"
+  ],
+  "Ulmus": [
+    "Chinesische Ulme",
+    "Ulme",
+    "Rüster",
+    "Berg-Ulme",
+    "Säulen-Ulme",
+    "Feldulme (procera",
+    "minor",
+    "campestris)"
+  ],
+  "Carpinus": [
+    "Hainbuche",
+    "Weißbuche",
+    "Pyramiden-Hainbuche"
+  ],
+  "Crataegus": [
+    "Crataegus",
+    "Dorn",
+    "Echter Rotdorn",
+    "Weißdorn",
+    "Pflaumenblättriger Weiß-Dorn",
+    "Lederblättriger Weißdorn"
+  ],
+  "Pyrus": [
+    "Birne",
+    "Holzbirne",
+    "Gemeine Birne",
+    "Zier-Birne"
+  ],
+  "Quercus": [
+    "Sommer-Eiche",
+    "Stieleiche",
+    "Eiche",
+    "Amerikanische Rot-Eiche",
+    "Sumpf-Eiche",
+    "Pyramiden-Eiche",
+    "Säulen-Eiche",
+    "Winter-Eiche",
+    "Trauben-Eiche",
+    "Ungarische Eiche",
+    "Immergrüne Eiche"
+  ],
+  "Corylus": [
+    "Hasel",
+    "Baumhasel"
+  ],
+  "Amelanchier": [
+    "Felsenbirne",
+    "Kupfer-Felsenbirne"
+  ],
+  "Catalpa": [
+    "Kugel-Trompetenbaum",
+    "Trompetenbaum"
+  ],
+  "Gleditsia": [
+    "Dreidorniger Lederhülsenbaum",
+    "Gleditschie",
+    "Gleditsie",
+    "Lederhülsenbaum",
+    "Gelbe Gleditschie"
+  ],
+  "Sophora": [
+    "Japanischer Schnurbaum",
+    "Schnurbaum"
+  ],
+  "Fagus": [
+    "Rot-Buche",
+    "Grüne Hängebuche",
+    "Rundblättrige Rotbuche"
+  ],
+  "Malus": [
+    "Zierapfel",
+    "Apfel",
+    "Dreilappiger Apfel",
+    "Apfel Street Parade"
+  ],
+  "Populus": [
+    "Pappel",
+    "Säulenpappel",
+    "Pyramidenpappel",
+    "Schwarzpappel",
+    "Silberpappel",
+    "Kanadische Holz-Pappel",
+    "Zitter-Pappel",
+    "Grau-Pappel"
+  ],
+  "Picea": [
+    "Serbische Fichte",
+    "Fichte",
+    "Rotfichte",
+    "Kaukasus-Fichte",
+    "Sapindus-Fichte"
+  ],
+  "Salix": [
+    "Korkenzieher Weide",
+    "Weide",
+    "Sal-Weide",
+    "Silber-Weide"
+  ],
+  "Larix": [
+    "Lärche",
+    "Europäische Lärche"
+  ],
+  "Pinus": [
+    "Schwarzkiefer",
+    "Kiefer",
+    "Gewöhnliche Kiefer",
+    "?ûsterreichische Schwarzkiefer",
+    "Weymouthkiefrer",
+    "Österreichische Schwarzkiefer",
+    "Tränen-Kiefer"
+  ],
+  "Ginkgo": [
+    "Ginkgobaum",
+    "Fächerblattbaum",
+    "Ginkgo"
+  ],
+  "Cedrus": [
+    "Zeder",
+    "Atlas-Zeder",
+    "Libanon-Zeder"
+  ],
+  "Liquidambar": [
+    "Amberbaum"
+  ],
+  "Alnus": [
+    "Schwarz-Erle",
+    "Rot-Erle",
+    "Italienische Erle",
+    "Späth's Erle",
+    "Erle"
+  ],
+  "Pterocarya": [
+    "Flügelnuß"
+  ],
+  "Rhus": [
+    "Essigbaum"
+  ],
+  "Taxus": [
+    "Eibe"
+  ],
+  "Juglans": [
+    "Schwarznuß",
+    "Walnuß",
+    "Wal-",
+    "Nußbaum"
+  ],
+  "Liriodendron": [
+    "Säulen-Tulpenbaum",
+    "Amerikanischer Tulpenbaum",
+    "Tulpenbaum"
+  ],
+  "Ostrya": [
+    "Hopfenbuche"
+  ],
+  "Phellodendron": [
+    "Echter Korkbaum",
+    "Amur-Korkbaum"
+  ],
+  "Ilex": [
+    "Stechpalme"
+  ],
+  "Parrotia": [
+    "Eisenholzbaum",
+    "Eisenbaum"
+  ],
+  "Hippophae": [
+    "Sanddorn"
+  ],
+  "Koelreuteria": [
+    "Blasenbaum"
+  ],
+  "Cornus": [
+    "Etagen Hartriegel"
+  ],
+  "Sequoia": [
+    "Küstenmammutbaum"
+  ],
+  "Paulownia": [
+    "Blauglockenbaum"
+  ],
+  "Castanea": [
+    "Marone",
+    "Eßkastanie"
+  ],
+  "Abies": [
+    "Coloradotanne",
+    "Tanne"
+  ],
+  "Rhamnus": [
+    "Kreuzdorn"
+  ],
+  "Sambucus": [
+    "Schwarzer Holunder",
+    "Roter Holunder"
+  ],
+  "Magnolia": [
+    "Magnolie"
+  ],
+  "Photinia": [
+    "Lorbeermispel",
+    "Glanzmispel"
+  ],
+  "Verschiedene": [
+    "Verschiedene"
+  ],
+  "Cupressocyparis": [
+    "Leyland-Zypresse Bastardzypresse Riesenzypresse"
+  ],
+  "Chamaecyparis": [
+    "Scheinzypresse"
+  ],
+  "Caragana": null,
+  "Pseudotsuga": [
+    "Douglasfichte",
+    "Douglasie"
+  ],
+  "Cercis": [
+    "Gemeiner Judasbaum",
+    "Herzbaum"
+  ],
+  "Tsuga": [
+    "Kanadische Hemlocktanne"
+  ],
+  "Zelkova": [
+    "Zelkove"
+  ],
+  "Thuja": [
+    "Lebensbaum",
+    "Abendländischer Lebensbaum"
+  ],
+  "Cercidiphyllum": [
+    "Judasblattbaum",
+    "Lebkuchenbaum"
+  ],
+  "Morus": [
+    "Maulbeere",
+    "Weißer Maulbeerbaum"
+  ],
+  "Laburnum": [
+    "Gemeiner Goldregen"
+  ],
+  "Viburnum": null,
+  "Juniperus": [
+    "Wacholder"
+  ],
+  "Albizia": null,
+  "Araucaria": null,
+  "Pistacia": null,
+  "Carya": null,
+  "Buxus": null,
+  "Torreya": null,
+  "Cryptomeria": null,
+  "Cunningamia": null,
+  "Cupressus": null,
+  "Tetradium": null,
+  "Ficus": null,
+  "Cydonia": null,
+  "Zanthoxylum": null,
+  "Davidia": null,
+  "Sciadopitis": null,
+  "Cefalotaxus": null,
+  "Euodia": null,
+  "Nyssa": null,
+  "Cephalanthus": null,
+  "Taxodium": [
+    "Sumpfzypresse"
+  ],
+  "Crataegomespilus": null,
+  "Calocedro": null,
+  "Sycopsis": null,
+  "Notofagus": null,
+  "Poncirus": null,
+  "Hamamelis": null,
+  "Sinowilsonia": null,
+  "Ptelea": null,
+  "Chitalpa": null,
+  "Chimonanthus": null,
+  "Celtis": [
+    "Südlicher Zürgelbaum",
+    "Amerikanischer Zürgelbaum"
+  ],
+  "Clerodendrum": null,
+  "Eriobotrya": null,
+  "Trachycarpos": null,
+  "Stewartia": null,
+  "Alangium": null,
+  "Broussonetia": null,
+  "Idesia": null,
+  "Diospyros": null,
+  "Gymnocladus": null,
+  "Trochodendron": null,
+  "Fontanesia": null,
+  "Syringa": null,
+  "Sequoiadendron": [
+    "Mammutbaum"
+  ],
+  "Eucommia": null,
+  "Mespilus": null,
+  "Maclura": null,
+  "Elaegnus": null,
+  "Thujopsis": null,
+  "Cladastris": null,
+  "Lindera": null,
+  "Caria": null,
+  "Euonymus": [
+    "Pfaffenhütchen (Spindelbaum"
+  ]
+}
