@@ -1,12 +1,46 @@
 import json
 from statistics import mean, median
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 from _save_endpoint_data import write_endpoint_data
 from _utils import clean_key
 
+from SPARQLWrapper import SPARQLWrapper, JSON
+
 
 ENDPOINT_GROUP = "meta"
+
+
+def _request_genus_from_wikidata(request_str: str) -> str:
+    result_obj: Optional[Dict[str, str]] = None
+    
+    sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
+
+    query = """
+        SELECT ?item ?itemLabel WHERE {
+            ?item wdt:P225 \"""" + request_str + """\" .
+            ?item wdt:P105 wd:Q34740.
+            ?item wdt:P171+ wd:Q756 .
+            hint:Prior hint:gearing "forward" .
+            SERVICE wikibase:label { bd:serviceParam wikibase:language "de". }
+        }
+        LIMIT 1
+    """
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    results = sparql.query().convert()
+    
+    #try:
+    for result in results["results"]["bindings"]:
+        result_obj = {
+            "wikidata_uri": result["item"]["value"],
+            "name_german": result["itemLabel"]["value"]
+        }
+        break
+    #except:
+    #    pass
+
+    return result_obj
 
 
 def _completeness(tree_data: List[Dict[str, Any]]) -> Dict[str, List[str]]:
@@ -131,6 +165,30 @@ def _suburb_data_completeness(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]
 # taxonomy
 # ************
 def _genus_name_german(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+    names_list: Dict[str, Dict[str, str]] = {}
+    already_requested: List[str] = []
+    for i, tree in enumerate(tree_data):
+        genus_name = tree["tree_taxonomy"]["genus"]
+        if genus_name is None:
+            continue
+
+        if genus_name in already_requested:
+            continue
+
+        if names_list.get(genus_name) is None:
+            try:
+                names_list[genus_name] = _request_genus_from_wikidata(genus_name)
+                if names_list[genus_name] is None:
+                    names_list[genus_name] = _request_genus_from_wikidata(f"x{genus_name}")
+                already_requested.append(genus_name)
+            except Exception as e:
+                # print(e)
+                pass
+
+    return names_list
+
+
+def _genus_name_german_from_data(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     names_list: Dict[str, int] = {}
     for tree in tree_data:
         genus_name = tree["tree_taxonomy"]["genus"]
