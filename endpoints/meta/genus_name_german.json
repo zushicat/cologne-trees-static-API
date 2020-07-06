@@ -1,7 +1,7 @@
 {
-  "Platanus": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q163025",
-    "name_german": "Platanen"
+  "Robinia": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q472943",
+    "name_german": "Robinien"
   },
   "Sorbus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q157964",
@@ -10,10 +10,6 @@
   "Fraxinus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q128887",
     "name_german": "Eschen"
-  },
-  "Tilia": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q127849",
-    "name_german": "Linden"
   },
   "Acer": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q42292",
@@ -31,10 +27,6 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q1825748",
     "name_german": "Metasequoia"
   },
-  "Ailanthus": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q160580",
-    "name_german": "Götterbäume"
-  },
   "Aesculus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q158752",
     "name_german": "Rosskastanien"
@@ -43,17 +35,13 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q131113",
     "name_german": "Ulmen"
   },
-  "Robinia": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q472943",
-    "name_german": "Robinien"
+  "Tilia": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q127849",
+    "name_german": "Linden"
   },
   "Carpinus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q158513",
     "name_german": "Hainbuchen"
-  },
-  "Crataegus": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q132557",
-    "name_german": "Weißdorne"
   },
   "Pyrus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q434",
@@ -67,9 +55,9 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q145889",
     "name_german": "Hasel"
   },
-  "Amelanchier": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q156957",
-    "name_german": "Felsenbirnen"
+  "Platanus": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q163025",
+    "name_german": "Platanen"
   },
   "Catalpa": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q158072",
@@ -79,13 +67,13 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q161250",
     "name_german": "Gleditschien"
   },
-  "Fagus": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q25403",
-    "name_german": "Buchen"
+  "Sophora": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q309213",
+    "name_german": "Sophora"
   },
-  "Malus": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q104819",
-    "name_german": "Äpfel"
+  "Crataegus": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q132557",
+    "name_german": "Weißdorne"
   },
   "Populus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q25356",
@@ -99,17 +87,13 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q36050",
     "name_german": "Weiden"
   },
-  "Larix": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q25618",
-    "name_german": "Lärchen"
-  },
-  "Sophora": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q309213",
-    "name_german": "Sophora"
-  },
   "Pinus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q12024",
     "name_german": "Kiefern"
+  },
+  "Picea": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q26782",
+    "name_german": "Fichten"
   },
   "Ginkgo": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q149461",
@@ -123,17 +107,29 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q183543",
     "name_german": "Amberbäume"
   },
+  "Amelanchier": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q156957",
+    "name_german": "Felsenbirnen"
+  },
   "Alnus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q25239",
     "name_german": "Erlen"
   },
-  "Taxus": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q27355",
-    "name_german": "Eiben"
+  "Fagus": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q25403",
+    "name_german": "Buchen"
   },
-  "Picea": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q26782",
-    "name_german": "Fichten"
+  "Pterocarya": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q1420126",
+    "name_german": "Flügelnüsse"
+  },
+  "Larix": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q25618",
+    "name_german": "Lärchen"
+  },
+  "Ailanthus": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q160580",
+    "name_german": "Götterbäume"
   },
   "Juglans": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q2453469",
@@ -143,62 +139,66 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q157236",
     "name_german": "Tulpenbäume"
   },
-  "Pterocarya": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q1420126",
-    "name_german": "Flügelnüsse"
-  },
   "Ostrya": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q605290",
     "name_german": "Hopfenbuchen"
+  },
+  "Phellodendron": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q1539986",
+    "name_german": "Korkbäume"
   },
   "Ilex": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q117085",
     "name_german": "Stechpalmen"
   },
+  "Koelreuteria": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q132703",
+    "name_german": "Koelreuteria"
+  },
   "Cornus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q159545",
     "name_german": "Hartriegel"
-  },
-  "Magnolia": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q157017",
-    "name_german": "Magnolien"
   },
   "Sequoia": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q1975652",
     "name_german": "Sequoia"
   },
-  "Paulownia": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q165173",
-    "name_german": "Paulownien"
+  "Taxus": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q27355",
+    "name_german": "Eiben"
   },
-  "Castanea": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q129324",
-    "name_german": "Kastanien"
+  "Malus": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q104819",
+    "name_german": "Äpfel"
   },
-  "Rhamnus": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q79190",
-    "name_german": "Kreuzdorn"
+  "Magnolia": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q157017",
+    "name_german": "Magnolien"
   },
   "Abies": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q25350",
     "name_german": "Tannen"
-  },
-  "Photinia": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q1070845",
-    "name_german": "Glanzmispeln"
   },
   "Verschiedene": null,
   "Cupressocyparis": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q9197543",
     "name_german": "×Cupressocyparis"
   },
-  "Caragana": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q849443",
-    "name_german": "Erbsensträucher"
+  "Chamaecyparis": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q147791",
+    "name_german": "Scheinzypressen"
+  },
+  "Castanea": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q129324",
+    "name_german": "Kastanien"
   },
   "Sambucus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q131448",
     "name_german": "Holunder"
+  },
+  "Caragana": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q849443",
+    "name_german": "Erbsensträucher"
   },
   "Pseudotsuga": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q158771",
@@ -212,13 +212,17 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q29033",
     "name_german": "Judasbäume"
   },
-  "Zelkova": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q187454",
-    "name_german": "Zelkoven"
+  "Paulownia": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q165173",
+    "name_german": "Paulownien"
   },
-  "Koelreuteria": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q132703",
-    "name_german": "Koelreuteria"
+  "Tsuga": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q739430",
+    "name_german": "Hemlocktannen"
+  },
+  "Thuja": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q147255",
+    "name_german": "Lebensbäume"
   },
   "Cercidiphyllum": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q858028",
@@ -228,21 +232,9 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q44789",
     "name_german": "Maulbeeren"
   },
-  "Thuja": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q147255",
-    "name_german": "Lebensbäume"
-  },
-  "Tsuga": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q739430",
-    "name_german": "Hemlocktannen"
-  },
-  "Chamaecyparis": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q147791",
-    "name_german": "Scheinzypressen"
-  },
-  "Laburnum": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q147184",
-    "name_german": "Goldregen"
+  "Zelkova": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q187454",
+    "name_german": "Zelkoven"
   },
   "Viburnum": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q158492",
@@ -255,6 +247,10 @@
   "Rhus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q157649",
     "name_german": "Rhus"
+  },
+  "Rhamnus": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q79190",
+    "name_german": "Kreuzdorn"
   },
   "Albizia": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q664945",
@@ -353,10 +349,6 @@
     "wikidata_uri": "http://www.wikidata.org/entity/Q612028",
     "name_german": "Kleeulmen"
   },
-  "Phellodendron": {
-    "wikidata_uri": "http://www.wikidata.org/entity/Q1539986",
-    "name_german": "Korkbäume"
-  },
   "Chitalpa": null,
   "Chimonanthus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q2446990",
@@ -398,6 +390,10 @@
   "Gymnocladus": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q429179",
     "name_german": "Geweihbäume"
+  },
+  "Laburnum": {
+    "wikidata_uri": "http://www.wikidata.org/entity/Q147184",
+    "name_german": "Goldregen"
   },
   "Trochodendron": {
     "wikidata_uri": "http://www.wikidata.org/entity/Q1857662",
