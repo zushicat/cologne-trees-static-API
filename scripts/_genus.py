@@ -93,7 +93,7 @@ def _count_trees(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[
         if genus_name is None:
             if use_prediction is True:
                 try:
-                    age_group = tree["predictions"]["by_radius_prediction"]["genus"]
+                    genus_name = tree["predictions"]["by_radius_prediction"]["genus"]
                 except:
                     pass
         genus_name = clean_key(genus_name)
