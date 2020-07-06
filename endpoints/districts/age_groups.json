@@ -1,37 +1,37 @@
 {
   "Kalk": {
     "1": {
-      "absolute": 1339,
+      "absolute": 1349,
       "percentage": 0.12
     },
     "unknown": {
-      "absolute": 6136,
-      "percentage": 0.56
+      "absolute": 6243,
+      "percentage": 0.57
     },
     "0": {
-      "absolute": 1104,
+      "absolute": 1111,
       "percentage": 0.1
     },
     "2": {
-      "absolute": 2320,
+      "absolute": 2322,
       "percentage": 0.21
     }
   },
   "Mülheim": {
     "2": {
-      "absolute": 2965,
+      "absolute": 2966,
       "percentage": 0.24
     },
     "unknown": {
-      "absolute": 6436,
+      "absolute": 6596,
       "percentage": 0.52
     },
     "1": {
-      "absolute": 1679,
-      "percentage": 0.14
+      "absolute": 1681,
+      "percentage": 0.13
     },
     "0": {
-      "absolute": 1356,
+      "absolute": 1350,
       "percentage": 0.11
     }
   },
@@ -41,7 +41,7 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 19281,
+      "absolute": 19303,
       "percentage": 0.97
     },
     "1": {
@@ -55,109 +55,109 @@
   },
   "Innenstadt": {
     "2": {
-      "absolute": 5492,
+      "absolute": 5547,
       "percentage": 0.3
     },
     "1": {
-      "absolute": 2687,
+      "absolute": 2767,
       "percentage": 0.15
     },
     "0": {
-      "absolute": 2039,
+      "absolute": 2070,
       "percentage": 0.11
     },
     "unknown": {
-      "absolute": 8199,
+      "absolute": 8353,
       "percentage": 0.45
     }
   },
   "Porz": {
     "unknown": {
-      "absolute": 4365,
+      "absolute": 4421,
       "percentage": 0.52
     },
     "0": {
-      "absolute": 1106,
+      "absolute": 1103,
       "percentage": 0.13
     },
     "2": {
-      "absolute": 1866,
+      "absolute": 1870,
       "percentage": 0.22
     },
     "1": {
-      "absolute": 1117,
+      "absolute": 1121,
       "percentage": 0.13
     }
   },
   "Nippes": {
     "0": {
-      "absolute": 1331,
+      "absolute": 1370,
       "percentage": 0.09
     },
     "1": {
-      "absolute": 1829,
+      "absolute": 1879,
       "percentage": 0.13
     },
     "unknown": {
-      "absolute": 8062,
-      "percentage": 0.57
+      "absolute": 8118,
+      "percentage": 0.56
     },
     "2": {
-      "absolute": 3032,
+      "absolute": 3112,
       "percentage": 0.21
     }
   },
   "Ehrenfeld": {
     "0": {
-      "absolute": 1054,
+      "absolute": 1070,
       "percentage": 0.08
     },
     "2": {
-      "absolute": 3428,
+      "absolute": 3425,
       "percentage": 0.26
     },
     "unknown": {
-      "absolute": 7168,
-      "percentage": 0.54
+      "absolute": 7260,
+      "percentage": 0.55
     },
     "1": {
-      "absolute": 1511,
+      "absolute": 1522,
       "percentage": 0.11
     }
   },
   "Lindenthal": {
     "1": {
-      "absolute": 2816,
+      "absolute": 2854,
       "percentage": 0.13
     },
     "unknown": {
-      "absolute": 12247,
+      "absolute": 12479,
       "percentage": 0.55
     },
     "0": {
-      "absolute": 2261,
+      "absolute": 2293,
       "percentage": 0.1
     },
     "2": {
-      "absolute": 5026,
+      "absolute": 5070,
       "percentage": 0.22
     }
   },
   "Rodenkirchen": {
     "unknown": {
-      "absolute": 8212,
-      "percentage": 0.66
+      "absolute": 8611,
+      "percentage": 0.65
     },
     "0": {
-      "absolute": 598,
+      "absolute": 656,
       "percentage": 0.05
     },
     "2": {
-      "absolute": 2401,
-      "percentage": 0.19
+      "absolute": 2603,
+      "percentage": 0.2
     },
     "1": {
-      "absolute": 1293,
+      "absolute": 1386,
       "percentage": 0.1
     }
   },
@@ -169,19 +169,19 @@
   },
   "Chorweiler": {
     "unknown": {
-      "absolute": 8418,
+      "absolute": 8547,
       "percentage": 0.58
     },
     "2": {
-      "absolute": 2050,
+      "absolute": 2061,
       "percentage": 0.14
     },
     "1": {
-      "absolute": 2279,
+      "absolute": 2301,
       "percentage": 0.16
     },
     "0": {
-      "absolute": 1781,
+      "absolute": 1798,
       "percentage": 0.12
     }
   }

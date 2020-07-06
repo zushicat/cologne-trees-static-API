@@ -1,26 +1,26 @@
 {
   "unknown": {
-    "absolute": 6201,
-    "percentage": 0.79
+    "absolute": 6207,
+    "percentage": 0.8
   },
   "Carpinus": {
-    "absolute": 89,
+    "absolute": 87,
     "percentage": 0.01
   },
   "Robinia": {
-    "absolute": 75,
+    "absolute": 73,
     "percentage": 0.01
   },
   "Acer": {
-    "absolute": 290,
-    "percentage": 0.04
+    "absolute": 267,
+    "percentage": 0.03
   },
   "Quercus": {
-    "absolute": 65,
+    "absolute": 64,
     "percentage": 0.01
   },
   "Corylus": {
-    "absolute": 21,
+    "absolute": 13,
     "percentage": 0.0
   },
   "Amelanchier": {
@@ -28,15 +28,15 @@
     "percentage": 0.0
   },
   "Platanus": {
-    "absolute": 169,
+    "absolute": 163,
     "percentage": 0.02
   },
   "Tilia": {
-    "absolute": 517,
-    "percentage": 0.07
+    "absolute": 478,
+    "percentage": 0.06
   },
   "Prunus": {
-    "absolute": 70,
+    "absolute": 46,
     "percentage": 0.01
   },
   "Salix": {
@@ -44,19 +44,15 @@
     "percentage": 0.0
   },
   "Betula": {
-    "absolute": 40,
-    "percentage": 0.01
+    "absolute": 30,
+    "percentage": 0.0
   },
   "Fraxinus": {
     "absolute": 19,
     "percentage": 0.0
   },
-  "Fagus": {
-    "absolute": 11,
-    "percentage": 0.0
-  },
   "Crataegus": {
-    "absolute": 17,
+    "absolute": 16,
     "percentage": 0.0
   },
   "Catalpa": {
@@ -64,7 +60,7 @@
     "percentage": 0.0
   },
   "Juglans": {
-    "absolute": 9,
+    "absolute": 8,
     "percentage": 0.0
   },
   "Pyrus": {
@@ -72,11 +68,11 @@
     "percentage": 0.0
   },
   "Ailanthus": {
-    "absolute": 19,
+    "absolute": 18,
     "percentage": 0.0
   },
   "Sorbus": {
-    "absolute": 22,
+    "absolute": 13,
     "percentage": 0.0
   },
   "Gleditsia": {
@@ -88,19 +84,15 @@
     "percentage": 0.0
   },
   "Aesculus": {
-    "absolute": 39,
+    "absolute": 35,
+    "percentage": 0.0
+  },
+  "Fagus": {
+    "absolute": 9,
     "percentage": 0.0
   },
   "Ginkgo": {
     "absolute": 4,
-    "percentage": 0.0
-  },
-  "Sophora": {
-    "absolute": 6,
-    "percentage": 0.0
-  },
-  "Verschiedene": {
-    "absolute": 26,
     "percentage": 0.0
   },
   "Sambucus": {
@@ -112,7 +104,7 @@
     "percentage": 0.0
   },
   "Liquidambar": {
-    "absolute": 6,
+    "absolute": 4,
     "percentage": 0.0
   },
   "Parrotia": {
@@ -125,6 +117,10 @@
   },
   "Picea": {
     "absolute": 4,
+    "percentage": 0.0
+  },
+  "Verschiedene": {
+    "absolute": 25,
     "percentage": 0.0
   },
   "Taxus": {
@@ -155,12 +151,12 @@
     "absolute": 1,
     "percentage": 0.0
   },
-  "Ulmus": {
-    "absolute": 2,
+  "Sophora": {
+    "absolute": 4,
     "percentage": 0.0
   },
-  "Caragana": {
-    "absolute": 1,
+  "Ulmus": {
+    "absolute": 2,
     "percentage": 0.0
   },
   "Ilex": {
@@ -177,10 +173,6 @@
   },
   "Alnus": {
     "absolute": 5,
-    "percentage": 0.0
-  },
-  "Cedrus": {
-    "absolute": 1,
     "percentage": 0.0
   }
 }

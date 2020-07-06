@@ -107,6 +107,10 @@
   "padus": [
     "Trauben-Kirsche"
   ],
+  "persica": [
+    "Eisenbaum",
+    "Eisenholzbaum"
+  ],
   "matsudana": [
     "Korkenzieher Weide"
   ],
@@ -118,8 +122,8 @@
     "Schwarzpappel",
     "Schwarzer Holunder",
     "Schwarzbirke",
-    "?ûsterreichische Schwarzkiefer",
-    "Österreichische Schwarzkiefer"
+    "Österreichische Schwarzkiefer",
+    "?ûsterreichische Schwarzkiefer"
   ],
   "triacanthos": [
     "Gleditsie",
@@ -223,15 +227,15 @@
   "calleriana": [
     "Zier-Birne"
   ],
-  "persica": [
-    "Eisenholzbaum",
-    "Eisenbaum"
-  ],
   "monogyna": [
     "Weißdorn"
   ],
   "flava": null,
   "colurnoides": null,
+  "officinalis": null,
+  "kobus": [
+    "Magnolie"
+  ],
   "rhamnoides": [
     "Sanddorn"
   ],
@@ -296,9 +300,6 @@
   "lavallei": [
     "Lederblättriger Weißdorn"
   ],
-  "kobus": [
-    "Magnolie"
-  ],
   "serotina": [
     "Späte Traubenkirsche"
   ],
@@ -310,10 +311,12 @@
   "atlantica": [
     "Atlas-Zeder"
   ],
+  "mas": null,
   "fraseri": [
     "Lorbeermispel",
     "Glanzmispel"
   ],
+  "soulangiana": null,
   "sylvestris": [
     "Gewöhnliche Kiefer"
   ],
@@ -324,7 +327,6 @@
     "Rotahorn",
     "Schmalkroniger Rotahorn"
   ],
-  "cilicica": null,
   "cappadocicum": [
     "Kolchischer Ahorn"
   ],
@@ -347,6 +349,7 @@
     "Gemeiner Judasbaum",
     "Herzbaum"
   ],
+  "omorica": null,
   "decidua": [
     "Europäische Lärche"
   ],
@@ -366,7 +369,6 @@
     "Weymouthkiefrer"
   ],
   "menziesii": null,
-  "mas": null,
   "plicata": null,
   "deodara": null,
   "turneri": [
@@ -419,7 +421,6 @@
   "shirasawanun": null,
   "bungeana": null,
   "californica": null,
-  "omorica": null,
   "verticillata": null,
   "fortunei": null,
   "ernestii": null,
@@ -457,6 +458,7 @@
   "alleghaniensis": null,
   "pennsylvanica": null,
   "veitchii": null,
+  "cilicica": null,
   "corylifolia": null,
   "sandbergii": null,
   "grossa": null,
@@ -491,7 +493,6 @@
   "speciosa": null,
   "bungei": null,
   "virginiana": null,
-  "officinalis": null,
   "sanguinea": null,
   "asperifolia": null,
   "kousa": null,
@@ -521,7 +522,6 @@
   "armeniaca": null,
   "loebneri": null,
   "lilliflora": null,
-  "soulangiana": null,
   "germanica": null,
   "spinosa": null,
   "toringoides": null,

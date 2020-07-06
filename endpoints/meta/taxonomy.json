@@ -453,12 +453,18 @@
     "abies": [
       "Rotfichte"
     ],
+    "omorica": null,
     "pungens": null,
     "purpurea": null,
-    "omorica": null,
     "orientalis": [
       "Kaukasus-Fichte",
       "Sapindus-Fichte"
+    ]
+  },
+  "Parrotia": {
+    "persica": [
+      "Eisenbaum",
+      "Eisenholzbaum"
     ]
   },
   "Salix": {
@@ -486,8 +492,8 @@
   "Pinus": {
     "nigra": [
       "Schwarzkiefer",
-      "?ûsterreichische Schwarzkiefer",
-      "Österreichische Schwarzkiefer"
+      "Österreichische Schwarzkiefer",
+      "?ûsterreichische Schwarzkiefer"
     ],
     "unknown": [
       "Kiefer"
@@ -613,11 +619,35 @@
     ],
     "unknown": null
   },
-  "Parrotia": {
-    "persica": [
-      "Eisenholzbaum",
-      "Eisenbaum"
+  "Cornus": {
+    "officinalis": null,
+    "unknown": null,
+    "mas": null,
+    "florida": null,
+    "sanguinea": null,
+    "asperifolia": null,
+    "kousa": null,
+    "macrophylla": null,
+    "alternifolia": [
+      "Etagen Hartriegel"
     ]
+  },
+  "Magnolia": {
+    "kobus": [
+      "Magnolie"
+    ],
+    "soulangiana": null,
+    "unknown": [
+      "Magnolie"
+    ],
+    "grandiflora": null,
+    "zenii": null,
+    "hybride": null,
+    "macrophylla": null,
+    "acumunata": null,
+    "loebneri": null,
+    "sinensis": null,
+    "lilliflora": null
   },
   "Hippophae": {
     "rhamnoides": [
@@ -627,19 +657,6 @@
   "Koelreuteria": {
     "paniculata": [
       "Blasenbaum"
-    ]
-  },
-  "Cornus": {
-    "unknown": null,
-    "mas": null,
-    "florida": null,
-    "officinalis": null,
-    "sanguinea": null,
-    "asperifolia": null,
-    "kousa": null,
-    "macrophylla": null,
-    "alternifolia": [
-      "Etagen Hartriegel"
     ]
   },
   "Sequoia": {
@@ -669,10 +686,10 @@
     "unknown": [
       "Tanne"
     ],
-    "cilicica": null,
     "alba": null,
     "ernestii": null,
     "veitchii": null,
+    "cilicica": null,
     "homolepis": null,
     "numidica": null
   },
@@ -690,23 +707,6 @@
     "racemosa": [
       "Roter Holunder"
     ]
-  },
-  "Magnolia": {
-    "kobus": [
-      "Magnolie"
-    ],
-    "unknown": [
-      "Magnolie"
-    ],
-    "grandiflora": null,
-    "zenii": null,
-    "hybride": null,
-    "macrophylla": null,
-    "acumunata": null,
-    "loebneri": null,
-    "sinensis": null,
-    "lilliflora": null,
-    "soulangiana": null
   },
   "Photinia": {
     "fraseri": [
