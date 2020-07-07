@@ -64,6 +64,24 @@ def _completeness(tree_data: List[Dict[str, Any]]) -> Dict[str, List[str]]:
     return completeness_list
 
 
+def _overall_count(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> Dict[str, List[str]]:
+    tree_count: Dict[str, List[str]] = {
+        "existing_trees_before_2020": 0,
+        "existing_trees_2020_only": 0,
+        "cut_down_trees": len(tree_data_2017),
+        "percentage_cut_down_since_2017": 0
+    }
+    for tree in tree_data_2020:
+        if tree["found_in_dataset"]["2017"] is True:
+            tree_count["existing_trees_before_2020"] += 1
+        else:
+            tree_count["existing_trees_2020_only"] += 1
+    
+    tree_count["percentage_cut_down_since_2017"] = round(tree_count["cut_down_trees"] / (tree_count["existing_trees_before_2020"] + tree_count["cut_down_trees"]), 2)
+    
+    return tree_count
+
+
 # ************
 # geo
 # ************
@@ -356,3 +374,7 @@ def create_meta_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: 
     dat = _completeness(tree_data_2020)
     write_endpoint_data(dat, ENDPOINT_GROUP, "data_completeness")
 
+    # ***
+    #
+    dat = _overall_count(tree_data_2017, tree_data_2020)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "overall_tree_count")
