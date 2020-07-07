@@ -116,4 +116,5 @@ meta / taxonomy
 meta / district_data_completeness
 meta / suburb_data_completeness
 meta / data_completeness
+meta / overall_tree_count
 ```
