@@ -19,6 +19,8 @@ The completeness of the underlaying datasets varies, hence blind spots are predi
 - agegroup
 - genus
 
+Only predictions with a probability >= 0.5 are taken into account.    
+
 If available, these predicted versions can get requested seperately (i.e. "tree_count" vs. "tree_count_with_predictions").    
 
 Additionally, the assumption is made that if a tree is occuring in the dataset of 2017 but not in the dataset of 2020, then this tree most likely is cut down at some point within the 3 years timespan.   
