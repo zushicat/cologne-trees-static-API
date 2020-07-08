@@ -12,7 +12,7 @@ https://zushicat.github.io/cologne-trees-static-API/endpoints/{group name}/{endp
 
 Example:
 ```
-https://zushicat.github.io/cologne-trees-static-API/endpoints/agegroups/counted_with_predictions.json
+https://zushicat.github.io/cologne-trees-static-API/endpoints/genus/tree_count.json
 ```
 
 The completeness of the underlaying datasets varies, hence blind spots are predicted by different methods, applied to:
