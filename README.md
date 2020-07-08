@@ -2,7 +2,7 @@
 A static API to request aggregated information about city trees in Cologne, Germany by endpoints.
 
 For information about the underlaying data used for this aggregation, please refer to:    
-https://github.com/zushicat/cologne-trees-REST-API    
+https://github.com/zushicat/cologne-trees-REST-API/tree/master/data_preparation    
 
 
 You can access an enpoint by requesting:    
