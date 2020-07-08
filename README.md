@@ -31,7 +31,7 @@ Otherwise, only trees occuring in the newest 2020 dataset are used in the respon
 
 
 ## Endpoints
-The endpoints are bundles in 5 groups:
+The endpoints are bundled in 5 groups:
 - agegroups
 - districts
 - suburbs
