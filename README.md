@@ -102,6 +102,7 @@ genus / district
 genus / district_with_prediction
 genus / age_groups
 genus / age_groups_with_prediction
+genus / ground_truth_bole_radius_year_sprout
 ```
 
 ### meta

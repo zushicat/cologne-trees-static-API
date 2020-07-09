@@ -111,6 +111,36 @@ def _count_trees(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[
     return counted_trees
 
 
+def _bole_radius_count_year_sprout(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+    tree_list: Dict[str, Dict[str, Dict[str, int]]] = {}
+    
+    for tree in tree_data:
+        genus_name = tree["tree_taxonomy"]["genus"]
+        if genus_name is None:
+            continue
+        
+        bole_radius = tree["tree_measures"]["bole_radius"]
+        if bole_radius is None:
+            continue
+
+        year_sprout = tree["tree_age"]["year_sprout"]
+        if year_sprout is None:
+            continue
+
+        if tree_list.get(genus_name) is None:
+            tree_list[genus_name]: Dict[str, Dict[str, int]] = {}
+        
+        if tree_list[genus_name].get(bole_radius) is None:
+            tree_list[genus_name][bole_radius]: Dict[str, int] = {}
+
+        if tree_list[genus_name][bole_radius].get(year_sprout) is None:
+            tree_list[genus_name][bole_radius][year_sprout]: int = 0
+        
+        tree_list[genus_name][bole_radius][year_sprout] += 1
+
+    return tree_list
+
+
 def create_genus_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
     # ***
     #
@@ -144,3 +174,7 @@ def create_genus_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020:
     dat = _count_genus_by_age_group(tree_data_2020, True)
     write_endpoint_data(dat, ENDPOINT_GROUP, "age_groups_with_prediction")
     
+    # ***
+    #
+    dat = _bole_radius_count_year_sprout(tree_data_2020)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "ground_truth_bole_radius_year_sprout")
