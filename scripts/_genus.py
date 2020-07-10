@@ -115,6 +115,9 @@ def _bole_radius_count_year_sprout(tree_data: List[Dict[str, Any]]) -> Dict[str,
     tree_list: Dict[str, Dict[str, Dict[str, int]]] = {}
     
     for tree in tree_data:
+        if tree["found_in_dataset"]["2017"] is False:
+            continue
+
         genus_name = tree["tree_taxonomy"]["genus"]
         if genus_name is None:
             continue
@@ -126,7 +129,7 @@ def _bole_radius_count_year_sprout(tree_data: List[Dict[str, Any]]) -> Dict[str,
         year_sprout = tree["tree_age"]["year_sprout"]
         if year_sprout is None:
             continue
-
+        
         if tree_list.get(genus_name) is None:
             tree_list[genus_name]: Dict[str, Dict[str, int]] = {}
         
