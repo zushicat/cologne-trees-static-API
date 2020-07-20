@@ -50,7 +50,7 @@ The ages of trees (if known) are grouped as followed:
 
 Or "unknown".    
 
-("genus_with_predictions" uses predictions on both agegroups and genus.)    
+These values are not derived from the (usually) estimated age values in the original datasets but predicted with a regression of genus and bole radius (X) and age of a tree (y).
 
 ```
 agegroups / tree_count
@@ -73,7 +73,6 @@ districts / genus
 districts / genus_with_predictions
 districts / age_groups
 districts / age_groups_with_predictions
-districts / density_neighbours_radius_50
 ```
 
 ### suburbs
@@ -87,7 +86,6 @@ suburbs / genus
 suburbs / genus_with_predictions
 suburbs / age_groups
 suburbs / age_groups_with_predictions
-suburbs / density_neighbours_radius_50
 ```
 
 ### genus
@@ -112,9 +110,11 @@ Usefull meta-information to contextualize requests of different groups.
 meta / districts_suburbs
 meta / suburbs_districts
 meta / genus_name_german
-meta / species_name_german
 meta / name_german_genus
-meta / name_german_species
+meta / genus_species_name_german
+meta / species_name_german
+meta / species_name_german_genus
+meta / species_name_german_species
 meta / taxonomy
 meta / district_data_completeness
 meta / suburb_data_completeness
