@@ -6,6 +6,7 @@ from _utils import clean_key
 
 
 ENDPOINT_GROUP = "agegroups"
+MIN_PROBABILITY = 0.5
 
 
 def _count_trees(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[str, Any]:
@@ -15,12 +16,10 @@ def _count_trees(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[
         if age_group is None:
             if use_prediction is True:
                 try:
-                    age_group = tree["predictions"]["age_prediction"]["age_group_2020"]
+                    if tree["predictions"]["by_radius_prediction"]["age_group"]["probability"] >= MIN_PROBABILITY:
+                        age_group = tree["predictions"]["by_radius_prediction"]["age_group"]["prediction"]
                 except:
-                    try:
-                        age_group = tree["predictions"]["by_radius_prediction"]["age_group_2020"]
-                    except:
-                        pass
+                    pass
         
         age_group = clean_key(age_group)
 
@@ -44,19 +43,17 @@ def _count_age_group_by_district(tree_data: List[Dict[str, Any]], use_prediction
         if age_group is None:
             if use_prediction is True:
                 try:
-                    age_group = tree["predictions"]["age_prediction"]["age_group_2020"]
+                    if tree["predictions"]["by_radius_prediction"]["age_group"]["probability"] >= MIN_PROBABILITY:
+                        age_group = tree["predictions"]["by_radius_prediction"]["age_group"]["prediction"]
                 except:
-                    try:
-                        age_group = tree["predictions"]["by_radius_prediction"]["age_group_2020"]
-                    except:
-                        pass
+                    pass
         
         age_group = clean_key(age_group)
 
         if counted_trees.get(age_group) is None:
             counted_trees[age_group]: Dict[str, Any] = {}
 
-        district_name = clean_key(tree["geo_info"]["city_district"])
+        district_name = clean_key(tree["geo_info"]["district"])
 
         if counted_trees[age_group].get(district_name) is None:
             counted_trees[age_group][district_name]: Dict[str, Any] = {
@@ -80,12 +77,10 @@ def _count_age_group_by_genus(tree_data: List[Dict[str, Any]], use_prediction: b
         if age_group is None:
             if use_prediction is True:
                 try:
-                    age_group = tree["predictions"]["age_prediction"]["age_group_2020"]
+                    if tree["predictions"]["by_radius_prediction"]["age_group"]["probability"] >= MIN_PROBABILITY:
+                        age_group = tree["predictions"]["by_radius_prediction"]["age_group"]["prediction"]
                 except:
-                    try:
-                        age_group = tree["predictions"]["by_radius_prediction"]["age_group_2020"]
-                    except:
-                        pass
+                    pass
         
         age_group = clean_key(age_group)
         

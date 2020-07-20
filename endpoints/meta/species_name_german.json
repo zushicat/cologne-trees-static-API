@@ -122,8 +122,8 @@
     "Schwarzpappel",
     "Schwarzer Holunder",
     "Schwarzbirke",
-    "Österreichische Schwarzkiefer",
-    "?ûsterreichische Schwarzkiefer"
+    "?ûsterreichische Schwarzkiefer",
+    "Österreichische Schwarzkiefer"
   ],
   "triacanthos": [
     "Gleditsie",
@@ -232,7 +232,6 @@
   ],
   "flava": null,
   "colurnoides": null,
-  "officinalis": null,
   "kobus": [
     "Magnolie"
   ],
@@ -311,12 +310,10 @@
   "atlantica": [
     "Atlas-Zeder"
   ],
-  "mas": null,
   "fraseri": [
     "Lorbeermispel",
     "Glanzmispel"
   ],
-  "soulangiana": null,
   "sylvestris": [
     "Gewöhnliche Kiefer"
   ],
@@ -349,7 +346,6 @@
     "Gemeiner Judasbaum",
     "Herzbaum"
   ],
-  "omorica": null,
   "decidua": [
     "Europäische Lärche"
   ],
@@ -369,6 +365,7 @@
     "Weymouthkiefrer"
   ],
   "menziesii": null,
+  "mas": null,
   "plicata": null,
   "deodara": null,
   "turneri": [
@@ -395,13 +392,13 @@
   "chinenesis": null,
   "rufinerve": null,
   "trifidum": null,
+  "cerris": null,
+  "canariensis": null,
+  "kewensis": null,
   "orientalis": [
     "Kaukasus-Fichte",
     "Sapindus-Fichte"
   ],
-  "cerris": null,
-  "canariensis": null,
-  "kewensis": null,
   "purpurea": null,
   "nucifera": null,
   "nootkatensis": null,
@@ -421,6 +418,7 @@
   "shirasawanun": null,
   "bungeana": null,
   "californica": null,
+  "omorica": null,
   "verticillata": null,
   "fortunei": null,
   "ernestii": null,
@@ -456,6 +454,7 @@
   "coccinea": null,
   "phellos": null,
   "alleghaniensis": null,
+  "major": null,
   "pennsylvanica": null,
   "veitchii": null,
   "cilicica": null,
@@ -493,6 +492,7 @@
   "speciosa": null,
   "bungei": null,
   "virginiana": null,
+  "officinalis": null,
   "sanguinea": null,
   "asperifolia": null,
   "kousa": null,
@@ -522,6 +522,7 @@
   "armeniaca": null,
   "loebneri": null,
   "lilliflora": null,
+  "soulangiana": null,
   "germanica": null,
   "spinosa": null,
   "toringoides": null,

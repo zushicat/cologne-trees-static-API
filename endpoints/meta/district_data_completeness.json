@@ -1,68 +1,62 @@
 {
   "Kalk": {
-    "mean": 0.62,
-    "median": 0.69,
-    "min": 0.12,
+    "mean": 0.67,
+    "median": 0.87,
+    "min": 0.0,
     "max": 1.0
   },
   "Mülheim": {
-    "mean": 0.63,
-    "median": 0.69,
-    "min": 0.12,
+    "mean": 0.6,
+    "median": 0.82,
+    "min": 0.0,
     "max": 1.0
   },
-  "unknown": {
-    "mean": 0.41,
-    "median": 0.5,
-    "min": 0.0,
-    "max": 0.88
-  },
   "Innenstadt": {
-    "mean": 0.69,
-    "median": 0.84,
-    "min": 0.12,
+    "mean": 0.72,
+    "median": 0.87,
+    "min": 0.0,
     "max": 1.0
   },
   "Porz": {
-    "mean": 0.66,
-    "median": 0.69,
-    "min": 0.19,
+    "mean": 0.71,
+    "median": 0.87,
+    "min": 0.08,
     "max": 1.0
   },
   "Nippes": {
-    "mean": 0.61,
-    "median": 0.69,
-    "min": 0.12,
+    "mean": 0.64,
+    "median": 0.87,
+    "min": 0.0,
     "max": 1.0
   },
-  "Ehrenfeld": {
-    "mean": 0.63,
-    "median": 0.69,
-    "min": 0.12,
-    "max": 1.0
+  "unknown": {
+    "mean": 0.46,
+    "median": 0.17,
+    "min": 0.0,
+    "max": 0.95
   },
   "Lindenthal": {
     "mean": 0.64,
-    "median": 0.69,
-    "min": 0.12,
+    "median": 0.87,
+    "min": 0.0,
     "max": 1.0
   },
   "Rodenkirchen": {
-    "mean": 0.57,
-    "median": 0.62,
-    "min": 0.12,
+    "mean": 0.62,
+    "median": 0.82,
+    "min": 0.0,
     "max": 1.0
   },
-  "Berzdorf": {
-    "mean": 0.14,
-    "median": 0.2,
-    "min": 0.06,
-    "max": 0.2
+  "Ehrenfeld": {
+    "mean": 0.67,
+    "median": 0.87,
+    "min": 0.0,
+    "max": 1.0
   },
   "Chorweiler": {
-    "mean": 0.62,
-    "median": 0.69,
-    "min": 0.19,
+    "mean": 0.67,
+    "median": 0.87,
+    "min": 0.0,
     "max": 1.0
   }
 }

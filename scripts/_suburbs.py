@@ -20,12 +20,10 @@ def _count_suburb_by_age_group(tree_data: List[Dict[str, Any]], use_prediction: 
         if age_group is None:
             if use_prediction is True:
                 try:
-                    age_group = tree["predictions"]["age_prediction"]["age_group_2020"]
+                    if tree["predictions"]["by_radius_prediction"]["age_group"]["probability"] >= MIN_PROBABILITY:
+                        age_group = tree["predictions"]["by_radius_prediction"]["age_group"]["prediction"]
                 except:
-                    try:
-                        age_group = tree["predictions"]["by_radius_prediction"]["age_group_2020"]
-                    except:
-                        pass
+                    pass
         
         age_group = clean_key(age_group)
         if counted_trees[suburb_name].get(age_group) is None:
@@ -54,7 +52,8 @@ def _count_suburb_by_genus(tree_data: List[Dict[str, Any]], use_prediction: bool
         if genus_name is None:
             if use_prediction is True:
                 try:
-                    genus_name = tree["predictions"]["by_radius_prediction"]["genus"]
+                    if tree["predictions"]["by_radius_prediction"]["genus"]["probability"] >= MIN_PROBABILITY:
+                        genus_name = tree["predictions"]["by_radius_prediction"]["genus"]["prediction"]
                 except:
                     pass
         genus_name = clean_key(genus_name)
@@ -92,6 +91,9 @@ def _count_trees(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
 
 
 def _count_neighbours_radius_50(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+    '''
+    TODO: include this attribute in base data again
+    '''
     counted_trees: Dict[str, int] = {}
     for tree in tree_data:
         suburb_name = clean_key(tree["geo_info"]["suburb"])
@@ -151,5 +153,5 @@ def create_suburbs_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_202
 
     # ***
     #
-    dat = _count_neighbours_radius_50(tree_data_2020)
-    write_endpoint_data(dat, ENDPOINT_GROUP, "density_neighbours_radius_50")
+    # dat = _count_neighbours_radius_50(tree_data_2020)
+    # write_endpoint_data(dat, ENDPOINT_GROUP, "density_neighbours_radius_50")

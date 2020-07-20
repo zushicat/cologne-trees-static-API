@@ -88,7 +88,7 @@ def _overall_count(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Di
 def _districts_suburbs(tree_data: List[Dict[str, Any]]) -> Dict[str, List[str]]:
     suburbs_in_district: Dict[str, List[str]] = {}
     for tree in tree_data:
-        district_name = tree["geo_info"]["city_district"]
+        district_name = tree["geo_info"]["district"]
 
         if district_name is None:
             continue
@@ -110,7 +110,7 @@ def _suburb_district(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
             continue
 
         if suburb_list.get(suburb_name) is None:
-            suburb_list[suburb_name]: str = tree["geo_info"]["city_district"]
+            suburb_list[suburb_name]: str = tree["geo_info"]["district"]
         else:
             continue
         
@@ -120,7 +120,7 @@ def _suburb_district(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
 def _district_data_completeness(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     completeness_in_district: Dict[str, List[str]] = {}
     for tree in tree_data:
-        district_name = clean_key(tree["geo_info"]["city_district"])
+        district_name = clean_key(tree["geo_info"]["district"])
 
         # if district_name is None:
         #     continue
@@ -183,6 +183,37 @@ def _suburb_data_completeness(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]
 # taxonomy
 # ************
 def _genus_name_german(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+    names_list: Dict[str, str] = {}
+    for tree in tree_data:
+        genus_name = tree["tree_taxonomy"]["genus"]
+        if genus_name is None:
+            continue
+        if names_list.get(genus_name) is not None:
+            continue
+
+        names_list[genus_name] = tree["tree_taxonomy"]["genus_name_german"]
+
+    return names_list
+
+
+def _genus_name_german_genus(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+    names_list: Dict[str, str] = {}
+    for tree in tree_data:
+        genus_name_german = tree["tree_taxonomy"]["genus_name_german"]
+        if genus_name_german is None:
+            continue
+        if names_list.get(genus_name_german) is not None:
+            continue
+
+        names_list[genus_name_german] = tree["tree_taxonomy"]["genus"]
+
+    return names_list
+
+
+def _genus_name_german_OLD(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+    '''
+    Wikidata request no longer needed: name_german is in tree data
+    '''
     names_list: Dict[str, Dict[str, str]] = {}
     already_requested: List[str] = []
     for i, tree in enumerate(tree_data):
@@ -206,7 +237,7 @@ def _genus_name_german(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     return names_list
 
 
-def _genus_name_german_from_data(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+def _genus_species_name_german(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     names_list: Dict[str, int] = {}
     for tree in tree_data:
         genus_name = tree["tree_taxonomy"]["genus"]
@@ -262,7 +293,7 @@ def _species_name_german(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     return names_list
 
 
-def _name_german_genus(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+def _species_name_german_genus(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     names_list: Dict[str, int] = {}
     for tree in tree_data:
         name_german_list = tree["tree_taxonomy"]["name_german"]
@@ -278,7 +309,7 @@ def _name_german_genus(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     return names_list
 
 
-def _name_german_species(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+def _species_name_german_species(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     names_list: Dict[str, int] = {}
     for tree in tree_data:
         name_german_list = tree["tree_taxonomy"]["name_german"]
@@ -345,16 +376,26 @@ def create_meta_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: 
 
     # ***
     #
+    dat = _genus_name_german_genus(tree_data_2020)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "name_german_genus")
+
+    # ***
+    #
+    dat = _genus_species_name_german(tree_data_2020)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "genus_species_name_german")
+
+    # ***
+    #
     dat = _species_name_german(tree_data_2020)
     write_endpoint_data(dat, ENDPOINT_GROUP, "species_name_german")
 
     # ***
     #
-    dat = _name_german_genus(tree_data_2020)
-    write_endpoint_data(dat, ENDPOINT_GROUP, "name_german_genus")
+    dat = _species_name_german_genus(tree_data_2020)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "species_name_german_genus")
 
-    dat = _name_german_species(tree_data_2020)
-    write_endpoint_data(dat, ENDPOINT_GROUP, "name_german_species")
+    dat = _species_name_german_species(tree_data_2020)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "species_name_german_species")
 
     # ***
     #

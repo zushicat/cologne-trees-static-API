@@ -7,12 +7,13 @@ from _utils import clean_key
 
 
 ENDPOINT_GROUP = "districts"
+MIN_PROBABILITY = 0.5
 
 
 def _count_district_by_age_group(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[str, Any]:
     counted_trees: Dict[str, int] = {}
     for tree in tree_data:
-        district_name = clean_key(tree["geo_info"]["city_district"])
+        district_name = clean_key(tree["geo_info"]["district"])
         if counted_trees.get(district_name) is None:
             counted_trees[district_name]: Dict[str, Any] = {}
         
@@ -20,12 +21,10 @@ def _count_district_by_age_group(tree_data: List[Dict[str, Any]], use_prediction
         if age_group is None:
             if use_prediction is True:
                 try:
-                    age_group = tree["predictions"]["age_prediction"]["age_group_2020"]
+                    if tree["predictions"]["by_radius_prediction"]["age_group"]["probability"] >= MIN_PROBABILITY:
+                        age_group = tree["predictions"]["by_radius_prediction"]["age_group"]["prediction"]
                 except:
-                    try:
-                        age_group = tree["predictions"]["by_radius_prediction"]["age_group_2020"]
-                    except:
-                        pass
+                    pass
         
         age_group = clean_key(age_group)
         if counted_trees[district_name].get(age_group) is None:
@@ -46,7 +45,7 @@ def _count_district_by_age_group(tree_data: List[Dict[str, Any]], use_prediction
 def _count_district_by_genus(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[str, Any]:
     counted_trees: Dict[str, int] = {}
     for tree in tree_data:
-        district_name = clean_key(tree["geo_info"]["city_district"])
+        district_name = clean_key(tree["geo_info"]["district"])
         if counted_trees.get(district_name) is None:
             counted_trees[district_name]: Dict[str, Any] = {}
         
@@ -54,7 +53,8 @@ def _count_district_by_genus(tree_data: List[Dict[str, Any]], use_prediction: bo
         if genus_name is None:
             if use_prediction is True:
                 try:
-                    genus_name = tree["predictions"]["by_radius_prediction"]["genus"]
+                    if tree["predictions"]["by_radius_prediction"]["genus"]["probability"] >= MIN_PROBABILITY:
+                        genus_name = tree["predictions"]["by_radius_prediction"]["genus"]["prediction"]
                 except:
                     pass
         genus_name = clean_key(genus_name)
@@ -77,7 +77,7 @@ def _count_district_by_genus(tree_data: List[Dict[str, Any]], use_prediction: bo
 def _count_trees(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     counted_trees: Dict[str, int] = {}
     for tree in tree_data:
-        district_name = clean_key(tree["geo_info"]["city_district"])
+        district_name = clean_key(tree["geo_info"]["district"])
         if counted_trees.get(district_name) is None:
             counted_trees[district_name]: Dict[str, Any] = {
                 "absolute": 0,
@@ -92,9 +92,12 @@ def _count_trees(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
 
 
 def _count_neighbours_radius_50(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+    '''
+    TODO: include this attribute in base data again
+    '''
     counted_trees: Dict[str, int] = {}
     for tree in tree_data:
-        district_name = clean_key(tree["geo_info"]["city_district"])
+        district_name = clean_key(tree["geo_info"]["district"])
 
         if counted_trees.get(district_name) is None:
             counted_trees[district_name]: Dict[str, Any] = {
@@ -105,7 +108,7 @@ def _count_neighbours_radius_50(tree_data: List[Dict[str, Any]]) -> Dict[str, An
                 "tmp_list": []
             }
         
-        num_neighbours = tree["num_neighbours_radius_50"]
+        num_neighbours = tree["num_neighbours_radius_50"]  # not included in base data right now
         if num_neighbours is None:
             continue
         
@@ -151,6 +154,6 @@ def create_districts_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2
 
     # ***
     #
-    dat = _count_neighbours_radius_50(tree_data_2020)
-    write_endpoint_data(dat, ENDPOINT_GROUP, "density_neighbours_radius_50")
+    # dat = _count_neighbours_radius_50(tree_data_2020)
+    # write_endpoint_data(dat, ENDPOINT_GROUP, "density_neighbours_radius_50")
     

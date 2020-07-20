@@ -1,18 +1,18 @@
 {
-  "1": {
-    "absolute": 16908,
-    "percentage": 0.11
-  },
   "2": {
-    "absolute": 29075,
-    "percentage": 0.19
+    "absolute": 46078,
+    "percentage": 0.31
   },
-  "unknown": {
-    "absolute": 89951,
-    "percentage": 0.6
+  "1": {
+    "absolute": 48558,
+    "percentage": 0.32
   },
   "0": {
-    "absolute": 13340,
-    "percentage": 0.09
+    "absolute": 7128,
+    "percentage": 0.05
+  },
+  "unknown": {
+    "absolute": 48500,
+    "percentage": 0.32
   }
 }

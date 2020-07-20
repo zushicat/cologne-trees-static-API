@@ -11,7 +11,7 @@ from _utils import filter_cut_trees
 
 
 def _load_data() -> List[Dict[str, Any]]:
-    with open("../data/trees_cologne_merged.jsonl") as f:
+    with open("../data/trees_cologne_merged.jsonln") as f:
         tree_data_str = f.read().split("\n")
     
     tree_data: List[Dict[str, Any]] = []

@@ -1,1090 +1,1106 @@
 {
   "Robinia": {
     "Kalk": {
-      "absolute": 540,
-      "percentage": 0.1
+      "absolute": 679,
+      "percentage": 0.13
     },
     "Mülheim": {
-      "absolute": 660,
-      "percentage": 0.12
-    },
-    "Innenstadt": {
-      "absolute": 834,
-      "percentage": 0.16
-    },
-    "Ehrenfeld": {
-      "absolute": 489,
-      "percentage": 0.09
-    },
-    "Lindenthal": {
-      "absolute": 873,
-      "percentage": 0.16
-    },
-    "Rodenkirchen": {
-      "absolute": 503,
-      "percentage": 0.09
-    },
-    "unknown": {
-      "absolute": 423,
-      "percentage": 0.08
+      "absolute": 698,
+      "percentage": 0.13
     },
     "Nippes": {
-      "absolute": 552,
+      "absolute": 578,
+      "percentage": 0.11
+    },
+    "Innenstadt": {
+      "absolute": 852,
+      "percentage": 0.16
+    },
+    "Lindenthal": {
+      "absolute": 913,
+      "percentage": 0.17
+    },
+    "Rodenkirchen": {
+      "absolute": 542,
+      "percentage": 0.1
+    },
+    "Ehrenfeld": {
+      "absolute": 533,
       "percentage": 0.1
     },
     "Chorweiler": {
-      "absolute": 357,
-      "percentage": 0.07
+      "absolute": 406,
+      "percentage": 0.08
     },
     "Porz": {
-      "absolute": 82,
+      "absolute": 114,
       "percentage": 0.02
     }
   },
   "Platanus": {
     "Mülheim": {
-      "absolute": 998,
-      "percentage": 0.09
+      "absolute": 1049,
+      "percentage": 0.1
     },
     "Kalk": {
-      "absolute": 820,
-      "percentage": 0.08
+      "absolute": 963,
+      "percentage": 0.09
     },
     "Innenstadt": {
-      "absolute": 2260,
+      "absolute": 2271,
       "percentage": 0.21
     },
+    "unknown": {
+      "absolute": 13,
+      "percentage": 0.0
+    },
     "Nippes": {
-      "absolute": 751,
+      "absolute": 735,
       "percentage": 0.07
-    },
-    "Lindenthal": {
-      "absolute": 1475,
-      "percentage": 0.14
-    },
-    "Porz": {
-      "absolute": 310,
-      "percentage": 0.03
     },
     "Rodenkirchen": {
-      "absolute": 748,
-      "percentage": 0.07
+      "absolute": 843,
+      "percentage": 0.08
+    },
+    "Lindenthal": {
+      "absolute": 1654,
+      "percentage": 0.16
+    },
+    "Porz": {
+      "absolute": 391,
+      "percentage": 0.04
     },
     "Ehrenfeld": {
-      "absolute": 1969,
+      "absolute": 1974,
       "percentage": 0.19
     },
     "Chorweiler": {
-      "absolute": 681,
-      "percentage": 0.06
-    },
-    "unknown": {
-      "absolute": 614,
-      "percentage": 0.06
+      "absolute": 746,
+      "percentage": 0.07
     }
   },
   "Sorbus": {
     "Mülheim": {
-      "absolute": 131,
-      "percentage": 0.08
+      "absolute": 186,
+      "percentage": 0.11
     },
     "Kalk": {
-      "absolute": 82,
-      "percentage": 0.05
+      "absolute": 135,
+      "percentage": 0.08
+    },
+    "Porz": {
+      "absolute": 175,
+      "percentage": 0.1
     },
     "Innenstadt": {
-      "absolute": 159,
+      "absolute": 167,
       "percentage": 0.1
     },
     "Lindenthal": {
-      "absolute": 307,
-      "percentage": 0.18
+      "absolute": 312,
+      "percentage": 0.19
     },
     "Rodenkirchen": {
-      "absolute": 190,
-      "percentage": 0.11
+      "absolute": 216,
+      "percentage": 0.13
     },
     "Ehrenfeld": {
-      "absolute": 45,
-      "percentage": 0.03
+      "absolute": 62,
+      "percentage": 0.04
     },
     "Nippes": {
-      "absolute": 121,
-      "percentage": 0.07
+      "absolute": 130,
+      "percentage": 0.08
     },
     "Chorweiler": {
-      "absolute": 269,
-      "percentage": 0.16
-    },
-    "Porz": {
-      "absolute": 162,
-      "percentage": 0.1
-    },
-    "unknown": {
-      "absolute": 201,
-      "percentage": 0.12
+      "absolute": 294,
+      "percentage": 0.18
     }
   },
   "Fraxinus": {
     "Mülheim": {
-      "absolute": 237,
-      "percentage": 0.09
+      "absolute": 279,
+      "percentage": 0.11
     },
     "Kalk": {
-      "absolute": 98,
-      "percentage": 0.04
+      "absolute": 132,
+      "percentage": 0.05
     },
     "Porz": {
-      "absolute": 225,
+      "absolute": 249,
       "percentage": 0.09
     },
-    "Innenstadt": {
-      "absolute": 218,
-      "percentage": 0.08
-    },
     "Nippes": {
-      "absolute": 308,
-      "percentage": 0.12
+      "absolute": 337,
+      "percentage": 0.13
+    },
+    "Innenstadt": {
+      "absolute": 221,
+      "percentage": 0.08
     },
     "Lindenthal": {
-      "absolute": 368,
-      "percentage": 0.14
+      "absolute": 447,
+      "percentage": 0.17
     },
     "Rodenkirchen": {
-      "absolute": 268,
-      "percentage": 0.1
+      "absolute": 385,
+      "percentage": 0.15
     },
     "Ehrenfeld": {
-      "absolute": 211,
-      "percentage": 0.08
+      "absolute": 248,
+      "percentage": 0.09
     },
     "Chorweiler": {
-      "absolute": 307,
-      "percentage": 0.12
+      "absolute": 352,
+      "percentage": 0.13
     },
     "unknown": {
-      "absolute": 386,
-      "percentage": 0.15
+      "absolute": 4,
+      "percentage": 0.0
     }
   },
   "Tilia": {
     "Mülheim": {
-      "absolute": 1452,
-      "percentage": 0.06
-    },
-    "unknown": {
-      "absolute": 1300,
-      "percentage": 0.06
-    },
-    "Kalk": {
-      "absolute": 1899,
-      "percentage": 0.08
-    },
-    "Innenstadt": {
-      "absolute": 3526,
-      "percentage": 0.16
-    },
-    "Nippes": {
-      "absolute": 2589,
-      "percentage": 0.11
-    },
-    "Lindenthal": {
-      "absolute": 4507,
-      "percentage": 0.2
-    },
-    "Porz": {
-      "absolute": 1685,
+      "absolute": 1643,
       "percentage": 0.07
     },
+    "Kalk": {
+      "absolute": 2032,
+      "percentage": 0.09
+    },
+    "Innenstadt": {
+      "absolute": 3297,
+      "percentage": 0.15
+    },
+    "Porz": {
+      "absolute": 2237,
+      "percentage": 0.1
+    },
+    "Nippes": {
+      "absolute": 2694,
+      "percentage": 0.12
+    },
+    "unknown": {
+      "absolute": 47,
+      "percentage": 0.0
+    },
+    "Lindenthal": {
+      "absolute": 4567,
+      "percentage": 0.2
+    },
     "Rodenkirchen": {
-      "absolute": 2937,
+      "absolute": 2929,
       "percentage": 0.13
     },
     "Ehrenfeld": {
-      "absolute": 1557,
-      "percentage": 0.07
+      "absolute": 1837,
+      "percentage": 0.08
     },
     "Chorweiler": {
-      "absolute": 1267,
+      "absolute": 1442,
       "percentage": 0.06
     }
   },
   "Acer": {
     "Mülheim": {
-      "absolute": 2046,
-      "percentage": 0.09
+      "absolute": 2636,
+      "percentage": 0.12
     },
     "Kalk": {
-      "absolute": 1461,
-      "percentage": 0.07
-    },
-    "Porz": {
-      "absolute": 1359,
-      "percentage": 0.06
-    },
-    "Innenstadt": {
-      "absolute": 2555,
-      "percentage": 0.12
-    },
-    "Nippes": {
-      "absolute": 1975,
+      "absolute": 1904,
       "percentage": 0.09
     },
-    "Lindenthal": {
-      "absolute": 2659,
-      "percentage": 0.12
+    "Porz": {
+      "absolute": 1914,
+      "percentage": 0.09
     },
-    "Rodenkirchen": {
-      "absolute": 1605,
-      "percentage": 0.07
-    },
-    "Ehrenfeld": {
-      "absolute": 1776,
-      "percentage": 0.08
-    },
-    "Chorweiler": {
-      "absolute": 2847,
+    "Innenstadt": {
+      "absolute": 2815,
       "percentage": 0.13
     },
+    "Nippes": {
+      "absolute": 2464,
+      "percentage": 0.11
+    },
     "unknown": {
-      "absolute": 3749,
-      "percentage": 0.17
+      "absolute": 44,
+      "percentage": 0.0
+    },
+    "Lindenthal": {
+      "absolute": 2822,
+      "percentage": 0.13
+    },
+    "Rodenkirchen": {
+      "absolute": 1913,
+      "percentage": 0.09
+    },
+    "Ehrenfeld": {
+      "absolute": 2214,
+      "percentage": 0.1
+    },
+    "Chorweiler": {
+      "absolute": 3529,
+      "percentage": 0.16
     }
   },
   "Betula": {
     "Mülheim": {
-      "absolute": 200,
-      "percentage": 0.06
+      "absolute": 338,
+      "percentage": 0.1
     },
     "Kalk": {
-      "absolute": 409,
-      "percentage": 0.12
+      "absolute": 508,
+      "percentage": 0.14
     },
     "Nippes": {
-      "absolute": 227,
-      "percentage": 0.07
+      "absolute": 287,
+      "percentage": 0.08
     },
     "Innenstadt": {
-      "absolute": 151,
-      "percentage": 0.04
+      "absolute": 188,
+      "percentage": 0.05
     },
     "Lindenthal": {
-      "absolute": 843,
-      "percentage": 0.24
+      "absolute": 879,
+      "percentage": 0.25
     },
     "Rodenkirchen": {
-      "absolute": 451,
+      "absolute": 473,
       "percentage": 0.13
     },
     "Ehrenfeld": {
-      "absolute": 220,
-      "percentage": 0.06
+      "absolute": 287,
+      "percentage": 0.08
     },
     "Chorweiler": {
-      "absolute": 231,
-      "percentage": 0.07
+      "absolute": 285,
+      "percentage": 0.08
     },
     "Porz": {
-      "absolute": 154,
-      "percentage": 0.04
-    },
-    "unknown": {
-      "absolute": 601,
-      "percentage": 0.17
+      "absolute": 264,
+      "percentage": 0.08
     }
   },
   "Prunus": {
     "Mülheim": {
-      "absolute": 180,
-      "percentage": 0.05
+      "absolute": 359,
+      "percentage": 0.09
     },
     "Kalk": {
-      "absolute": 218,
-      "percentage": 0.06
+      "absolute": 362,
+      "percentage": 0.1
     },
     "Innenstadt": {
-      "absolute": 360,
+      "absolute": 394,
       "percentage": 0.1
     },
     "Lindenthal": {
-      "absolute": 471,
-      "percentage": 0.13
+      "absolute": 554,
+      "percentage": 0.15
     },
     "Porz": {
-      "absolute": 363,
-      "percentage": 0.1
+      "absolute": 574,
+      "percentage": 0.15
     },
     "Rodenkirchen": {
-      "absolute": 402,
-      "percentage": 0.11
+      "absolute": 471,
+      "percentage": 0.12
     },
     "Ehrenfeld": {
-      "absolute": 207,
-      "percentage": 0.06
+      "absolute": 298,
+      "percentage": 0.08
     },
     "Nippes": {
-      "absolute": 198,
-      "percentage": 0.05
+      "absolute": 266,
+      "percentage": 0.07
     },
     "Chorweiler": {
-      "absolute": 388,
-      "percentage": 0.1
+      "absolute": 510,
+      "percentage": 0.13
     },
     "unknown": {
-      "absolute": 945,
-      "percentage": 0.25
+      "absolute": 4,
+      "percentage": 0.0
     }
   },
   "Metasequoia": {
     "Mülheim": {
-      "absolute": 40,
-      "percentage": 0.33
+      "absolute": 51,
+      "percentage": 0.42
     },
     "Innenstadt": {
-      "absolute": 24,
-      "percentage": 0.2
+      "absolute": 27,
+      "percentage": 0.22
     },
     "Rodenkirchen": {
       "absolute": 14,
       "percentage": 0.12
     },
     "Chorweiler": {
-      "absolute": 9,
-      "percentage": 0.07
+      "absolute": 11,
+      "percentage": 0.09
     },
     "Kalk": {
-      "absolute": 5,
-      "percentage": 0.04
+      "absolute": 6,
+      "percentage": 0.05
     },
     "Nippes": {
-      "absolute": 4,
-      "percentage": 0.03
-    },
-    "unknown": {
-      "absolute": 20,
-      "percentage": 0.17
-    },
-    "Porz": {
       "absolute": 5,
       "percentage": 0.04
+    },
+    "Porz": {
+      "absolute": 7,
+      "percentage": 0.06
     }
   },
   "Ailanthus": {
     "Mülheim": {
-      "absolute": 19,
-      "percentage": 0.03
-    },
-    "Innenstadt": {
-      "absolute": 158,
-      "percentage": 0.26
+      "absolute": 29,
+      "percentage": 0.05
     },
     "Nippes": {
-      "absolute": 55,
-      "percentage": 0.09
+      "absolute": 70,
+      "percentage": 0.12
+    },
+    "Innenstadt": {
+      "absolute": 168,
+      "percentage": 0.28
+    },
+    "Lindenthal": {
+      "absolute": 90,
+      "percentage": 0.15
     },
     "Rodenkirchen": {
       "absolute": 13,
       "percentage": 0.02
     },
-    "Lindenthal": {
-      "absolute": 108,
-      "percentage": 0.18
-    },
     "Ehrenfeld": {
-      "absolute": 94,
-      "percentage": 0.16
+      "absolute": 121,
+      "percentage": 0.2
     },
     "Porz": {
-      "absolute": 32,
-      "percentage": 0.05
+      "absolute": 42,
+      "percentage": 0.07
     },
     "Chorweiler": {
-      "absolute": 32,
-      "percentage": 0.05
+      "absolute": 39,
+      "percentage": 0.06
     },
     "Kalk": {
-      "absolute": 25,
-      "percentage": 0.04
-    },
-    "unknown": {
-      "absolute": 65,
-      "percentage": 0.11
+      "absolute": 33,
+      "percentage": 0.05
     }
   },
   "Aesculus": {
     "Mülheim": {
-      "absolute": 358,
-      "percentage": 0.15
+      "absolute": 388,
+      "percentage": 0.16
     },
     "Kalk": {
-      "absolute": 83,
-      "percentage": 0.03
+      "absolute": 101,
+      "percentage": 0.04
     },
     "Nippes": {
-      "absolute": 164,
+      "absolute": 177,
       "percentage": 0.07
     },
     "Innenstadt": {
-      "absolute": 351,
-      "percentage": 0.14
+      "absolute": 376,
+      "percentage": 0.15
     },
     "Porz": {
-      "absolute": 278,
-      "percentage": 0.11
+      "absolute": 310,
+      "percentage": 0.13
     },
     "Lindenthal": {
-      "absolute": 271,
+      "absolute": 265,
       "percentage": 0.11
     },
     "Rodenkirchen": {
-      "absolute": 306,
+      "absolute": 313,
       "percentage": 0.13
     },
     "Ehrenfeld": {
-      "absolute": 184,
+      "absolute": 203,
       "percentage": 0.08
     },
     "Chorweiler": {
-      "absolute": 283,
-      "percentage": 0.12
-    },
-    "unknown": {
-      "absolute": 160,
-      "percentage": 0.07
+      "absolute": 308,
+      "percentage": 0.13
     }
   },
   "Ulmus": {
     "Mülheim": {
-      "absolute": 9,
-      "percentage": 0.03
+      "absolute": 13,
+      "percentage": 0.05
     },
     "Kalk": {
-      "absolute": 45,
-      "percentage": 0.15
+      "absolute": 50,
+      "percentage": 0.17
+    },
+    "Nippes": {
+      "absolute": 33,
+      "percentage": 0.11
     },
     "Innenstadt": {
-      "absolute": 37,
-      "percentage": 0.13
+      "absolute": 33,
+      "percentage": 0.11
     },
     "Lindenthal": {
       "absolute": 41,
       "percentage": 0.14
     },
     "Ehrenfeld": {
-      "absolute": 15,
-      "percentage": 0.05
-    },
-    "Nippes": {
-      "absolute": 26,
-      "percentage": 0.09
+      "absolute": 17,
+      "percentage": 0.06
     },
     "Chorweiler": {
-      "absolute": 83,
-      "percentage": 0.28
+      "absolute": 87,
+      "percentage": 0.3
     },
     "Rodenkirchen": {
-      "absolute": 3,
-      "percentage": 0.01
+      "absolute": 7,
+      "percentage": 0.02
     },
     "Porz": {
-      "absolute": 2,
-      "percentage": 0.01
-    },
-    "unknown": {
-      "absolute": 31,
-      "percentage": 0.11
+      "absolute": 6,
+      "percentage": 0.02
     }
   },
   "Carpinus": {
     "Mülheim": {
-      "absolute": 658,
-      "percentage": 0.09
+      "absolute": 1061,
+      "percentage": 0.14
     },
     "Kalk": {
-      "absolute": 554,
-      "percentage": 0.07
-    },
-    "Innenstadt": {
-      "absolute": 872,
-      "percentage": 0.12
-    },
-    "Nippes": {
-      "absolute": 520,
-      "percentage": 0.07
-    },
-    "Lindenthal": {
-      "absolute": 725,
+      "absolute": 786,
       "percentage": 0.1
     },
-    "Rodenkirchen": {
-      "absolute": 273,
-      "percentage": 0.04
-    },
-    "Ehrenfeld": {
-      "absolute": 831,
-      "percentage": 0.11
-    },
-    "Chorweiler": {
-      "absolute": 641,
+    "Nippes": {
+      "absolute": 720,
       "percentage": 0.09
     },
-    "Porz": {
-      "absolute": 381,
+    "Innenstadt": {
+      "absolute": 1101,
+      "percentage": 0.14
+    },
+    "Lindenthal": {
+      "absolute": 814,
+      "percentage": 0.11
+    },
+    "Rodenkirchen": {
+      "absolute": 394,
       "percentage": 0.05
     },
+    "Ehrenfeld": {
+      "absolute": 1132,
+      "percentage": 0.15
+    },
+    "Chorweiler": {
+      "absolute": 865,
+      "percentage": 0.11
+    },
+    "Porz": {
+      "absolute": 728,
+      "percentage": 0.1
+    },
     "unknown": {
-      "absolute": 1991,
-      "percentage": 0.27
+      "absolute": 7,
+      "percentage": 0.0
     }
   },
   "Crataegus": {
     "Mülheim": {
-      "absolute": 106,
-      "percentage": 0.06
+      "absolute": 160,
+      "percentage": 0.09
     },
     "Kalk": {
-      "absolute": 75,
-      "percentage": 0.04
+      "absolute": 97,
+      "percentage": 0.06
     },
     "Innenstadt": {
-      "absolute": 210,
-      "percentage": 0.12
-    },
-    "Rodenkirchen": {
-      "absolute": 185,
-      "percentage": 0.11
+      "absolute": 218,
+      "percentage": 0.13
     },
     "Lindenthal": {
-      "absolute": 458,
+      "absolute": 460,
       "percentage": 0.27
     },
+    "Rodenkirchen": {
+      "absolute": 194,
+      "percentage": 0.11
+    },
     "Ehrenfeld": {
-      "absolute": 146,
+      "absolute": 162,
       "percentage": 0.09
     },
     "Nippes": {
-      "absolute": 229,
-      "percentage": 0.13
+      "absolute": 254,
+      "percentage": 0.15
     },
     "Porz": {
-      "absolute": 63,
-      "percentage": 0.04
-    },
-    "Chorweiler": {
-      "absolute": 78,
+      "absolute": 83,
       "percentage": 0.05
     },
+    "Chorweiler": {
+      "absolute": 98,
+      "percentage": 0.06
+    },
     "unknown": {
-      "absolute": 149,
-      "percentage": 0.09
+      "absolute": 1,
+      "percentage": 0.0
     }
   },
   "Pyrus": {
     "Mülheim": {
-      "absolute": 41,
-      "percentage": 0.04
+      "absolute": 47,
+      "percentage": 0.05
     },
     "Kalk": {
-      "absolute": 73,
-      "percentage": 0.08
+      "absolute": 100,
+      "percentage": 0.11
     },
     "Innenstadt": {
-      "absolute": 110,
+      "absolute": 117,
       "percentage": 0.12
     },
     "Lindenthal": {
-      "absolute": 45,
-      "percentage": 0.05
+      "absolute": 53,
+      "percentage": 0.06
     },
     "Rodenkirchen": {
-      "absolute": 88,
-      "percentage": 0.09
+      "absolute": 152,
+      "percentage": 0.16
     },
     "Ehrenfeld": {
-      "absolute": 118,
+      "absolute": 120,
       "percentage": 0.13
     },
     "Nippes": {
-      "absolute": 117,
+      "absolute": 118,
       "percentage": 0.13
     },
     "Chorweiler": {
-      "absolute": 167,
-      "percentage": 0.18
+      "absolute": 182,
+      "percentage": 0.19
     },
     "Porz": {
-      "absolute": 39,
-      "percentage": 0.04
+      "absolute": 46,
+      "percentage": 0.05
     },
     "unknown": {
-      "absolute": 134,
-      "percentage": 0.14
+      "absolute": 5,
+      "percentage": 0.01
     }
   },
   "unknown": {
     "Mülheim": {
-      "absolute": 3748,
-      "percentage": 0.09
-    },
-    "Kalk": {
-      "absolute": 3372,
-      "percentage": 0.08
-    },
-    "Innenstadt": {
-      "absolute": 4442,
-      "percentage": 0.1
-    },
-    "Nippes": {
-      "absolute": 4846,
-      "percentage": 0.11
-    },
-    "Porz": {
-      "absolute": 2350,
-      "percentage": 0.05
-    },
-    "Ehrenfeld": {
-      "absolute": 3988,
-      "percentage": 0.09
-    },
-    "Lindenthal": {
-      "absolute": 6076,
+      "absolute": 6009,
       "percentage": 0.14
     },
-    "Rodenkirchen": {
+    "Kalk": {
+      "absolute": 3761,
+      "percentage": 0.09
+    },
+    "Porz": {
+      "absolute": 2811,
+      "percentage": 0.06
+    },
+    "Nippes": {
+      "absolute": 5440,
+      "percentage": 0.13
+    },
+    "Innenstadt": {
       "absolute": 4430,
       "percentage": 0.1
     },
     "unknown": {
-      "absolute": 5174,
-      "percentage": 0.12
-    },
-    "Berzdorf": {
-      "absolute": 20,
+      "absolute": 156,
       "percentage": 0.0
     },
-    "Chorweiler": {
-      "absolute": 4783,
+    "Lindenthal": {
+      "absolute": 6738,
+      "percentage": 0.16
+    },
+    "Rodenkirchen": {
+      "absolute": 4806,
       "percentage": 0.11
+    },
+    "Ehrenfeld": {
+      "absolute": 4195,
+      "percentage": 0.1
+    },
+    "Chorweiler": {
+      "absolute": 5011,
+      "percentage": 0.12
     }
   },
   "Quercus": {
     "Mülheim": {
-      "absolute": 518,
-      "percentage": 0.14
+      "absolute": 672,
+      "percentage": 0.18
     },
     "Kalk": {
-      "absolute": 449,
-      "percentage": 0.12
+      "absolute": 622,
+      "percentage": 0.16
     },
     "Porz": {
-      "absolute": 266,
-      "percentage": 0.07
+      "absolute": 431,
+      "percentage": 0.11
     },
     "Innenstadt": {
-      "absolute": 285,
-      "percentage": 0.08
+      "absolute": 331,
+      "percentage": 0.09
     },
     "Nippes": {
-      "absolute": 227,
-      "percentage": 0.06
+      "absolute": 253,
+      "percentage": 0.07
     },
     "Lindenthal": {
-      "absolute": 459,
-      "percentage": 0.12
+      "absolute": 504,
+      "percentage": 0.13
     },
     "Rodenkirchen": {
-      "absolute": 119,
-      "percentage": 0.03
+      "absolute": 135,
+      "percentage": 0.04
     },
     "Ehrenfeld": {
-      "absolute": 245,
+      "absolute": 256,
       "percentage": 0.07
     },
     "Chorweiler": {
-      "absolute": 473,
-      "percentage": 0.13
+      "absolute": 586,
+      "percentage": 0.15
     },
     "unknown": {
-      "absolute": 707,
-      "percentage": 0.19
+      "absolute": 1,
+      "percentage": 0.0
     }
   },
   "Corylus": {
     "Mülheim": {
-      "absolute": 370,
-      "percentage": 0.16
+      "absolute": 419,
+      "percentage": 0.18
     },
     "Kalk": {
-      "absolute": 302,
-      "percentage": 0.13
+      "absolute": 330,
+      "percentage": 0.14
+    },
+    "Nippes": {
+      "absolute": 267,
+      "percentage": 0.12
     },
     "Innenstadt": {
-      "absolute": 361,
-      "percentage": 0.16
+      "absolute": 349,
+      "percentage": 0.15
     },
     "Lindenthal": {
-      "absolute": 364,
+      "absolute": 372,
       "percentage": 0.16
     },
     "Rodenkirchen": {
-      "absolute": 83,
+      "absolute": 101,
       "percentage": 0.04
     },
     "Ehrenfeld": {
-      "absolute": 100,
-      "percentage": 0.04
-    },
-    "Nippes": {
-      "absolute": 234,
-      "percentage": 0.1
+      "absolute": 114,
+      "percentage": 0.05
     },
     "Chorweiler": {
-      "absolute": 199,
+      "absolute": 220,
       "percentage": 0.09
     },
     "Porz": {
-      "absolute": 111,
-      "percentage": 0.05
-    },
-    "unknown": {
-      "absolute": 184,
-      "percentage": 0.08
+      "absolute": 149,
+      "percentage": 0.06
     }
   },
   "Amelanchier": {
     "Mülheim": {
-      "absolute": 14,
-      "percentage": 0.06
-    },
-    "Kalk": {
       "absolute": 22,
       "percentage": 0.09
     },
+    "Kalk": {
+      "absolute": 31,
+      "percentage": 0.12
+    },
     "Porz": {
-      "absolute": 26,
-      "percentage": 0.1
+      "absolute": 37,
+      "percentage": 0.14
     },
     "Lindenthal": {
-      "absolute": 4,
-      "percentage": 0.02
+      "absolute": 9,
+      "percentage": 0.04
     },
     "Nippes": {
-      "absolute": 18,
+      "absolute": 19,
       "percentage": 0.07
     },
     "Chorweiler": {
-      "absolute": 67,
-      "percentage": 0.27
+      "absolute": 73,
+      "percentage": 0.28
     },
     "Innenstadt": {
       "absolute": 45,
       "percentage": 0.18
     },
     "Rodenkirchen": {
-      "absolute": 1,
-      "percentage": 0.0
-    },
-    "unknown": {
-      "absolute": 48,
-      "percentage": 0.19
+      "absolute": 9,
+      "percentage": 0.04
     },
     "Ehrenfeld": {
-      "absolute": 7,
-      "percentage": 0.03
+      "absolute": 12,
+      "percentage": 0.05
     }
   },
   "Catalpa": {
     "Mülheim": {
-      "absolute": 21,
-      "percentage": 0.04
+      "absolute": 27,
+      "percentage": 0.05
     },
     "Innenstadt": {
-      "absolute": 73,
+      "absolute": 71,
       "percentage": 0.14
     },
     "Lindenthal": {
-      "absolute": 208,
-      "percentage": 0.4
+      "absolute": 213,
+      "percentage": 0.41
     },
     "Rodenkirchen": {
       "absolute": 16,
       "percentage": 0.03
     },
     "Ehrenfeld": {
-      "absolute": 33,
-      "percentage": 0.06
+      "absolute": 35,
+      "percentage": 0.07
     },
     "Chorweiler": {
-      "absolute": 113,
+      "absolute": 115,
       "percentage": 0.22
     },
     "Nippes": {
-      "absolute": 16,
-      "percentage": 0.03
+      "absolute": 26,
+      "percentage": 0.05
     },
     "Porz": {
-      "absolute": 8,
+      "absolute": 12,
       "percentage": 0.02
     },
-    "unknown": {
-      "absolute": 30,
-      "percentage": 0.06
-    },
     "Kalk": {
-      "absolute": 2,
-      "percentage": 0.0
+      "absolute": 4,
+      "percentage": 0.01
     }
   },
   "Gleditsia": {
     "Mülheim": {
-      "absolute": 59,
+      "absolute": 65,
       "percentage": 0.05
     },
     "Kalk": {
-      "absolute": 52,
-      "percentage": 0.04
+      "absolute": 61,
+      "percentage": 0.05
     },
     "Innenstadt": {
-      "absolute": 175,
-      "percentage": 0.14
+      "absolute": 223,
+      "percentage": 0.18
     },
     "Lindenthal": {
-      "absolute": 135,
-      "percentage": 0.11
-    },
-    "Rodenkirchen": {
-      "absolute": 32,
-      "percentage": 0.03
+      "absolute": 165,
+      "percentage": 0.13
     },
     "Ehrenfeld": {
-      "absolute": 234,
-      "percentage": 0.19
+      "absolute": 240,
+      "percentage": 0.2
     },
     "Nippes": {
-      "absolute": 261,
-      "percentage": 0.21
+      "absolute": 247,
+      "percentage": 0.2
     },
     "Chorweiler": {
-      "absolute": 127,
-      "percentage": 0.1
-    },
-    "Porz": {
-      "absolute": 2,
-      "percentage": 0.0
+      "absolute": 130,
+      "percentage": 0.11
     },
     "unknown": {
-      "absolute": 149,
-      "percentage": 0.12
+      "absolute": 20,
+      "percentage": 0.02
+    },
+    "Rodenkirchen": {
+      "absolute": 59,
+      "percentage": 0.05
+    },
+    "Porz": {
+      "absolute": 17,
+      "percentage": 0.01
     }
   },
   "Sophora": {
     "Mülheim": {
-      "absolute": 67,
-      "percentage": 0.09
+      "absolute": 93,
+      "percentage": 0.12
     },
     "Nippes": {
-      "absolute": 48,
-      "percentage": 0.06
+      "absolute": 52,
+      "percentage": 0.07
     },
     "Innenstadt": {
-      "absolute": 101,
-      "percentage": 0.13
+      "absolute": 118,
+      "percentage": 0.15
     },
     "Rodenkirchen": {
       "absolute": 65,
       "percentage": 0.08
     },
     "Lindenthal": {
-      "absolute": 29,
-      "percentage": 0.04
+      "absolute": 36,
+      "percentage": 0.05
     },
     "Ehrenfeld": {
-      "absolute": 27,
-      "percentage": 0.04
+      "absolute": 44,
+      "percentage": 0.06
     },
     "Chorweiler": {
-      "absolute": 322,
+      "absolute": 330,
       "percentage": 0.42
     },
     "Porz": {
-      "absolute": 25,
+      "absolute": 26,
       "percentage": 0.03
     },
     "Kalk": {
-      "absolute": 6,
-      "percentage": 0.01
-    },
-    "unknown": {
-      "absolute": 78,
-      "percentage": 0.1
+      "absolute": 21,
+      "percentage": 0.03
     }
   },
   "Fagus": {
     "Mülheim": {
-      "absolute": 28,
-      "percentage": 0.03
-    },
-    "Kalk": {
-      "absolute": 54,
+      "absolute": 50,
       "percentage": 0.06
     },
+    "Kalk": {
+      "absolute": 69,
+      "percentage": 0.08
+    },
     "Innenstadt": {
-      "absolute": 89,
-      "percentage": 0.1
+      "absolute": 103,
+      "percentage": 0.12
     },
     "Lindenthal": {
-      "absolute": 248,
+      "absolute": 254,
       "percentage": 0.29
     },
     "Rodenkirchen": {
-      "absolute": 58,
-      "percentage": 0.07
+      "absolute": 86,
+      "percentage": 0.1
     },
     "Ehrenfeld": {
-      "absolute": 63,
-      "percentage": 0.07
+      "absolute": 85,
+      "percentage": 0.1
     },
     "Chorweiler": {
-      "absolute": 59,
+      "absolute": 62,
       "percentage": 0.07
     },
     "Porz": {
-      "absolute": 74,
-      "percentage": 0.09
+      "absolute": 117,
+      "percentage": 0.13
     },
     "Nippes": {
-      "absolute": 36,
+      "absolute": 46,
+      "percentage": 0.05
+    }
+  },
+  "Liriodendron": {
+    "Mülheim": {
+      "absolute": 11,
+      "percentage": 0.05
+    },
+    "Innenstadt": {
+      "absolute": 96,
+      "percentage": 0.47
+    },
+    "Lindenthal": {
+      "absolute": 23,
+      "percentage": 0.11
+    },
+    "Ehrenfeld": {
+      "absolute": 11,
+      "percentage": 0.05
+    },
+    "Nippes": {
+      "absolute": 37,
+      "percentage": 0.18
+    },
+    "Chorweiler": {
+      "absolute": 9,
       "percentage": 0.04
     },
-    "unknown": {
-      "absolute": 142,
-      "percentage": 0.17
+    "Porz": {
+      "absolute": 13,
+      "percentage": 0.06
+    },
+    "Kalk": {
+      "absolute": 1,
+      "percentage": 0.0
+    },
+    "Rodenkirchen": {
+      "absolute": 4,
+      "percentage": 0.02
     }
   },
   "Malus": {
     "Mülheim": {
-      "absolute": 48,
-      "percentage": 0.06
+      "absolute": 82,
+      "percentage": 0.1
     },
     "Kalk": {
-      "absolute": 22,
-      "percentage": 0.03
+      "absolute": 52,
+      "percentage": 0.06
+    },
+    "Nippes": {
+      "absolute": 61,
+      "percentage": 0.08
     },
     "Innenstadt": {
       "absolute": 54,
       "percentage": 0.07
     },
     "Lindenthal": {
-      "absolute": 158,
-      "percentage": 0.2
+      "absolute": 176,
+      "percentage": 0.22
     },
     "Rodenkirchen": {
-      "absolute": 30,
-      "percentage": 0.04
-    },
-    "Ehrenfeld": {
       "absolute": 42,
       "percentage": 0.05
     },
-    "Nippes": {
-      "absolute": 34,
-      "percentage": 0.04
+    "Ehrenfeld": {
+      "absolute": 50,
+      "percentage": 0.06
     },
     "Chorweiler": {
-      "absolute": 95,
-      "percentage": 0.12
+      "absolute": 146,
+      "percentage": 0.18
     },
     "Porz": {
-      "absolute": 84,
-      "percentage": 0.11
+      "absolute": 143,
+      "percentage": 0.18
     },
     "unknown": {
-      "absolute": 231,
-      "percentage": 0.29
+      "absolute": 2,
+      "percentage": 0.0
     }
   },
   "Populus": {
     "Mülheim": {
-      "absolute": 150,
-      "percentage": 0.17
+      "absolute": 197,
+      "percentage": 0.22
     },
     "Kalk": {
-      "absolute": 32,
-      "percentage": 0.04
+      "absolute": 47,
+      "percentage": 0.05
     },
     "Innenstadt": {
-      "absolute": 147,
-      "percentage": 0.17
+      "absolute": 170,
+      "percentage": 0.19
     },
     "Lindenthal": {
-      "absolute": 92,
-      "percentage": 0.11
+      "absolute": 102,
+      "percentage": 0.12
     },
     "Rodenkirchen": {
-      "absolute": 23,
-      "percentage": 0.03
-    },
-    "Ehrenfeld": {
-      "absolute": 67,
-      "percentage": 0.08
-    },
-    "Nippes": {
       "absolute": 44,
       "percentage": 0.05
     },
+    "Ehrenfeld": {
+      "absolute": 55,
+      "percentage": 0.06
+    },
+    "Nippes": {
+      "absolute": 48,
+      "percentage": 0.05
+    },
     "Chorweiler": {
-      "absolute": 141,
-      "percentage": 0.16
+      "absolute": 178,
+      "percentage": 0.2
     },
     "Porz": {
-      "absolute": 19,
-      "percentage": 0.02
-    },
-    "unknown": {
-      "absolute": 154,
-      "percentage": 0.18
+      "absolute": 37,
+      "percentage": 0.04
     }
   },
   "Picea": {
     "Mülheim": {
-      "absolute": 28,
-      "percentage": 0.06
+      "absolute": 44,
+      "percentage": 0.09
     },
     "Kalk": {
-      "absolute": 14,
-      "percentage": 0.03
+      "absolute": 55,
+      "percentage": 0.12
     },
     "Innenstadt": {
-      "absolute": 27,
-      "percentage": 0.06
+      "absolute": 32,
+      "percentage": 0.07
     },
     "Lindenthal": {
-      "absolute": 98,
+      "absolute": 101,
       "percentage": 0.22
     },
     "Rodenkirchen": {
+      "absolute": 54,
+      "percentage": 0.12
+    },
+    "Nippes": {
+      "absolute": 70,
+      "percentage": 0.15
+    },
+    "Porz": {
+      "absolute": 26,
+      "percentage": 0.06
+    },
+    "Chorweiler": {
       "absolute": 51,
       "percentage": 0.11
     },
-    "Nippes": {
-      "absolute": 47,
-      "percentage": 0.1
+    "Ehrenfeld": {
+      "absolute": 34,
+      "percentage": 0.07
+    }
+  },
+  "Cornus": {
+    "Mülheim": {
+      "absolute": 44,
+      "percentage": 0.16
     },
-    "Porz": {
-      "absolute": 16,
-      "percentage": 0.04
+    "Innenstadt": {
+      "absolute": 51,
+      "percentage": 0.19
     },
     "Chorweiler": {
-      "absolute": 30,
-      "percentage": 0.07
+      "absolute": 36,
+      "percentage": 0.13
+    },
+    "Lindenthal": {
+      "absolute": 10,
+      "percentage": 0.04
+    },
+    "Nippes": {
+      "absolute": 48,
+      "percentage": 0.18
+    },
+    "Kalk": {
+      "absolute": 25,
+      "percentage": 0.09
     },
     "Ehrenfeld": {
-      "absolute": 21,
+      "absolute": 31,
+      "percentage": 0.12
+    },
+    "Porz": {
+      "absolute": 13,
       "percentage": 0.05
     },
-    "unknown": {
-      "absolute": 117,
-      "percentage": 0.26
+    "Rodenkirchen": {
+      "absolute": 9,
+      "percentage": 0.03
     }
   },
   "Parrotia": {
@@ -1093,7 +1109,7 @@
       "percentage": 0.01
     },
     "Innenstadt": {
-      "absolute": 44,
+      "absolute": 43,
       "percentage": 0.33
     },
     "Lindenthal": {
@@ -1101,94 +1117,90 @@
       "percentage": 0.47
     },
     "Ehrenfeld": {
-      "absolute": 8,
-      "percentage": 0.06
+      "absolute": 9,
+      "percentage": 0.07
     },
     "Nippes": {
-      "absolute": 13,
-      "percentage": 0.1
+      "absolute": 14,
+      "percentage": 0.11
     },
     "Porz": {
-      "absolute": 2,
-      "percentage": 0.02
-    },
-    "unknown": {
       "absolute": 3,
       "percentage": 0.02
     }
   },
   "Salix": {
     "Mülheim": {
-      "absolute": 160,
-      "percentage": 0.19
+      "absolute": 237,
+      "percentage": 0.27
     },
     "Kalk": {
-      "absolute": 30,
-      "percentage": 0.03
+      "absolute": 73,
+      "percentage": 0.08
     },
     "Innenstadt": {
-      "absolute": 36,
-      "percentage": 0.04
+      "absolute": 49,
+      "percentage": 0.06
     },
     "Porz": {
-      "absolute": 50,
-      "percentage": 0.06
+      "absolute": 97,
+      "percentage": 0.11
     },
     "Rodenkirchen": {
-      "absolute": 29,
-      "percentage": 0.03
+      "absolute": 75,
+      "percentage": 0.09
     },
     "Lindenthal": {
-      "absolute": 45,
-      "percentage": 0.05
+      "absolute": 58,
+      "percentage": 0.07
     },
     "Ehrenfeld": {
-      "absolute": 53,
-      "percentage": 0.06
+      "absolute": 75,
+      "percentage": 0.09
     },
     "Nippes": {
-      "absolute": 35,
-      "percentage": 0.04
+      "absolute": 58,
+      "percentage": 0.07
     },
     "Chorweiler": {
-      "absolute": 100,
-      "percentage": 0.12
+      "absolute": 157,
+      "percentage": 0.18
     },
     "unknown": {
-      "absolute": 325,
-      "percentage": 0.38
+      "absolute": 1,
+      "percentage": 0.0
     }
   },
   "Larix": {
     "Mülheim": {
-      "absolute": 5,
-      "percentage": 0.05
+      "absolute": 14,
+      "percentage": 0.15
     },
     "Kalk": {
-      "absolute": 1,
-      "percentage": 0.01
-    },
-    "Lindenthal": {
-      "absolute": 37,
-      "percentage": 0.39
-    },
-    "Nippes": {
-      "absolute": 9,
-      "percentage": 0.1
-    },
-    "Innenstadt": {
       "absolute": 5,
       "percentage": 0.05
     },
-    "unknown": {
-      "absolute": 28,
-      "percentage": 0.3
+    "Lindenthal": {
+      "absolute": 36,
+      "percentage": 0.38
     },
-    "Chorweiler": {
-      "absolute": 4,
-      "percentage": 0.04
+    "Nippes": {
+      "absolute": 13,
+      "percentage": 0.14
     },
     "Ehrenfeld": {
+      "absolute": 8,
+      "percentage": 0.08
+    },
+    "Innenstadt": {
+      "absolute": 8,
+      "percentage": 0.08
+    },
+    "Chorweiler": {
+      "absolute": 6,
+      "percentage": 0.06
+    },
+    "Porz": {
       "absolute": 4,
       "percentage": 0.04
     },
@@ -1199,92 +1211,84 @@
   },
   "Pinus": {
     "Mülheim": {
-      "absolute": 63,
-      "percentage": 0.04
+      "absolute": 140,
+      "percentage": 0.1
     },
     "Kalk": {
-      "absolute": 57,
-      "percentage": 0.04
+      "absolute": 110,
+      "percentage": 0.08
     },
     "Innenstadt": {
-      "absolute": 195,
-      "percentage": 0.14
-    },
-    "Nippes": {
-      "absolute": 77,
-      "percentage": 0.05
-    },
-    "Lindenthal": {
-      "absolute": 231,
+      "absolute": 229,
       "percentage": 0.16
     },
+    "Lindenthal": {
+      "absolute": 244,
+      "percentage": 0.17
+    },
     "Rodenkirchen": {
-      "absolute": 93,
-      "percentage": 0.06
+      "absolute": 129,
+      "percentage": 0.09
     },
     "Ehrenfeld": {
-      "absolute": 163,
-      "percentage": 0.11
+      "absolute": 188,
+      "percentage": 0.13
+    },
+    "Nippes": {
+      "absolute": 115,
+      "percentage": 0.08
     },
     "Chorweiler": {
-      "absolute": 93,
-      "percentage": 0.06
+      "absolute": 131,
+      "percentage": 0.09
     },
     "Porz": {
-      "absolute": 64,
-      "percentage": 0.04
-    },
-    "unknown": {
-      "absolute": 403,
-      "percentage": 0.28
+      "absolute": 170,
+      "percentage": 0.12
     }
   },
   "Ginkgo": {
     "Mülheim": {
-      "absolute": 12,
-      "percentage": 0.03
+      "absolute": 17,
+      "percentage": 0.04
     },
     "Kalk": {
-      "absolute": 11,
-      "percentage": 0.02
+      "absolute": 18,
+      "percentage": 0.04
     },
     "Innenstadt": {
-      "absolute": 138,
-      "percentage": 0.29
+      "absolute": 148,
+      "percentage": 0.31
+    },
+    "Lindenthal": {
+      "absolute": 85,
+      "percentage": 0.18
+    },
+    "Rodenkirchen": {
+      "absolute": 47,
+      "percentage": 0.1
     },
     "Ehrenfeld": {
+      "absolute": 43,
+      "percentage": 0.09
+    },
+    "Nippes": {
       "absolute": 37,
       "percentage": 0.08
     },
-    "Lindenthal": {
-      "absolute": 82,
-      "percentage": 0.17
-    },
-    "Rodenkirchen": {
-      "absolute": 39,
-      "percentage": 0.08
-    },
-    "Nippes": {
-      "absolute": 36,
-      "percentage": 0.08
-    },
     "Porz": {
-      "absolute": 61,
-      "percentage": 0.13
+      "absolute": 67,
+      "percentage": 0.14
     },
     "Chorweiler": {
-      "absolute": 15,
-      "percentage": 0.03
-    },
-    "unknown": {
-      "absolute": 48,
-      "percentage": 0.1
+      "absolute": 17,
+      "percentage": 0.04
     }
   },
   "Cedrus": {
     "Mülheim": {
-      "absolute": 6,
-      "percentage": 0.08
+      "absolute": 10,
+      "percentage": 0.14
     },
     "Innenstadt": {
       "absolute": 21,
@@ -1295,24 +1299,20 @@
       "percentage": 0.04
     },
     "Lindenthal": {
-      "absolute": 16,
-      "percentage": 0.23
-    },
-    "Ehrenfeld": {
-      "absolute": 2,
-      "percentage": 0.03
+      "absolute": 17,
+      "percentage": 0.24
     },
     "Nippes": {
-      "absolute": 14,
-      "percentage": 0.2
-    },
-    "unknown": {
-      "absolute": 7,
-      "percentage": 0.1
+      "absolute": 15,
+      "percentage": 0.21
     },
     "Porz": {
-      "absolute": 2,
-      "percentage": 0.03
+      "absolute": 4,
+      "percentage": 0.06
+    },
+    "Ehrenfeld": {
+      "absolute": 1,
+      "percentage": 0.01
     }
   },
   "Liquidambar": {
@@ -1321,120 +1321,108 @@
       "percentage": 0.16
     },
     "Innenstadt": {
-      "absolute": 32,
-      "percentage": 0.1
-    },
-    "Lindenthal": {
-      "absolute": 51,
-      "percentage": 0.15
-    },
-    "Ehrenfeld": {
-      "absolute": 38,
-      "percentage": 0.11
-    },
-    "Nippes": {
-      "absolute": 21,
-      "percentage": 0.06
-    },
-    "Rodenkirchen": {
-      "absolute": 22,
-      "percentage": 0.07
-    },
-    "Porz": {
-      "absolute": 24,
-      "percentage": 0.07
-    },
-    "Chorweiler": {
       "absolute": 33,
       "percentage": 0.1
     },
-    "Mülheim": {
+    "Lindenthal": {
+      "absolute": 57,
+      "percentage": 0.17
+    },
+    "Ehrenfeld": {
+      "absolute": 46,
+      "percentage": 0.14
+    },
+    "Nippes": {
       "absolute": 22,
       "percentage": 0.07
     },
-    "unknown": {
-      "absolute": 38,
-      "percentage": 0.11
+    "Rodenkirchen": {
+      "absolute": 28,
+      "percentage": 0.08
+    },
+    "Porz": {
+      "absolute": 31,
+      "percentage": 0.09
+    },
+    "Chorweiler": {
+      "absolute": 35,
+      "percentage": 0.1
+    },
+    "Mülheim": {
+      "absolute": 30,
+      "percentage": 0.09
     }
   },
   "Alnus": {
     "Kalk": {
-      "absolute": 19,
+      "absolute": 21,
       "percentage": 0.07
     },
     "Porz": {
-      "absolute": 38,
-      "percentage": 0.13
+      "absolute": 78,
+      "percentage": 0.27
     },
     "Lindenthal": {
-      "absolute": 41,
-      "percentage": 0.14
+      "absolute": 42,
+      "percentage": 0.15
     },
     "Nippes": {
-      "absolute": 27,
-      "percentage": 0.1
+      "absolute": 30,
+      "percentage": 0.11
     },
     "Chorweiler": {
-      "absolute": 51,
-      "percentage": 0.18
+      "absolute": 57,
+      "percentage": 0.2
     },
     "Innenstadt": {
       "absolute": 4,
       "percentage": 0.01
     },
     "Rodenkirchen": {
-      "absolute": 11,
-      "percentage": 0.04
+      "absolute": 13,
+      "percentage": 0.05
     },
     "Ehrenfeld": {
-      "absolute": 17,
-      "percentage": 0.06
+      "absolute": 30,
+      "percentage": 0.11
     },
     "Mülheim": {
-      "absolute": 4,
-      "percentage": 0.01
-    },
-    "unknown": {
-      "absolute": 71,
-      "percentage": 0.25
+      "absolute": 9,
+      "percentage": 0.03
     }
   },
   "Pterocarya": {
     "Kalk": {
-      "absolute": 27,
-      "percentage": 0.2
+      "absolute": 33,
+      "percentage": 0.24
     },
     "Innenstadt": {
-      "absolute": 38,
-      "percentage": 0.29
+      "absolute": 34,
+      "percentage": 0.25
     },
     "Lindenthal": {
-      "absolute": 2,
+      "absolute": 3,
       "percentage": 0.02
     },
     "Rodenkirchen": {
       "absolute": 2,
-      "percentage": 0.02
+      "percentage": 0.01
     },
     "Porz": {
-      "absolute": 1,
-      "percentage": 0.01
+      "absolute": 9,
+      "percentage": 0.07
     },
     "Ehrenfeld": {
       "absolute": 7,
       "percentage": 0.05
     },
     "Nippes": {
-      "absolute": 9,
-      "percentage": 0.07
-    },
-    "unknown": {
-      "absolute": 43,
-      "percentage": 0.32
+      "absolute": 24,
+      "percentage": 0.17
     },
     "Mülheim": {
-      "absolute": 1,
-      "percentage": 0.01
+      "absolute": 23,
+      "percentage": 0.17
     },
     "Chorweiler": {
       "absolute": 3,
@@ -1454,127 +1442,89 @@
       "absolute": 1,
       "percentage": 0.2
     },
-    "unknown": {
+    "Chorweiler": {
       "absolute": 1,
       "percentage": 0.2
     }
   },
   "Taxus": {
     "Nippes": {
-      "absolute": 109,
-      "percentage": 0.12
+      "absolute": 147,
+      "percentage": 0.16
     },
     "Innenstadt": {
-      "absolute": 165,
-      "percentage": 0.18
+      "absolute": 218,
+      "percentage": 0.23
     },
     "Lindenthal": {
-      "absolute": 79,
-      "percentage": 0.09
+      "absolute": 100,
+      "percentage": 0.11
     },
     "Ehrenfeld": {
-      "absolute": 39,
-      "percentage": 0.04
+      "absolute": 56,
+      "percentage": 0.06
     },
     "Porz": {
-      "absolute": 21,
-      "percentage": 0.02
+      "absolute": 95,
+      "percentage": 0.1
     },
     "Rodenkirchen": {
-      "absolute": 71,
-      "percentage": 0.08
+      "absolute": 130,
+      "percentage": 0.14
     },
     "Mülheim": {
-      "absolute": 25,
-      "percentage": 0.03
+      "absolute": 56,
+      "percentage": 0.06
     },
     "Chorweiler": {
-      "absolute": 41,
-      "percentage": 0.04
-    },
-    "unknown": {
-      "absolute": 346,
-      "percentage": 0.37
+      "absolute": 80,
+      "percentage": 0.08
     },
     "Kalk": {
-      "absolute": 30,
-      "percentage": 0.03
+      "absolute": 63,
+      "percentage": 0.07
+    },
+    "unknown": {
+      "absolute": 1,
+      "percentage": 0.0
     }
   },
   "Juglans": {
     "Innenstadt": {
-      "absolute": 41,
-      "percentage": 0.12
+      "absolute": 45,
+      "percentage": 0.13
     },
     "Lindenthal": {
-      "absolute": 34,
-      "percentage": 0.1
-    },
-    "Rodenkirchen": {
-      "absolute": 18,
-      "percentage": 0.05
-    },
-    "Ehrenfeld": {
-      "absolute": 16,
-      "percentage": 0.05
-    },
-    "Nippes": {
       "absolute": 40,
       "percentage": 0.12
     },
-    "Porz": {
-      "absolute": 20,
-      "percentage": 0.06
-    },
-    "Chorweiler": {
-      "absolute": 65,
-      "percentage": 0.19
-    },
-    "Mülheim": {
-      "absolute": 9,
-      "percentage": 0.03
-    },
-    "unknown": {
-      "absolute": 91,
-      "percentage": 0.27
-    },
-    "Kalk": {
-      "absolute": 7,
-      "percentage": 0.02
-    }
-  },
-  "Liriodendron": {
-    "Innenstadt": {
-      "absolute": 90,
-      "percentage": 0.44
-    },
-    "Lindenthal": {
-      "absolute": 23,
-      "percentage": 0.11
+    "Rodenkirchen": {
+      "absolute": 24,
+      "percentage": 0.07
     },
     "Ehrenfeld": {
-      "absolute": 11,
-      "percentage": 0.05
+      "absolute": 27,
+      "percentage": 0.08
     },
     "Nippes": {
-      "absolute": 38,
-      "percentage": 0.19
-    },
-    "Chorweiler": {
-      "absolute": 9,
-      "percentage": 0.04
+      "absolute": 52,
+      "percentage": 0.15
     },
     "Porz": {
-      "absolute": 10,
-      "percentage": 0.05
+      "absolute": 40,
+      "percentage": 0.12
+    },
+    "Chorweiler": {
+      "absolute": 86,
+      "percentage": 0.25
     },
     "Mülheim": {
-      "absolute": 5,
-      "percentage": 0.02
+      "absolute": 21,
+      "percentage": 0.06
     },
-    "unknown": {
-      "absolute": 17,
-      "percentage": 0.08
+    "Kalk": {
+      "absolute": 12,
+      "percentage": 0.03
     }
   },
   "Ostrya": {
@@ -1591,16 +1541,12 @@
       "percentage": 0.17
     },
     "Chorweiler": {
-      "absolute": 11,
-      "percentage": 0.27
+      "absolute": 15,
+      "percentage": 0.37
     },
     "Nippes": {
       "absolute": 5,
       "percentage": 0.12
-    },
-    "unknown": {
-      "absolute": 4,
-      "percentage": 0.1
     }
   },
   "Phellodendron": {
@@ -1615,116 +1561,78 @@
   },
   "Ilex": {
     "Innenstadt": {
-      "absolute": 30,
+      "absolute": 31,
       "percentage": 0.28
     },
     "Nippes": {
-      "absolute": 29,
-      "percentage": 0.27
+      "absolute": 31,
+      "percentage": 0.28
     },
     "Chorweiler": {
+      "absolute": 8,
+      "percentage": 0.07
+    },
+    "Mülheim": {
+      "absolute": 1,
+      "percentage": 0.01
+    },
+    "Rodenkirchen": {
+      "absolute": 5,
+      "percentage": 0.05
+    },
+    "Kalk": {
       "absolute": 3,
       "percentage": 0.03
     },
-    "unknown": {
-      "absolute": 28,
-      "percentage": 0.26
+    "Lindenthal": {
+      "absolute": 18,
+      "percentage": 0.16
     },
-    "Rodenkirchen": {
+    "Ehrenfeld": {
       "absolute": 2,
       "percentage": 0.02
     },
-    "Kalk": {
-      "absolute": 1,
-      "percentage": 0.01
-    },
-    "Lindenthal": {
+    "Porz": {
       "absolute": 10,
       "percentage": 0.09
     },
-    "Ehrenfeld": {
+    "unknown": {
       "absolute": 1,
       "percentage": 0.01
-    },
-    "Porz": {
-      "absolute": 2,
-      "percentage": 0.02
-    }
-  },
-  "Cornus": {
-    "Innenstadt": {
-      "absolute": 46,
-      "percentage": 0.18
-    },
-    "Lindenthal": {
-      "absolute": 8,
-      "percentage": 0.03
-    },
-    "Chorweiler": {
-      "absolute": 21,
-      "percentage": 0.08
-    },
-    "Nippes": {
-      "absolute": 34,
-      "percentage": 0.13
-    },
-    "unknown": {
-      "absolute": 93,
-      "percentage": 0.37
-    },
-    "Mülheim": {
-      "absolute": 15,
-      "percentage": 0.06
-    },
-    "Kalk": {
-      "absolute": 9,
-      "percentage": 0.04
-    },
-    "Porz": {
-      "absolute": 8,
-      "percentage": 0.03
-    },
-    "Ehrenfeld": {
-      "absolute": 19,
-      "percentage": 0.07
-    },
-    "Rodenkirchen": {
-      "absolute": 1,
-      "percentage": 0.0
     }
   },
   "Magnolia": {
     "Innenstadt": {
-      "absolute": 29,
-      "percentage": 0.17
+      "absolute": 32,
+      "percentage": 0.18
     },
     "Lindenthal": {
       "absolute": 62,
-      "percentage": 0.36
+      "percentage": 0.35
     },
     "Chorweiler": {
-      "absolute": 27,
+      "absolute": 28,
       "percentage": 0.16
     },
     "Porz": {
-      "absolute": 3,
-      "percentage": 0.02
+      "absolute": 15,
+      "percentage": 0.09
     },
     "Nippes": {
-      "absolute": 29,
-      "percentage": 0.17
+      "absolute": 32,
+      "percentage": 0.18
     },
-    "unknown": {
-      "absolute": 20,
-      "percentage": 0.12
-    },
-    "Kalk": {
+    "Mülheim": {
       "absolute": 2,
       "percentage": 0.01
+    },
+    "Kalk": {
+      "absolute": 4,
+      "percentage": 0.02
     }
   },
   "Hippophae": {
-    "Innenstadt": {
+    "Lindenthal": {
       "absolute": 1,
       "percentage": 0.33
     },
@@ -1743,8 +1651,8 @@
       "percentage": 0.28
     },
     "Lindenthal": {
-      "absolute": 4,
-      "percentage": 0.09
+      "absolute": 9,
+      "percentage": 0.2
     },
     "Porz": {
       "absolute": 4,
@@ -1765,30 +1673,26 @@
     "Ehrenfeld": {
       "absolute": 1,
       "percentage": 0.02
-    },
-    "unknown": {
-      "absolute": 5,
-      "percentage": 0.11
     }
   },
   "Sequoia": {
     "Innenstadt": {
-      "absolute": 2,
-      "percentage": 0.33
+      "absolute": 1,
+      "percentage": 0.17
     },
     "Mülheim": {
       "absolute": 1,
       "percentage": 0.17
     },
     "Nippes": {
-      "absolute": 3,
-      "percentage": 0.5
+      "absolute": 4,
+      "percentage": 0.67
     }
   },
   "Paulownia": {
     "Innenstadt": {
-      "absolute": 14,
-      "percentage": 0.3
+      "absolute": 16,
+      "percentage": 0.35
     },
     "Lindenthal": {
       "absolute": 3,
@@ -1799,20 +1703,24 @@
       "percentage": 0.28
     },
     "Rodenkirchen": {
+      "absolute": 5,
+      "percentage": 0.11
+    },
+    "Mülheim": {
       "absolute": 3,
       "percentage": 0.07
     },
-    "unknown": {
-      "absolute": 10,
-      "percentage": 0.22
-    },
-    "Mülheim": {
+    "Chorweiler": {
       "absolute": 1,
       "percentage": 0.02
     },
     "Kalk": {
       "absolute": 1,
       "percentage": 0.02
+    },
+    "Porz": {
+      "absolute": 3,
+      "percentage": 0.07
     },
     "Ehrenfeld": {
       "absolute": 1,
@@ -1821,86 +1729,78 @@
   },
   "Castanea": {
     "Innenstadt": {
-      "absolute": 8,
-      "percentage": 0.06
+      "absolute": 10,
+      "percentage": 0.08
     },
     "Lindenthal": {
       "absolute": 27,
       "percentage": 0.21
     },
     "Ehrenfeld": {
-      "absolute": 6,
-      "percentage": 0.05
+      "absolute": 8,
+      "percentage": 0.06
     },
     "Chorweiler": {
       "absolute": 14,
       "percentage": 0.11
     },
     "Porz": {
-      "absolute": 3,
-      "percentage": 0.02
+      "absolute": 13,
+      "percentage": 0.1
     },
     "Rodenkirchen": {
-      "absolute": 6,
-      "percentage": 0.05
+      "absolute": 30,
+      "percentage": 0.23
     },
     "Nippes": {
-      "absolute": 8,
-      "percentage": 0.06
-    },
-    "unknown": {
-      "absolute": 51,
-      "percentage": 0.4
+      "absolute": 11,
+      "percentage": 0.09
     },
     "Mülheim": {
-      "absolute": 2,
-      "percentage": 0.02
+      "absolute": 10,
+      "percentage": 0.08
     },
     "Kalk": {
-      "absolute": 3,
-      "percentage": 0.02
+      "absolute": 5,
+      "percentage": 0.04
     }
   },
   "Abies": {
     "Lindenthal": {
-      "absolute": 54,
-      "percentage": 0.26
+      "absolute": 52,
+      "percentage": 0.25
     },
     "Porz": {
-      "absolute": 20,
-      "percentage": 0.1
+      "absolute": 46,
+      "percentage": 0.22
     },
     "Rodenkirchen": {
-      "absolute": 6,
+      "absolute": 7,
       "percentage": 0.03
     },
+    "Ehrenfeld": {
+      "absolute": 8,
+      "percentage": 0.04
+    },
     "Innenstadt": {
-      "absolute": 5,
+      "absolute": 4,
       "percentage": 0.02
     },
-    "Ehrenfeld": {
-      "absolute": 3,
-      "percentage": 0.01
-    },
     "Mülheim": {
-      "absolute": 12,
-      "percentage": 0.06
+      "absolute": 35,
+      "percentage": 0.17
     },
     "Nippes": {
-      "absolute": 23,
-      "percentage": 0.11
+      "absolute": 25,
+      "percentage": 0.12
     },
-    "unknown": {
-      "absolute": 65,
-      "percentage": 0.32
+    "Kalk": {
+      "absolute": 27,
+      "percentage": 0.13
     },
     "Chorweiler": {
       "absolute": 5,
       "percentage": 0.02
-    },
-    "Kalk": {
-      "absolute": 11,
-      "percentage": 0.05
     }
   },
   "Rhamnus": {
@@ -1919,44 +1819,44 @@
   },
   "Sambucus": {
     "Lindenthal": {
-      "absolute": 32,
-      "percentage": 0.13
+      "absolute": 59,
+      "percentage": 0.23
     },
     "Nippes": {
-      "absolute": 22,
-      "percentage": 0.09
+      "absolute": 43,
+      "percentage": 0.17
     },
     "Innenstadt": {
-      "absolute": 20,
-      "percentage": 0.08
+      "absolute": 37,
+      "percentage": 0.14
     },
     "Mülheim": {
-      "absolute": 2,
-      "percentage": 0.01
+      "absolute": 13,
+      "percentage": 0.05
     },
-    "unknown": {
-      "absolute": 129,
-      "percentage": 0.51
+    "Chorweiler": {
+      "absolute": 19,
+      "percentage": 0.07
     },
-    "Ehrenfeld": {
+    "Rodenkirchen": {
+      "absolute": 34,
+      "percentage": 0.13
+    },
+    "Kalk": {
       "absolute": 20,
       "percentage": 0.08
     },
-    "Chorweiler": {
-      "absolute": 8,
-      "percentage": 0.03
-    },
-    "Rodenkirchen": {
-      "absolute": 8,
-      "percentage": 0.03
-    },
-    "Kalk": {
-      "absolute": 9,
-      "percentage": 0.04
+    "Ehrenfeld": {
+      "absolute": 25,
+      "percentage": 0.1
     },
     "Porz": {
-      "absolute": 4,
-      "percentage": 0.02
+      "absolute": 8,
+      "percentage": 0.03
+    },
+    "unknown": {
+      "absolute": 1,
+      "percentage": 0.0
     }
   },
   "Photinia": {
@@ -1967,44 +1867,40 @@
   },
   "Verschiedene": {
     "Lindenthal": {
-      "absolute": 61,
-      "percentage": 0.17
+      "absolute": 71,
+      "percentage": 0.19
     },
     "Ehrenfeld": {
-      "absolute": 59,
-      "percentage": 0.16
+      "absolute": 68,
+      "percentage": 0.18
     },
     "Chorweiler": {
-      "absolute": 37,
-      "percentage": 0.1
+      "absolute": 71,
+      "percentage": 0.19
     },
     "Rodenkirchen": {
-      "absolute": 13,
-      "percentage": 0.04
-    },
-    "Innenstadt": {
-      "absolute": 15,
-      "percentage": 0.04
-    },
-    "Nippes": {
-      "absolute": 18,
+      "absolute": 19,
       "percentage": 0.05
     },
-    "Kalk": {
-      "absolute": 14,
-      "percentage": 0.04
+    "Innenstadt": {
+      "absolute": 20,
+      "percentage": 0.05
     },
-    "Mülheim": {
-      "absolute": 24,
-      "percentage": 0.07
-    },
-    "unknown": {
-      "absolute": 101,
-      "percentage": 0.28
-    },
-    "Porz": {
+    "Nippes": {
       "absolute": 23,
       "percentage": 0.06
+    },
+    "Mülheim": {
+      "absolute": 33,
+      "percentage": 0.09
+    },
+    "Kalk": {
+      "absolute": 24,
+      "percentage": 0.06
+    },
+    "Porz": {
+      "absolute": 43,
+      "percentage": 0.12
     }
   },
   "Cupressocyparis": {
@@ -2019,108 +1915,108 @@
   },
   "Chamaecyparis": {
     "Lindenthal": {
-      "absolute": 78,
-      "percentage": 0.49
-    },
-    "Ehrenfeld": {
-      "absolute": 4,
-      "percentage": 0.03
+      "absolute": 82,
+      "percentage": 0.5
     },
     "Nippes": {
-      "absolute": 40,
-      "percentage": 0.25
+      "absolute": 45,
+      "percentage": 0.27
     },
     "Innenstadt": {
-      "absolute": 5,
-      "percentage": 0.03
-    },
-    "unknown": {
-      "absolute": 17,
-      "percentage": 0.11
+      "absolute": 8,
+      "percentage": 0.05
     },
     "Mülheim": {
-      "absolute": 2,
+      "absolute": 6,
+      "percentage": 0.04
+    },
+    "Rodenkirchen": {
+      "absolute": 1,
       "percentage": 0.01
     },
     "Chorweiler": {
-      "absolute": 10,
-      "percentage": 0.06
+      "absolute": 12,
+      "percentage": 0.07
     },
     "Kalk": {
+      "absolute": 6,
+      "percentage": 0.04
+    },
+    "Porz": {
+      "absolute": 2,
+      "percentage": 0.01
+    },
+    "Ehrenfeld": {
       "absolute": 2,
       "percentage": 0.01
     }
   },
   "Caragana": {
     "Ehrenfeld": {
-      "absolute": 34,
-      "percentage": 0.2
+      "absolute": 47,
+      "percentage": 0.25
+    },
+    "Innenstadt": {
+      "absolute": 7,
+      "percentage": 0.04
     },
     "Chorweiler": {
-      "absolute": 74,
-      "percentage": 0.44
-    },
-    "Lindenthal": {
-      "absolute": 3,
-      "percentage": 0.02
+      "absolute": 123,
+      "percentage": 0.66
     },
     "Mülheim": {
       "absolute": 1,
       "percentage": 0.01
     },
-    "Innenstadt": {
-      "absolute": 5,
-      "percentage": 0.03
+    "Nippes": {
+      "absolute": 1,
+      "percentage": 0.01
     },
-    "unknown": {
-      "absolute": 47,
-      "percentage": 0.28
+    "Lindenthal": {
+      "absolute": 1,
+      "percentage": 0.01
     },
     "Rodenkirchen": {
       "absolute": 6,
-      "percentage": 0.04
+      "percentage": 0.03
     }
   },
   "Pseudotsuga": {
     "Porz": {
-      "absolute": 1,
-      "percentage": 0.01
+      "absolute": 10,
+      "percentage": 0.09
     },
     "Ehrenfeld": {
-      "absolute": 17,
-      "percentage": 0.15
+      "absolute": 21,
+      "percentage": 0.19
     },
     "Rodenkirchen": {
       "absolute": 2,
       "percentage": 0.02
     },
     "Lindenthal": {
-      "absolute": 16,
-      "percentage": 0.15
+      "absolute": 15,
+      "percentage": 0.13
     },
     "Nippes": {
-      "absolute": 10,
-      "percentage": 0.09
+      "absolute": 18,
+      "percentage": 0.16
     },
     "Innenstadt": {
-      "absolute": 3,
-      "percentage": 0.03
-    },
-    "unknown": {
-      "absolute": 46,
-      "percentage": 0.42
-    },
-    "Mülheim": {
       "absolute": 7,
       "percentage": 0.06
     },
+    "Mülheim": {
+      "absolute": 17,
+      "percentage": 0.15
+    },
     "Chorweiler": {
-      "absolute": 3,
-      "percentage": 0.03
+      "absolute": 11,
+      "percentage": 0.1
     },
     "Kalk": {
-      "absolute": 5,
-      "percentage": 0.05
+      "absolute": 11,
+      "percentage": 0.1
     }
   },
   "Cercis": {
@@ -2129,54 +2025,54 @@
       "percentage": 0.36
     },
     "Innenstadt": {
-      "absolute": 8,
-      "percentage": 0.36
+      "absolute": 7,
+      "percentage": 0.32
     },
     "Lindenthal": {
       "absolute": 1,
       "percentage": 0.05
     },
     "Nippes": {
-      "absolute": 3,
-      "percentage": 0.14
+      "absolute": 4,
+      "percentage": 0.18
     },
-    "unknown": {
+    "Mülheim": {
       "absolute": 2,
       "percentage": 0.09
     }
   },
   "Tsuga": {
     "Lindenthal": {
-      "absolute": 157,
-      "percentage": 0.77
+      "absolute": 160,
+      "percentage": 0.78
     },
     "Nippes": {
+      "absolute": 8,
+      "percentage": 0.04
+    },
+    "Innenstadt": {
       "absolute": 6,
       "percentage": 0.03
     },
-    "Innenstadt": {
-      "absolute": 5,
-      "percentage": 0.02
-    },
-    "unknown": {
-      "absolute": 26,
-      "percentage": 0.13
-    },
     "Mülheim": {
-      "absolute": 5,
-      "percentage": 0.02
+      "absolute": 18,
+      "percentage": 0.09
     },
     "Chorweiler": {
       "absolute": 1,
       "percentage": 0.0
     },
     "Rodenkirchen": {
-      "absolute": 1,
-      "percentage": 0.0
+      "absolute": 4,
+      "percentage": 0.02
     },
     "Kalk": {
-      "absolute": 2,
-      "percentage": 0.01
+      "absolute": 7,
+      "percentage": 0.03
+    },
+    "Porz": {
+      "absolute": 1,
+      "percentage": 0.0
     }
   },
   "Zelkova": {
@@ -2199,78 +2095,70 @@
   },
   "Thuja": {
     "Rodenkirchen": {
-      "absolute": 5,
-      "percentage": 0.01
+      "absolute": 15,
+      "percentage": 0.03
     },
     "Lindenthal": {
-      "absolute": 393,
-      "percentage": 0.77
+      "absolute": 411,
+      "percentage": 0.78
     },
     "Ehrenfeld": {
-      "absolute": 9,
+      "absolute": 10,
       "percentage": 0.02
     },
     "Nippes": {
-      "absolute": 26,
-      "percentage": 0.05
+      "absolute": 32,
+      "percentage": 0.06
     },
     "Innenstadt": {
-      "absolute": 26,
-      "percentage": 0.05
+      "absolute": 33,
+      "percentage": 0.06
     },
     "Chorweiler": {
       "absolute": 6,
       "percentage": 0.01
-    },
-    "unknown": {
-      "absolute": 31,
-      "percentage": 0.06
     },
     "Mülheim": {
       "absolute": 4,
       "percentage": 0.01
     },
     "Kalk": {
-      "absolute": 11,
-      "percentage": 0.02
+      "absolute": 14,
+      "percentage": 0.03
     },
     "Porz": {
-      "absolute": 2,
-      "percentage": 0.0
+      "absolute": 4,
+      "percentage": 0.01
     }
   },
   "Cercidiphyllum": {
     "Ehrenfeld": {
-      "absolute": 10,
-      "percentage": 0.15
+      "absolute": 17,
+      "percentage": 0.25
     },
     "Lindenthal": {
       "absolute": 1,
       "percentage": 0.01
     },
     "Porz": {
-      "absolute": 28,
-      "percentage": 0.41
+      "absolute": 31,
+      "percentage": 0.46
     },
     "Mülheim": {
       "absolute": 10,
       "percentage": 0.15
     },
     "Nippes": {
-      "absolute": 3,
-      "percentage": 0.04
-    },
-    "Innenstadt": {
       "absolute": 4,
       "percentage": 0.06
+    },
+    "Innenstadt": {
+      "absolute": 3,
+      "percentage": 0.04
     },
     "Kalk": {
       "absolute": 2,
       "percentage": 0.03
-    },
-    "unknown": {
-      "absolute": 10,
-      "percentage": 0.15
     }
   },
   "Morus": {
@@ -2279,14 +2167,10 @@
       "percentage": 0.15
     },
     "Nippes": {
-      "absolute": 6,
-      "percentage": 0.46
+      "absolute": 9,
+      "percentage": 0.69
     },
     "Innenstadt": {
-      "absolute": 3,
-      "percentage": 0.23
-    },
-    "unknown": {
       "absolute": 2,
       "percentage": 0.15
     }
@@ -2296,6 +2180,10 @@
       "absolute": 1,
       "percentage": 0.08
     },
+    "Nippes": {
+      "absolute": 4,
+      "percentage": 0.33
+    },
     "Innenstadt": {
       "absolute": 2,
       "percentage": 0.17
@@ -2304,19 +2192,15 @@
       "absolute": 1,
       "percentage": 0.08
     },
-    "unknown": {
-      "absolute": 5,
-      "percentage": 0.42
-    },
     "Mülheim": {
-      "absolute": 1,
-      "percentage": 0.08
-    },
-    "Nippes": {
-      "absolute": 1,
-      "percentage": 0.08
+      "absolute": 2,
+      "percentage": 0.17
     },
     "Ehrenfeld": {
+      "absolute": 1,
+      "percentage": 0.08
+    },
+    "Porz": {
       "absolute": 1,
       "percentage": 0.08
     }
@@ -2339,44 +2223,44 @@
       "percentage": 0.12
     },
     "Rodenkirchen": {
-      "absolute": 2,
-      "percentage": 0.25
-    },
-    "unknown": {
-      "absolute": 2,
-      "percentage": 0.25
+      "absolute": 4,
+      "percentage": 0.5
     }
   },
   "Juniperus": {
     "Lindenthal": {
-      "absolute": 4,
-      "percentage": 0.09
+      "absolute": 13,
+      "percentage": 0.27
     },
     "Nippes": {
       "absolute": 8,
-      "percentage": 0.18
+      "percentage": 0.16
     },
     "Innenstadt": {
-      "absolute": 4,
-      "percentage": 0.09
-    },
-    "Mülheim": {
-      "absolute": 2,
-      "percentage": 0.05
-    },
-    "unknown": {
-      "absolute": 21,
-      "percentage": 0.48
-    },
-    "Rodenkirchen": {
-      "absolute": 3,
-      "percentage": 0.07
+      "absolute": 5,
+      "percentage": 0.1
     },
     "Chorweiler": {
-      "absolute": 1,
-      "percentage": 0.02
+      "absolute": 2,
+      "percentage": 0.04
+    },
+    "Mülheim": {
+      "absolute": 5,
+      "percentage": 0.1
+    },
+    "Rodenkirchen": {
+      "absolute": 8,
+      "percentage": 0.16
     },
     "Kalk": {
+      "absolute": 4,
+      "percentage": 0.08
+    },
+    "Porz": {
+      "absolute": 3,
+      "percentage": 0.06
+    },
+    "Ehrenfeld": {
       "absolute": 1,
       "percentage": 0.02
     }
@@ -2389,12 +2273,12 @@
   },
   "Araucaria": {
     "Nippes": {
-      "absolute": 3,
-      "percentage": 0.75
+      "absolute": 2,
+      "percentage": 0.67
     },
-    "unknown": {
+    "Mülheim": {
       "absolute": 1,
-      "percentage": 0.25
+      "percentage": 0.33
     }
   },
   "Pistacia": {
@@ -2415,16 +2299,12 @@
   },
   "Buxus": {
     "Nippes": {
-      "absolute": 2,
-      "percentage": 0.5
-    },
-    "Innenstadt": {
-      "absolute": 1,
-      "percentage": 0.25
+      "absolute": 4,
+      "percentage": 0.8
     },
     "Ehrenfeld": {
       "absolute": 1,
-      "percentage": 0.25
+      "percentage": 0.2
     }
   },
   "Torreya": {
@@ -2440,27 +2320,23 @@
   "Cryptomeria": {
     "Nippes": {
       "absolute": 11,
-      "percentage": 0.39
+      "percentage": 0.38
     },
-    "unknown": {
-      "absolute": 17,
-      "percentage": 0.61
+    "Mülheim": {
+      "absolute": 18,
+      "percentage": 0.62
     }
   },
   "Cunningamia": {
     "Nippes": {
-      "absolute": 3,
+      "absolute": 4,
       "percentage": 1.0
     }
   },
   "Cupressus": {
     "Nippes": {
-      "absolute": 4,
-      "percentage": 0.8
-    },
-    "Innenstadt": {
-      "absolute": 1,
-      "percentage": 0.2
+      "absolute": 5,
+      "percentage": 1.0
     }
   },
   "Tetradium": {
@@ -2484,7 +2360,7 @@
       "absolute": 1,
       "percentage": 0.25
     },
-    "unknown": {
+    "Mülheim": {
       "absolute": 2,
       "percentage": 0.5
     },
@@ -2504,7 +2380,7 @@
       "absolute": 3,
       "percentage": 0.6
     },
-    "unknown": {
+    "Mülheim": {
       "absolute": 2,
       "percentage": 0.4
     }
@@ -2514,7 +2390,7 @@
       "absolute": 1,
       "percentage": 0.5
     },
-    "unknown": {
+    "Mülheim": {
       "absolute": 1,
       "percentage": 0.5
     }
@@ -2545,16 +2421,12 @@
   },
   "Taxodium": {
     "Nippes": {
-      "absolute": 3,
-      "percentage": 0.6
-    },
-    "Innenstadt": {
-      "absolute": 1,
-      "percentage": 0.2
+      "absolute": 5,
+      "percentage": 0.83
     },
     "Rodenkirchen": {
       "absolute": 1,
-      "percentage": 0.2
+      "percentage": 0.17
     }
   },
   "Crataegomespilus": {
@@ -2565,17 +2437,13 @@
   },
   "Calocedro": {
     "Nippes": {
-      "absolute": 1,
-      "percentage": 0.5
-    },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.5
+      "absolute": 2,
+      "percentage": 1.0
     }
   },
   "Sycopsis": {
     "Nippes": {
-      "absolute": 5,
+      "absolute": 4,
       "percentage": 1.0
     }
   },
@@ -2623,58 +2491,58 @@
   },
   "Celtis": {
     "Nippes": {
-      "absolute": 4,
-      "percentage": 0.15
+      "absolute": 5,
+      "percentage": 0.17
     },
     "Innenstadt": {
-      "absolute": 12,
-      "percentage": 0.44
-    },
-    "unknown": {
-      "absolute": 7,
-      "percentage": 0.26
+      "absolute": 18,
+      "percentage": 0.6
     },
     "Mülheim": {
       "absolute": 3,
-      "percentage": 0.11
+      "percentage": 0.1
+    },
+    "Rodenkirchen": {
+      "absolute": 1,
+      "percentage": 0.03
     },
     "Lindenthal": {
-      "absolute": 1,
-      "percentage": 0.04
+      "absolute": 3,
+      "percentage": 0.1
     }
   },
   "Clerodendrum": {
     "Nippes": {
-      "absolute": 1,
-      "percentage": 0.5
-    },
-    "Innenstadt": {
-      "absolute": 1,
-      "percentage": 0.5
+      "absolute": 2,
+      "percentage": 1.0
     }
   },
   "Eriobotrya": {
-    "Innenstadt": {
+    "Nippes": {
       "absolute": 1,
       "percentage": 1.0
     }
   },
   "Trachycarpos": {
-    "Innenstadt": {
+    "Nippes": {
       "absolute": 3,
       "percentage": 1.0
     }
   },
   "Stewartia": {
-    "Innenstadt": {
+    "Nippes": {
       "absolute": 1,
       "percentage": 1.0
     }
   },
   "Alangium": {
     "Nippes": {
-      "absolute": 3,
-      "percentage": 1.0
+      "absolute": 4,
+      "percentage": 0.8
+    },
+    "Porz": {
+      "absolute": 1,
+      "percentage": 0.2
     }
   },
   "Broussonetia": {
@@ -2695,14 +2563,18 @@
   },
   "Diospyros": {
     "Nippes": {
-      "absolute": 5,
+      "absolute": 6,
       "percentage": 1.0
     }
   },
   "Gymnocladus": {
+    "Nippes": {
+      "absolute": 1,
+      "percentage": 0.25
+    },
     "Innenstadt": {
-      "absolute": 4,
-      "percentage": 1.0
+      "absolute": 3,
+      "percentage": 0.75
     }
   },
   "Trochodendron": {
@@ -2719,24 +2591,36 @@
   },
   "Syringa": {
     "Nippes": {
-      "absolute": 3,
-      "percentage": 0.15
+      "absolute": 5,
+      "percentage": 0.24
     },
     "Chorweiler": {
       "absolute": 4,
-      "percentage": 0.2
+      "percentage": 0.19
     },
     "Innenstadt": {
+      "absolute": 2,
+      "percentage": 0.1
+    },
+    "Mülheim": {
       "absolute": 1,
       "percentage": 0.05
     },
-    "unknown": {
-      "absolute": 10,
-      "percentage": 0.5
+    "Kalk": {
+      "absolute": 1,
+      "percentage": 0.05
+    },
+    "Porz": {
+      "absolute": 1,
+      "percentage": 0.05
     },
     "Rodenkirchen": {
-      "absolute": 2,
-      "percentage": 0.1
+      "absolute": 6,
+      "percentage": 0.29
+    },
+    "Lindenthal": {
+      "absolute": 1,
+      "percentage": 0.05
     }
   },
   "Sequoiadendron": {
@@ -2748,9 +2632,13 @@
       "absolute": 6,
       "percentage": 0.33
     },
-    "unknown": {
-      "absolute": 6,
-      "percentage": 0.33
+    "Mülheim": {
+      "absolute": 4,
+      "percentage": 0.22
+    },
+    "Kalk": {
+      "absolute": 2,
+      "percentage": 0.11
     },
     "Chorweiler": {
       "absolute": 3,
@@ -2773,12 +2661,8 @@
       "percentage": 0.6
     },
     "Innenstadt": {
-      "absolute": 1,
-      "percentage": 0.2
-    },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.2
+      "absolute": 2,
+      "percentage": 0.4
     }
   },
   "Maclura": {
@@ -2800,7 +2684,7 @@
       "absolute": 2,
       "percentage": 0.4
     },
-    "unknown": {
+    "Innenstadt": {
       "absolute": 1,
       "percentage": 0.2
     }
@@ -2838,7 +2722,7 @@
       "absolute": 2,
       "percentage": 0.67
     },
-    "unknown": {
+    "Mülheim": {
       "absolute": 1,
       "percentage": 0.33
     }

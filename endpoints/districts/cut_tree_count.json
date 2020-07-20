@@ -1,42 +1,42 @@
 {
-  "Kalk": {
-    "absolute": 783,
+  "Mülheim": {
+    "absolute": 935,
     "percentage": 0.1
   },
-  "Mülheim": {
-    "absolute": 815,
-    "percentage": 0.11
+  "Kalk": {
+    "absolute": 844,
+    "percentage": 0.09
   },
   "Porz": {
-    "absolute": 329,
+    "absolute": 380,
     "percentage": 0.04
   },
-  "Innenstadt": {
-    "absolute": 929,
-    "percentage": 0.12
-  },
   "Nippes": {
-    "absolute": 898,
-    "percentage": 0.12
-  },
-  "Ehrenfeld": {
-    "absolute": 826,
+    "absolute": 1094,
     "percentage": 0.11
   },
-  "Lindenthal": {
-    "absolute": 1088,
-    "percentage": 0.14
-  },
-  "Rodenkirchen": {
-    "absolute": 1346,
-    "percentage": 0.17
-  },
   "unknown": {
-    "absolute": 19,
+    "absolute": 14,
     "percentage": 0.0
   },
+  "Innenstadt": {
+    "absolute": 1184,
+    "percentage": 0.12
+  },
+  "Lindenthal": {
+    "absolute": 1403,
+    "percentage": 0.15
+  },
+  "Rodenkirchen": {
+    "absolute": 2024,
+    "percentage": 0.21
+  },
+  "Ehrenfeld": {
+    "absolute": 944,
+    "percentage": 0.1
+  },
   "Chorweiler": {
-    "absolute": 684,
-    "percentage": 0.09
+    "absolute": 804,
+    "percentage": 0.08
   }
 }

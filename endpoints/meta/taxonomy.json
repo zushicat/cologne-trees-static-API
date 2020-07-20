@@ -396,7 +396,18 @@
       "Rundblättrige Rotbuche"
     ],
     "unknown": null,
+    "grandiflora": null,
     "engleriana": null
+  },
+  "Liriodendron": {
+    "unknown": [
+      "Amerikanischer Tulpenbaum"
+    ],
+    "tulipifera": [
+      "Säulen-Tulpenbaum",
+      "Tulpenbaum"
+    ],
+    "chinense": null
   },
   "Malus": {
     "tschonoskii": [
@@ -453,12 +464,25 @@
     "abies": [
       "Rotfichte"
     ],
-    "omorica": null,
     "pungens": null,
     "purpurea": null,
+    "omorica": null,
     "orientalis": [
       "Kaukasus-Fichte",
       "Sapindus-Fichte"
+    ]
+  },
+  "Cornus": {
+    "unknown": null,
+    "mas": null,
+    "florida": null,
+    "officinalis": null,
+    "sanguinea": null,
+    "asperifolia": null,
+    "kousa": null,
+    "macrophylla": null,
+    "alternifolia": [
+      "Etagen Hartriegel"
     ]
   },
   "Parrotia": {
@@ -492,8 +516,8 @@
   "Pinus": {
     "nigra": [
       "Schwarzkiefer",
-      "Österreichische Schwarzkiefer",
-      "?ûsterreichische Schwarzkiefer"
+      "?ûsterreichische Schwarzkiefer",
+      "Österreichische Schwarzkiefer"
     ],
     "unknown": [
       "Kiefer"
@@ -538,7 +562,6 @@
     "unknown": [
       "Amberbaum"
     ],
-    "orientalis": null,
     "acalycina": null,
     "formosana": null
   },
@@ -588,18 +611,9 @@
       "Wal-",
       "Nußbaum"
     ],
+    "major": null,
     "ailantifolia": null,
     "californica": null
-  },
-  "Liriodendron": {
-    "tulipifera": [
-      "Säulen-Tulpenbaum",
-      "Tulpenbaum"
-    ],
-    "unknown": [
-      "Amerikanischer Tulpenbaum"
-    ],
-    "chinense": null
   },
   "Ostrya": {
     "carpinifolia": [
@@ -619,24 +633,10 @@
     ],
     "unknown": null
   },
-  "Cornus": {
-    "officinalis": null,
-    "unknown": null,
-    "mas": null,
-    "florida": null,
-    "sanguinea": null,
-    "asperifolia": null,
-    "kousa": null,
-    "macrophylla": null,
-    "alternifolia": [
-      "Etagen Hartriegel"
-    ]
-  },
   "Magnolia": {
     "kobus": [
       "Magnolie"
     ],
-    "soulangiana": null,
     "unknown": [
       "Magnolie"
     ],
@@ -647,7 +647,8 @@
     "acumunata": null,
     "loebneri": null,
     "sinensis": null,
-    "lilliflora": null
+    "lilliflora": null,
+    "soulangiana": null
   },
   "Hippophae": {
     "rhamnoides": [
