@@ -1,8 +1,8 @@
 # cologne-trees-static-API
 A static API to request aggregated information about city trees in Cologne, Germany by endpoints.
 
-For information about the underlaying data used for this aggregation, please refer to:    
-https://github.com/zushicat/cologne-trees-REST-API/tree/master/data_preparation    
+For information about the underlaying data used for this aggregation, please refer to this repository:    
+https://github.com/zushicat/cologne-trees-data    
 
 
 You can access an enpoint by requesting:    
