@@ -19,15 +19,19 @@ The completeness of the underlaying datasets varies, hence blind spots are predi
 - agegroup
 - genus
 
+To see the variance in the original data (per genus) within bole radius and (usually) estimated age (and counted occurances) ( transferred to year planted) please see:    
+[genus / ground_truth_bole_radius_year_planting.json](https://zushicat.github.io/cologne-trees-static-API/endpoints/genus/ground_truth_bole_radius_year_planting.json)    
+
+When genus and bole radius are available, age related values are derived from a regression model. Otherwise, the significantly less precise method of estimation by neighbouring tree clusters in a radius of 50 meter around the respective tree is applied.    
 Only predictions with a probability >= 0.5 are taken into account.    
 
-If available, these predicted versions can get requested seperately (i.e. "tree_count" vs. "tree_count_with_predictions").    
+The latter predictions can get requested seperately (i.e. "tree_count" vs. "tree_count_with_predictions").    
 
 Additionally, the assumption is made that if a tree is occuring in the dataset of 2017 but not in the dataset of 2020, then this tree most likely is cut down at some point within the 3 years timespan.   
 (Still, this is just an assumption and should be treated as such.)    
 
-These trees can be separately requested (i.e. "cut_tree_count")    
-Otherwise, only trees occuring in the newest 2020 dataset are used in the response.
+These trees can be separately requested (i.e. "cut_tree_count" bs. "tree_count")    
+Otherwise, only trees occuring in the newest 2020 dataset (resp. both datasets) are used in the response.
 
 
 ## Endpoints
