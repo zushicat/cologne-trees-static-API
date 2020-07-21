@@ -83,7 +83,7 @@ districts / age_groups_with_predictions
 ```
 
 ### suburbs
-Aggregations collected under suburbs within city districts. To contectualize subursb and districs, refer to endpoint:    
+Aggregations collected under suburbs within city districts. To contextualize subursb and districs, refer to endpoint:    
 meta / suburbs_districts    
 
 ```
@@ -111,7 +111,7 @@ genus / ground_truth_bole_radius_year_planting
 ```
 
 ### meta
-Usefull meta-information to contextualize requests of different groups.    
+Usefull meta-information to contextualize requests of different endpoint groups.    
 
 ```
 meta / districts_suburbs
