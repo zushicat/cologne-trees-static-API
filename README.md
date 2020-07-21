@@ -1,10 +1,10 @@
 # cologne-trees-static-API
 A static API to request aggregated information about city trees in Cologne, Germany by endpoints.
 
-For information about the underlaying data used for this aggregation, please refer to this repository:    
+For information about the creation of the underlaying data used for this aggregation, please refer to this repository:    
 https://github.com/zushicat/cologne-trees-data    
 
-If you like to see a visualization of this data, please refer to the html version of this repository:    
+If you like to see a visualization of this data, please refer following html version of this repository:    
 https://zushicat.github.io/cologne-tree-map/    
 
 
