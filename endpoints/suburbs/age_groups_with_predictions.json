@@ -1,786 +1,790 @@
 {
   "Kalk": {
     "2": {
-      "absolute": 609,
-      "percentage": 0.28
-    },
-    "1": {
-      "absolute": 997,
-      "percentage": 0.46
+      "absolute": 643,
+      "percentage": 0.3
     },
     "0": {
-      "absolute": 253,
-      "percentage": 0.12
+      "absolute": 553,
+      "percentage": 0.25
+    },
+    "1": {
+      "absolute": 646,
+      "percentage": 0.3
     },
     "unknown": {
-      "absolute": 315,
-      "percentage": 0.14
+      "absolute": 332,
+      "percentage": 0.15
     }
   },
   "Flittard": {
     "2": {
-      "absolute": 176,
-      "percentage": 0.2
+      "absolute": 179,
+      "percentage": 0.21
     },
     "0": {
-      "absolute": 47,
-      "percentage": 0.05
+      "absolute": 86,
+      "percentage": 0.1
     },
     "1": {
-      "absolute": 133,
-      "percentage": 0.15
+      "absolute": 86,
+      "percentage": 0.1
     },
     "unknown": {
-      "absolute": 514,
-      "percentage": 0.59
+      "absolute": 519,
+      "percentage": 0.6
     }
   },
   "Stammheim": {
     "2": {
-      "absolute": 250,
+      "absolute": 244,
       "percentage": 0.27
     },
     "0": {
-      "absolute": 27,
-      "percentage": 0.03
+      "absolute": 101,
+      "percentage": 0.11
     },
     "1": {
-      "absolute": 211,
-      "percentage": 0.23
+      "absolute": 137,
+      "percentage": 0.15
     },
     "unknown": {
-      "absolute": 424,
-      "percentage": 0.46
+      "absolute": 430,
+      "percentage": 0.47
     }
   },
   "Buchheim": {
     "2": {
-      "absolute": 420,
-      "percentage": 0.35
-    },
-    "1": {
-      "absolute": 495,
+      "absolute": 490,
       "percentage": 0.41
     },
-    "unknown": {
-      "absolute": 188,
-      "percentage": 0.16
+    "1": {
+      "absolute": 278,
+      "percentage": 0.23
     },
     "0": {
-      "absolute": 98,
-      "percentage": 0.08
+      "absolute": 209,
+      "percentage": 0.17
+    },
+    "unknown": {
+      "absolute": 224,
+      "percentage": 0.19
     }
   },
   "Holweide": {
     "1": {
-      "absolute": 881,
-      "percentage": 0.36
+      "absolute": 432,
+      "percentage": 0.17
     },
     "2": {
-      "absolute": 697,
-      "percentage": 0.28
+      "absolute": 958,
+      "percentage": 0.39
     },
     "0": {
-      "absolute": 115,
-      "percentage": 0.05
+      "absolute": 227,
+      "percentage": 0.09
     },
     "unknown": {
-      "absolute": 776,
-      "percentage": 0.31
+      "absolute": 852,
+      "percentage": 0.35
     }
   },
   "Mülheim": {
-    "1": {
-      "absolute": 1920,
-      "percentage": 0.38
-    },
     "2": {
-      "absolute": 1712,
-      "percentage": 0.34
+      "absolute": 1636,
+      "percentage": 0.32
     },
-    "unknown": {
-      "absolute": 1225,
-      "percentage": 0.24
+    "1": {
+      "absolute": 1319,
+      "percentage": 0.26
     },
     "0": {
-      "absolute": 222,
-      "percentage": 0.04
+      "absolute": 741,
+      "percentage": 0.15
+    },
+    "unknown": {
+      "absolute": 1383,
+      "percentage": 0.27
     }
   },
   "Buchforst": {
     "2": {
-      "absolute": 265,
+      "absolute": 263,
       "percentage": 0.52
     },
     "1": {
-      "absolute": 201,
-      "percentage": 0.4
+      "absolute": 117,
+      "percentage": 0.23
     },
     "unknown": {
-      "absolute": 30,
-      "percentage": 0.06
+      "absolute": 38,
+      "percentage": 0.07
     },
     "0": {
-      "absolute": 11,
-      "percentage": 0.02
+      "absolute": 89,
+      "percentage": 0.18
     }
   },
   "Höhenhaus": {
     "2": {
-      "absolute": 550,
-      "percentage": 0.3
+      "absolute": 609,
+      "percentage": 0.34
     },
     "1": {
-      "absolute": 691,
-      "percentage": 0.38
+      "absolute": 351,
+      "percentage": 0.19
     },
     "unknown": {
-      "absolute": 506,
-      "percentage": 0.28
+      "absolute": 574,
+      "percentage": 0.32
     },
     "0": {
-      "absolute": 61,
-      "percentage": 0.03
+      "absolute": 274,
+      "percentage": 0.15
     }
   },
   "Dünnwald": {
+    "0": {
+      "absolute": 155,
+      "percentage": 0.14
+    },
     "1": {
-      "absolute": 417,
-      "percentage": 0.37
+      "absolute": 221,
+      "percentage": 0.2
     },
     "2": {
-      "absolute": 302,
-      "percentage": 0.27
-    },
-    "0": {
-      "absolute": 39,
-      "percentage": 0.03
+      "absolute": 337,
+      "percentage": 0.3
     },
     "unknown": {
-      "absolute": 364,
-      "percentage": 0.32
+      "absolute": 409,
+      "percentage": 0.36
     }
   },
   "Dellbrück": {
     "2": {
-      "absolute": 712,
+      "absolute": 711,
       "percentage": 0.21
     },
     "1": {
-      "absolute": 575,
-      "percentage": 0.17
+      "absolute": 342,
+      "percentage": 0.1
     },
     "0": {
-      "absolute": 40,
-      "percentage": 0.01
+      "absolute": 215,
+      "percentage": 0.06
     },
     "unknown": {
-      "absolute": 2133,
-      "percentage": 0.62
+      "absolute": 2192,
+      "percentage": 0.63
     }
   },
   "Merheim": {
     "1": {
-      "absolute": 477,
-      "percentage": 0.29
+      "absolute": 203,
+      "percentage": 0.13
     },
     "2": {
-      "absolute": 333,
+      "absolute": 348,
       "percentage": 0.21
     },
-    "unknown": {
-      "absolute": 726,
-      "percentage": 0.45
-    },
     "0": {
-      "absolute": 84,
-      "percentage": 0.05
+      "absolute": 315,
+      "percentage": 0.19
+    },
+    "unknown": {
+      "absolute": 754,
+      "percentage": 0.47
     }
   },
   "Deutz": {
     "1": {
-      "absolute": 1520,
-      "percentage": 0.31
-    },
-    "2": {
-      "absolute": 1727,
-      "percentage": 0.35
-    },
-    "unknown": {
-      "absolute": 1441,
-      "percentage": 0.29
+      "absolute": 972,
+      "percentage": 0.2
     },
     "0": {
-      "absolute": 255,
-      "percentage": 0.05
+      "absolute": 614,
+      "percentage": 0.12
+    },
+    "2": {
+      "absolute": 1699,
+      "percentage": 0.34
+    },
+    "unknown": {
+      "absolute": 1658,
+      "percentage": 0.34
     }
   },
   "Humboldt/Gremberg": {
+    "0": {
+      "absolute": 291,
+      "percentage": 0.16
+    },
     "1": {
-      "absolute": 774,
-      "percentage": 0.44
+      "absolute": 360,
+      "percentage": 0.2
     },
     "2": {
-      "absolute": 562,
-      "percentage": 0.32
+      "absolute": 724,
+      "percentage": 0.41
     },
     "unknown": {
-      "absolute": 376,
-      "percentage": 0.21
-    },
-    "0": {
-      "absolute": 63,
-      "percentage": 0.04
+      "absolute": 400,
+      "percentage": 0.23
     }
   },
   "Höhenberg": {
     "unknown": {
-      "absolute": 251,
-      "percentage": 0.17
+      "absolute": 318,
+      "percentage": 0.22
     },
     "2": {
-      "absolute": 494,
-      "percentage": 0.34
+      "absolute": 532,
+      "percentage": 0.36
     },
     "1": {
-      "absolute": 642,
-      "percentage": 0.44
+      "absolute": 410,
+      "percentage": 0.28
     },
     "0": {
-      "absolute": 76,
-      "percentage": 0.05
+      "absolute": 203,
+      "percentage": 0.14
     }
   },
   "Eil": {
     "2": {
-      "absolute": 270,
-      "percentage": 0.3
-    },
-    "1": {
-      "absolute": 206,
-      "percentage": 0.23
-    },
-    "unknown": {
-      "absolute": 375,
-      "percentage": 0.42
+      "absolute": 312,
+      "percentage": 0.35
     },
     "0": {
-      "absolute": 40,
-      "percentage": 0.04
+      "absolute": 64,
+      "percentage": 0.07
+    },
+    "unknown": {
+      "absolute": 396,
+      "percentage": 0.44
+    },
+    "1": {
+      "absolute": 119,
+      "percentage": 0.13
     }
   },
   "Rath/Heumar": {
-    "1": {
-      "absolute": 459,
-      "percentage": 0.29
-    },
-    "unknown": {
-      "absolute": 611,
-      "percentage": 0.38
-    },
     "2": {
-      "absolute": 437,
+      "absolute": 439,
       "percentage": 0.27
     },
+    "unknown": {
+      "absolute": 665,
+      "percentage": 0.41
+    },
+    "1": {
+      "absolute": 299,
+      "percentage": 0.19
+    },
     "0": {
-      "absolute": 96,
-      "percentage": 0.06
+      "absolute": 200,
+      "percentage": 0.12
     }
   },
   "Vingst": {
     "1": {
-      "absolute": 339,
-      "percentage": 0.37
+      "absolute": 230,
+      "percentage": 0.25
     },
     "2": {
-      "absolute": 388,
-      "percentage": 0.42
+      "absolute": 408,
+      "percentage": 0.44
     },
     "0": {
-      "absolute": 37,
-      "percentage": 0.04
+      "absolute": 104,
+      "percentage": 0.11
     },
     "unknown": {
-      "absolute": 155,
-      "percentage": 0.17
+      "absolute": 177,
+      "percentage": 0.19
     }
   },
   "Ostheim": {
     "1": {
-      "absolute": 658,
-      "percentage": 0.35
+      "absolute": 430,
+      "percentage": 0.23
     },
     "2": {
-      "absolute": 667,
-      "percentage": 0.35
-    },
-    "unknown": {
-      "absolute": 495,
-      "percentage": 0.26
+      "absolute": 678,
+      "percentage": 0.36
     },
     "0": {
-      "absolute": 69,
-      "percentage": 0.04
+      "absolute": 266,
+      "percentage": 0.14
+    },
+    "unknown": {
+      "absolute": 515,
+      "percentage": 0.27
     }
   },
   "Neubrück": {
-    "1": {
-      "absolute": 247,
-      "percentage": 0.25
-    },
     "2": {
-      "absolute": 146,
-      "percentage": 0.15
+      "absolute": 195,
+      "percentage": 0.2
+    },
+    "1": {
+      "absolute": 133,
+      "percentage": 0.13
     },
     "0": {
-      "absolute": 29,
-      "percentage": 0.03
+      "absolute": 73,
+      "percentage": 0.07
     },
     "unknown": {
-      "absolute": 573,
-      "percentage": 0.58
+      "absolute": 594,
+      "percentage": 0.6
     }
   },
   "Gremberghoven": {
     "1": {
-      "absolute": 193,
-      "percentage": 0.4
+      "absolute": 100,
+      "percentage": 0.21
     },
     "unknown": {
-      "absolute": 132,
-      "percentage": 0.28
+      "absolute": 144,
+      "percentage": 0.3
     },
     "2": {
-      "absolute": 130,
-      "percentage": 0.27
+      "absolute": 151,
+      "percentage": 0.32
     },
     "0": {
-      "absolute": 24,
-      "percentage": 0.05
+      "absolute": 84,
+      "percentage": 0.18
     }
   },
   "Brück": {
     "1": {
-      "absolute": 379,
-      "percentage": 0.36
+      "absolute": 283,
+      "percentage": 0.27
     },
     "2": {
-      "absolute": 258,
-      "percentage": 0.25
-    },
-    "unknown": {
-      "absolute": 399,
-      "percentage": 0.38
+      "absolute": 247,
+      "percentage": 0.24
     },
     "0": {
-      "absolute": 15,
-      "percentage": 0.01
+      "absolute": 104,
+      "percentage": 0.1
+    },
+    "unknown": {
+      "absolute": 417,
+      "percentage": 0.4
     }
   },
   "Neustadt/Nord": {
     "2": {
-      "absolute": 1882,
-      "percentage": 0.33
+      "absolute": 1941,
+      "percentage": 0.34
     },
     "0": {
-      "absolute": 218,
-      "percentage": 0.04
+      "absolute": 651,
+      "percentage": 0.11
     },
     "1": {
-      "absolute": 1795,
-      "percentage": 0.32
+      "absolute": 1271,
+      "percentage": 0.22
     },
     "unknown": {
-      "absolute": 1774,
-      "percentage": 0.31
+      "absolute": 1806,
+      "percentage": 0.32
     }
   },
   "Riehl": {
     "1": {
-      "absolute": 1258,
-      "percentage": 0.33
+      "absolute": 804,
+      "percentage": 0.21
     },
     "2": {
-      "absolute": 1122,
-      "percentage": 0.29
+      "absolute": 1079,
+      "percentage": 0.28
     },
     "unknown": {
-      "absolute": 1221,
-      "percentage": 0.32
+      "absolute": 1486,
+      "percentage": 0.39
     },
     "0": {
-      "absolute": 256,
-      "percentage": 0.07
+      "absolute": 488,
+      "percentage": 0.13
     }
   },
   "Nippes": {
-    "1": {
-      "absolute": 1340,
-      "percentage": 0.46
+    "0": {
+      "absolute": 535,
+      "percentage": 0.19
     },
     "2": {
-      "absolute": 721,
-      "percentage": 0.25
+      "absolute": 891,
+      "percentage": 0.31
+    },
+    "1": {
+      "absolute": 792,
+      "percentage": 0.27
     },
     "unknown": {
-      "absolute": 613,
-      "percentage": 0.21
-    },
-    "0": {
-      "absolute": 211,
-      "percentage": 0.07
+      "absolute": 667,
+      "percentage": 0.23
     }
   },
   "unknown": {
     "1": {
-      "absolute": 73,
-      "percentage": 0.24
+      "absolute": 66,
+      "percentage": 0.21
     },
     "unknown": {
-      "absolute": 159,
-      "percentage": 0.52
+      "absolute": 162,
+      "percentage": 0.53
     },
     "2": {
-      "absolute": 45,
-      "percentage": 0.15
+      "absolute": 44,
+      "percentage": 0.14
     },
     "0": {
-      "absolute": 31,
-      "percentage": 0.1
+      "absolute": 36,
+      "percentage": 0.12
     }
   },
   "Altstadt/Nord": {
+    "0": {
+      "absolute": 278,
+      "percentage": 0.14
+    },
     "2": {
-      "absolute": 866,
-      "percentage": 0.43
+      "absolute": 851,
+      "percentage": 0.42
     },
     "1": {
-      "absolute": 679,
-      "percentage": 0.33
+      "absolute": 479,
+      "percentage": 0.24
     },
     "unknown": {
-      "absolute": 399,
-      "percentage": 0.2
-    },
-    "0": {
-      "absolute": 89,
-      "percentage": 0.04
+      "absolute": 425,
+      "percentage": 0.21
     }
   },
   "Neustadt/Süd": {
     "0": {
-      "absolute": 145,
-      "percentage": 0.04
-    },
-    "2": {
-      "absolute": 1609,
-      "percentage": 0.41
+      "absolute": 563,
+      "percentage": 0.14
     },
     "1": {
-      "absolute": 1331,
-      "percentage": 0.34
+      "absolute": 877,
+      "percentage": 0.22
+    },
+    "2": {
+      "absolute": 1583,
+      "percentage": 0.4
     },
     "unknown": {
-      "absolute": 829,
-      "percentage": 0.21
+      "absolute": 891,
+      "percentage": 0.23
     }
   },
   "Altstadt/Süd": {
     "2": {
-      "absolute": 1153,
-      "percentage": 0.4
+      "absolute": 1321,
+      "percentage": 0.46
     },
     "1": {
-      "absolute": 1128,
-      "percentage": 0.39
+      "absolute": 632,
+      "percentage": 0.22
     },
     "0": {
-      "absolute": 148,
-      "percentage": 0.05
+      "absolute": 443,
+      "percentage": 0.15
     },
     "unknown": {
-      "absolute": 461,
-      "percentage": 0.16
+      "absolute": 494,
+      "percentage": 0.17
     }
   },
   "Lindenthal": {
     "2": {
-      "absolute": 1855,
+      "absolute": 1868,
       "percentage": 0.19
     },
     "1": {
-      "absolute": 1793,
-      "percentage": 0.18
+      "absolute": 1210,
+      "percentage": 0.12
     },
     "unknown": {
-      "absolute": 5890,
-      "percentage": 0.6
+      "absolute": 6027,
+      "percentage": 0.62
     },
     "0": {
-      "absolute": 208,
-      "percentage": 0.02
+      "absolute": 641,
+      "percentage": 0.07
     }
   },
   "Sülz": {
+    "0": {
+      "absolute": 449,
+      "percentage": 0.11
+    },
     "1": {
-      "absolute": 1338,
-      "percentage": 0.32
+      "absolute": 877,
+      "percentage": 0.21
     },
     "2": {
-      "absolute": 1362,
-      "percentage": 0.32
+      "absolute": 1437,
+      "percentage": 0.34
     },
     "unknown": {
-      "absolute": 1395,
-      "percentage": 0.33
-    },
-    "0": {
-      "absolute": 125,
-      "percentage": 0.03
+      "absolute": 1457,
+      "percentage": 0.35
     }
   },
   "Bayenthal": {
     "2": {
-      "absolute": 513,
-      "percentage": 0.53
+      "absolute": 507,
+      "percentage": 0.52
     },
     "1": {
-      "absolute": 285,
-      "percentage": 0.29
+      "absolute": 171,
+      "percentage": 0.18
     },
     "unknown": {
-      "absolute": 113,
-      "percentage": 0.12
+      "absolute": 142,
+      "percentage": 0.15
     },
     "0": {
-      "absolute": 57,
-      "percentage": 0.06
+      "absolute": 148,
+      "percentage": 0.15
     }
   },
   "Poll": {
     "1": {
-      "absolute": 420,
-      "percentage": 0.24
-    },
-    "0": {
-      "absolute": 62,
-      "percentage": 0.04
+      "absolute": 301,
+      "percentage": 0.17
     },
     "2": {
-      "absolute": 649,
-      "percentage": 0.37
+      "absolute": 669,
+      "percentage": 0.38
+    },
+    "0": {
+      "absolute": 136,
+      "percentage": 0.08
     },
     "unknown": {
-      "absolute": 612,
-      "percentage": 0.35
+      "absolute": 637,
+      "percentage": 0.37
     }
   },
   "Zollstock": {
     "0": {
-      "absolute": 110,
-      "percentage": 0.04
+      "absolute": 375,
+      "percentage": 0.14
     },
     "1": {
-      "absolute": 635,
-      "percentage": 0.24
+      "absolute": 404,
+      "percentage": 0.15
     },
     "unknown": {
-      "absolute": 1371,
-      "percentage": 0.51
+      "absolute": 1380,
+      "percentage": 0.52
     },
     "2": {
-      "absolute": 554,
-      "percentage": 0.21
+      "absolute": 511,
+      "percentage": 0.19
     }
   },
   "Widdersdorf": {
     "2": {
-      "absolute": 168,
-      "percentage": 0.15
+      "absolute": 178,
+      "percentage": 0.16
     },
     "1": {
-      "absolute": 325,
-      "percentage": 0.28
+      "absolute": 176,
+      "percentage": 0.15
     },
     "0": {
-      "absolute": 222,
-      "percentage": 0.19
+      "absolute": 324,
+      "percentage": 0.28
     },
     "unknown": {
-      "absolute": 433,
-      "percentage": 0.38
+      "absolute": 470,
+      "percentage": 0.41
     }
   },
   "Lövenich": {
+    "0": {
+      "absolute": 237,
+      "percentage": 0.26
+    },
     "1": {
-      "absolute": 396,
-      "percentage": 0.43
+      "absolute": 163,
+      "percentage": 0.18
     },
     "2": {
-      "absolute": 279,
-      "percentage": 0.3
-    },
-    "0": {
-      "absolute": 131,
-      "percentage": 0.14
+      "absolute": 364,
+      "percentage": 0.4
     },
     "unknown": {
-      "absolute": 112,
-      "percentage": 0.12
+      "absolute": 154,
+      "percentage": 0.17
     }
   },
   "Weiden": {
     "2": {
-      "absolute": 796,
-      "percentage": 0.42
+      "absolute": 859,
+      "percentage": 0.46
     },
     "0": {
-      "absolute": 116,
-      "percentage": 0.06
+      "absolute": 194,
+      "percentage": 0.1
     },
     "1": {
-      "absolute": 509,
-      "percentage": 0.27
+      "absolute": 315,
+      "percentage": 0.17
     },
     "unknown": {
-      "absolute": 454,
-      "percentage": 0.24
+      "absolute": 507,
+      "percentage": 0.27
     }
   },
   "Müngersdorf": {
     "0": {
-      "absolute": 52,
-      "percentage": 0.03
+      "absolute": 122,
+      "percentage": 0.08
     },
     "1": {
-      "absolute": 445,
-      "percentage": 0.28
+      "absolute": 310,
+      "percentage": 0.2
     },
     "2": {
-      "absolute": 611,
-      "percentage": 0.39
+      "absolute": 669,
+      "percentage": 0.42
     },
     "unknown": {
-      "absolute": 469,
+      "absolute": 476,
       "percentage": 0.3
     }
   },
   "Meschenich": {
     "2": {
-      "absolute": 66,
-      "percentage": 0.14
+      "absolute": 75,
+      "percentage": 0.16
     },
     "1": {
-      "absolute": 185,
-      "percentage": 0.39
+      "absolute": 84,
+      "percentage": 0.18
     },
     "0": {
-      "absolute": 30,
-      "percentage": 0.06
+      "absolute": 106,
+      "percentage": 0.23
     },
     "unknown": {
-      "absolute": 189,
-      "percentage": 0.4
+      "absolute": 205,
+      "percentage": 0.44
     }
   },
   "Rondorf": {
     "2": {
-      "absolute": 155,
+      "absolute": 161,
       "percentage": 0.08
     },
     "unknown": {
-      "absolute": 1115,
+      "absolute": 1131,
       "percentage": 0.58
     },
     "1": {
-      "absolute": 484,
-      "percentage": 0.25
+      "absolute": 319,
+      "percentage": 0.16
     },
     "0": {
-      "absolute": 185,
-      "percentage": 0.1
+      "absolute": 328,
+      "percentage": 0.17
     }
   },
   "Immendorf": {
     "2": {
-      "absolute": 50,
-      "percentage": 0.18
+      "absolute": 63,
+      "percentage": 0.23
     },
     "unknown": {
-      "absolute": 132,
-      "percentage": 0.48
+      "absolute": 149,
+      "percentage": 0.54
     },
     "1": {
-      "absolute": 72,
-      "percentage": 0.26
+      "absolute": 46,
+      "percentage": 0.17
     },
     "0": {
-      "absolute": 21,
-      "percentage": 0.08
+      "absolute": 17,
+      "percentage": 0.06
     }
   },
   "Godorf": {
     "1": {
-      "absolute": 65,
-      "percentage": 0.19
+      "absolute": 36,
+      "percentage": 0.1
     },
     "0": {
-      "absolute": 29,
-      "percentage": 0.08
+      "absolute": 35,
+      "percentage": 0.1
     },
     "unknown": {
-      "absolute": 198,
-      "percentage": 0.57
+      "absolute": 216,
+      "percentage": 0.62
     },
     "2": {
-      "absolute": 56,
-      "percentage": 0.16
+      "absolute": 61,
+      "percentage": 0.18
     }
   },
   "Raderthal": {
     "unknown": {
-      "absolute": 293,
-      "percentage": 0.25
+      "absolute": 321,
+      "percentage": 0.27
     },
     "2": {
-      "absolute": 482,
-      "percentage": 0.41
+      "absolute": 467,
+      "percentage": 0.4
     },
     "1": {
-      "absolute": 368,
-      "percentage": 0.31
+      "absolute": 252,
+      "percentage": 0.21
     },
     "0": {
-      "absolute": 30,
-      "percentage": 0.03
+      "absolute": 133,
+      "percentage": 0.11
     }
   },
   "Rodenkirchen": {
     "unknown": {
-      "absolute": 640,
-      "percentage": 0.31
+      "absolute": 704,
+      "percentage": 0.34
     },
     "1": {
-      "absolute": 654,
-      "percentage": 0.31
+      "absolute": 388,
+      "percentage": 0.19
     },
     "2": {
-      "absolute": 640,
+      "absolute": 642,
       "percentage": 0.31
     },
     "0": {
-      "absolute": 152,
-      "percentage": 0.07
+      "absolute": 352,
+      "percentage": 0.17
     }
   },
   "Hahnwald": {
-    "1": {
-      "absolute": 79,
-      "percentage": 0.3
+    "0": {
+      "absolute": 46,
+      "percentage": 0.17
     },
     "2": {
-      "absolute": 64,
-      "percentage": 0.24
+      "absolute": 36,
+      "percentage": 0.14
+    },
+    "1": {
+      "absolute": 61,
+      "percentage": 0.23
     },
     "unknown": {
       "absolute": 120,
@@ -788,629 +792,629 @@
     }
   },
   "Marienburg": {
-    "1": {
-      "absolute": 817,
-      "percentage": 0.33
-    },
     "2": {
-      "absolute": 1266,
-      "percentage": 0.52
+      "absolute": 1240,
+      "percentage": 0.51
     },
-    "unknown": {
-      "absolute": 310,
-      "percentage": 0.13
+    "1": {
+      "absolute": 593,
+      "percentage": 0.24
     },
     "0": {
-      "absolute": 49,
-      "percentage": 0.02
+      "absolute": 296,
+      "percentage": 0.12
+    },
+    "unknown": {
+      "absolute": 313,
+      "percentage": 0.13
     }
   },
   "Raderberg": {
     "0": {
-      "absolute": 34,
-      "percentage": 0.08
+      "absolute": 79,
+      "percentage": 0.19
     },
     "2": {
-      "absolute": 167,
-      "percentage": 0.41
-    },
-    "unknown": {
-      "absolute": 95,
-      "percentage": 0.23
+      "absolute": 164,
+      "percentage": 0.4
     },
     "1": {
-      "absolute": 115,
-      "percentage": 0.28
+      "absolute": 71,
+      "percentage": 0.17
+    },
+    "unknown": {
+      "absolute": 97,
+      "percentage": 0.24
     }
   },
   "Sürth": {
     "1": {
-      "absolute": 489,
-      "percentage": 0.35
+      "absolute": 316,
+      "percentage": 0.22
     },
     "0": {
-      "absolute": 187,
-      "percentage": 0.13
+      "absolute": 405,
+      "percentage": 0.29
     },
     "2": {
-      "absolute": 356,
-      "percentage": 0.25
+      "absolute": 293,
+      "percentage": 0.21
     },
     "unknown": {
-      "absolute": 373,
-      "percentage": 0.27
+      "absolute": 391,
+      "percentage": 0.28
     }
   },
   "Weiß": {
     "2": {
-      "absolute": 122,
-      "percentage": 0.27
+      "absolute": 132,
+      "percentage": 0.29
     },
     "1": {
-      "absolute": 192,
-      "percentage": 0.43
-    },
-    "0": {
-      "absolute": 28,
-      "percentage": 0.06
-    },
-    "unknown": {
       "absolute": 109,
       "percentage": 0.24
+    },
+    "0": {
+      "absolute": 92,
+      "percentage": 0.2
+    },
+    "unknown": {
+      "absolute": 118,
+      "percentage": 0.26
     }
   },
   "Junkersdorf": {
     "2": {
-      "absolute": 878,
+      "absolute": 876,
       "percentage": 0.37
     },
     "1": {
-      "absolute": 629,
-      "percentage": 0.27
+      "absolute": 436,
+      "percentage": 0.19
     },
     "unknown": {
-      "absolute": 739,
-      "percentage": 0.31
+      "absolute": 751,
+      "percentage": 0.32
     },
     "0": {
-      "absolute": 102,
-      "percentage": 0.04
+      "absolute": 285,
+      "percentage": 0.12
     }
   },
   "Klettenberg": {
     "2": {
-      "absolute": 493,
-      "percentage": 0.39
+      "absolute": 505,
+      "percentage": 0.4
     },
     "1": {
-      "absolute": 506,
-      "percentage": 0.41
-    },
-    "unknown": {
-      "absolute": 223,
-      "percentage": 0.18
+      "absolute": 324,
+      "percentage": 0.26
     },
     "0": {
-      "absolute": 27,
-      "percentage": 0.02
+      "absolute": 185,
+      "percentage": 0.15
+    },
+    "unknown": {
+      "absolute": 235,
+      "percentage": 0.19
     }
   },
   "Braunsfeld": {
     "1": {
-      "absolute": 467,
-      "percentage": 0.36
+      "absolute": 361,
+      "percentage": 0.28
     },
     "2": {
-      "absolute": 670,
+      "absolute": 665,
       "percentage": 0.52
     },
     "0": {
-      "absolute": 76,
-      "percentage": 0.06
+      "absolute": 179,
+      "percentage": 0.14
     },
     "unknown": {
-      "absolute": 70,
-      "percentage": 0.05
+      "absolute": 78,
+      "percentage": 0.06
     }
   },
   "Ehrenfeld": {
     "2": {
-      "absolute": 1713,
-      "percentage": 0.46
+      "absolute": 1808,
+      "percentage": 0.48
     },
     "unknown": {
-      "absolute": 602,
-      "percentage": 0.16
+      "absolute": 643,
+      "percentage": 0.17
     },
     "1": {
-      "absolute": 1268,
-      "percentage": 0.34
-    },
-    "0": {
-      "absolute": 158,
-      "percentage": 0.04
-    }
-  },
-  "Ossendorf": {
-    "1": {
-      "absolute": 873,
-      "percentage": 0.28
-    },
-    "2": {
-      "absolute": 662,
+      "absolute": 786,
       "percentage": 0.21
     },
     "0": {
-      "absolute": 191,
-      "percentage": 0.06
+      "absolute": 502,
+      "percentage": 0.13
+    }
+  },
+  "Ossendorf": {
+    "2": {
+      "absolute": 660,
+      "percentage": 0.21
+    },
+    "1": {
+      "absolute": 633,
+      "percentage": 0.2
+    },
+    "0": {
+      "absolute": 391,
+      "percentage": 0.13
     },
     "unknown": {
-      "absolute": 1383,
-      "percentage": 0.44
+      "absolute": 1425,
+      "percentage": 0.46
     }
   },
   "Bocklemünd/Mengenich": {
     "2": {
-      "absolute": 424,
-      "percentage": 0.38
+      "absolute": 462,
+      "percentage": 0.42
     },
     "1": {
-      "absolute": 285,
-      "percentage": 0.26
+      "absolute": 160,
+      "percentage": 0.14
     },
     "unknown": {
-      "absolute": 334,
-      "percentage": 0.3
+      "absolute": 358,
+      "percentage": 0.32
     },
     "0": {
-      "absolute": 70,
-      "percentage": 0.06
+      "absolute": 133,
+      "percentage": 0.12
     }
   },
   "Vogelsang": {
     "2": {
-      "absolute": 598,
-      "percentage": 0.22
+      "absolute": 552,
+      "percentage": 0.2
     },
     "1": {
-      "absolute": 511,
-      "percentage": 0.19
+      "absolute": 347,
+      "percentage": 0.13
     },
     "unknown": {
-      "absolute": 1570,
-      "percentage": 0.57
+      "absolute": 1598,
+      "percentage": 0.58
     },
     "0": {
-      "absolute": 76,
-      "percentage": 0.03
+      "absolute": 258,
+      "percentage": 0.09
     }
   },
   "Bickendorf": {
     "1": {
-      "absolute": 711,
-      "percentage": 0.44
-    },
-    "2": {
-      "absolute": 572,
-      "percentage": 0.36
-    },
-    "unknown": {
-      "absolute": 240,
-      "percentage": 0.15
+      "absolute": 522,
+      "percentage": 0.33
     },
     "0": {
-      "absolute": 81,
-      "percentage": 0.05
+      "absolute": 220,
+      "percentage": 0.14
+    },
+    "2": {
+      "absolute": 594,
+      "percentage": 0.37
+    },
+    "unknown": {
+      "absolute": 268,
+      "percentage": 0.17
     }
   },
   "Neuehrenfeld": {
     "1": {
-      "absolute": 1004,
-      "percentage": 0.36
-    },
-    "2": {
-      "absolute": 1181,
-      "percentage": 0.43
+      "absolute": 721,
+      "percentage": 0.26
     },
     "unknown": {
-      "absolute": 482,
-      "percentage": 0.17
+      "absolute": 512,
+      "percentage": 0.19
+    },
+    "2": {
+      "absolute": 1192,
+      "percentage": 0.43
     },
     "0": {
-      "absolute": 91,
-      "percentage": 0.03
+      "absolute": 333,
+      "percentage": 0.12
     }
   },
   "Esch/Auweiler": {
     "unknown": {
-      "absolute": 301,
-      "percentage": 0.27
-    },
-    "2": {
-      "absolute": 304,
+      "absolute": 305,
       "percentage": 0.28
     },
+    "2": {
+      "absolute": 286,
+      "percentage": 0.26
+    },
     "1": {
-      "absolute": 405,
-      "percentage": 0.37
+      "absolute": 257,
+      "percentage": 0.23
     },
     "0": {
-      "absolute": 92,
-      "percentage": 0.08
+      "absolute": 254,
+      "percentage": 0.23
     }
   },
   "Bilderstöckchen": {
+    "0": {
+      "absolute": 162,
+      "percentage": 0.07
+    },
     "2": {
-      "absolute": 635,
+      "absolute": 630,
       "percentage": 0.29
     },
     "unknown": {
-      "absolute": 916,
-      "percentage": 0.42
+      "absolute": 948,
+      "percentage": 0.43
     },
     "1": {
-      "absolute": 597,
-      "percentage": 0.27
-    },
-    "0": {
-      "absolute": 34,
-      "percentage": 0.02
+      "absolute": 442,
+      "percentage": 0.2
     }
   },
   "Longerich": {
     "unknown": {
-      "absolute": 889,
-      "percentage": 0.45
+      "absolute": 915,
+      "percentage": 0.47
     },
     "2": {
-      "absolute": 465,
-      "percentage": 0.24
+      "absolute": 557,
+      "percentage": 0.28
     },
     "0": {
-      "absolute": 33,
-      "percentage": 0.02
+      "absolute": 171,
+      "percentage": 0.09
     },
     "1": {
-      "absolute": 575,
-      "percentage": 0.29
+      "absolute": 319,
+      "percentage": 0.16
     }
   },
   "Niehl": {
     "2": {
-      "absolute": 1344,
-      "percentage": 0.35
+      "absolute": 1318,
+      "percentage": 0.34
     },
     "1": {
-      "absolute": 955,
-      "percentage": 0.25
-    },
-    "unknown": {
-      "absolute": 1488,
-      "percentage": 0.39
+      "absolute": 677,
+      "percentage": 0.18
     },
     "0": {
-      "absolute": 66,
-      "percentage": 0.02
+      "absolute": 343,
+      "percentage": 0.09
+    },
+    "unknown": {
+      "absolute": 1515,
+      "percentage": 0.39
     }
   },
   "Weidenpesch": {
     "0": {
-      "absolute": 80,
-      "percentage": 0.06
+      "absolute": 201,
+      "percentage": 0.15
     },
     "unknown": {
-      "absolute": 503,
-      "percentage": 0.38
+      "absolute": 541,
+      "percentage": 0.41
     },
     "1": {
-      "absolute": 446,
-      "percentage": 0.34
+      "absolute": 264,
+      "percentage": 0.2
     },
     "2": {
-      "absolute": 288,
-      "percentage": 0.22
+      "absolute": 311,
+      "percentage": 0.24
     }
   },
   "Merkenich": {
     "unknown": {
-      "absolute": 454,
-      "percentage": 0.38
+      "absolute": 475,
+      "percentage": 0.39
     },
     "2": {
-      "absolute": 285,
-      "percentage": 0.24
-    },
-    "1": {
-      "absolute": 364,
-      "percentage": 0.3
+      "absolute": 327,
+      "percentage": 0.27
     },
     "0": {
-      "absolute": 104,
-      "percentage": 0.09
+      "absolute": 221,
+      "percentage": 0.18
+    },
+    "1": {
+      "absolute": 184,
+      "percentage": 0.15
     }
   },
   "Fühlingen": {
-    "2": {
-      "absolute": 274,
-      "percentage": 0.13
-    },
     "1": {
-      "absolute": 432,
-      "percentage": 0.2
+      "absolute": 373,
+      "percentage": 0.17
     },
-    "0": {
-      "absolute": 31,
-      "percentage": 0.01
+    "2": {
+      "absolute": 262,
+      "percentage": 0.12
     },
     "unknown": {
-      "absolute": 1438,
-      "percentage": 0.66
+      "absolute": 1468,
+      "percentage": 0.67
+    },
+    "0": {
+      "absolute": 72,
+      "percentage": 0.03
     }
   },
   "Chorweiler": {
     "2": {
-      "absolute": 738,
-      "percentage": 0.22
+      "absolute": 962,
+      "percentage": 0.29
     },
     "1": {
-      "absolute": 1577,
-      "percentage": 0.47
+      "absolute": 1080,
+      "percentage": 0.32
     },
     "0": {
-      "absolute": 141,
-      "percentage": 0.04
+      "absolute": 371,
+      "percentage": 0.11
     },
     "unknown": {
-      "absolute": 910,
-      "percentage": 0.27
+      "absolute": 953,
+      "percentage": 0.28
     }
   },
   "Pesch": {
     "2": {
-      "absolute": 223,
-      "percentage": 0.22
+      "absolute": 243,
+      "percentage": 0.23
     },
     "unknown": {
-      "absolute": 435,
-      "percentage": 0.42
+      "absolute": 449,
+      "percentage": 0.43
     },
     "1": {
-      "absolute": 331,
-      "percentage": 0.32
+      "absolute": 205,
+      "percentage": 0.2
     },
     "0": {
-      "absolute": 48,
-      "percentage": 0.05
+      "absolute": 140,
+      "percentage": 0.14
     }
   },
   "Lindweiler": {
     "1": {
-      "absolute": 175,
-      "percentage": 0.41
-    },
-    "2": {
-      "absolute": 157,
-      "percentage": 0.37
-    },
-    "unknown": {
-      "absolute": 73,
-      "percentage": 0.17
+      "absolute": 124,
+      "percentage": 0.29
     },
     "0": {
-      "absolute": 17,
-      "percentage": 0.04
+      "absolute": 52,
+      "percentage": 0.12
+    },
+    "2": {
+      "absolute": 165,
+      "percentage": 0.39
+    },
+    "unknown": {
+      "absolute": 81,
+      "percentage": 0.19
     }
   },
   "Seeberg": {
     "1": {
-      "absolute": 911,
-      "percentage": 0.39
+      "absolute": 631,
+      "percentage": 0.27
     },
     "2": {
-      "absolute": 691,
-      "percentage": 0.3
-    },
-    "unknown": {
-      "absolute": 656,
-      "percentage": 0.28
+      "absolute": 752,
+      "percentage": 0.32
     },
     "0": {
-      "absolute": 66,
-      "percentage": 0.03
+      "absolute": 238,
+      "percentage": 0.1
+    },
+    "unknown": {
+      "absolute": 703,
+      "percentage": 0.3
     }
   },
   "Volkhoven/Weiler": {
     "1": {
-      "absolute": 816,
-      "percentage": 0.51
+      "absolute": 530,
+      "percentage": 0.33
     },
     "2": {
-      "absolute": 463,
-      "percentage": 0.29
-    },
-    "0": {
-      "absolute": 104,
-      "percentage": 0.06
+      "absolute": 608,
+      "percentage": 0.38
     },
     "unknown": {
-      "absolute": 230,
-      "percentage": 0.14
+      "absolute": 266,
+      "percentage": 0.16
+    },
+    "0": {
+      "absolute": 209,
+      "percentage": 0.13
     }
   },
   "Zündorf": {
     "1": {
-      "absolute": 552,
-      "percentage": 0.44
-    },
-    "2": {
-      "absolute": 356,
+      "absolute": 352,
       "percentage": 0.28
     },
-    "unknown": {
-      "absolute": 202,
-      "percentage": 0.16
+    "2": {
+      "absolute": 425,
+      "percentage": 0.34
     },
     "0": {
-      "absolute": 151,
-      "percentage": 0.12
+      "absolute": 248,
+      "percentage": 0.2
+    },
+    "unknown": {
+      "absolute": 236,
+      "percentage": 0.19
     }
   },
   "Finkenberg": {
     "1": {
-      "absolute": 424,
-      "percentage": 0.42
+      "absolute": 301,
+      "percentage": 0.3
     },
     "2": {
-      "absolute": 369,
-      "percentage": 0.37
+      "absolute": 435,
+      "percentage": 0.44
     },
     "unknown": {
-      "absolute": 174,
-      "percentage": 0.17
+      "absolute": 184,
+      "percentage": 0.18
     },
     "0": {
-      "absolute": 31,
-      "percentage": 0.03
+      "absolute": 78,
+      "percentage": 0.08
     }
   },
   "Blumenberg": {
     "2": {
-      "absolute": 94,
-      "percentage": 0.08
+      "absolute": 135,
+      "percentage": 0.11
     },
     "1": {
-      "absolute": 747,
-      "percentage": 0.62
+      "absolute": 454,
+      "percentage": 0.38
     },
     "unknown": {
-      "absolute": 268,
-      "percentage": 0.22
+      "absolute": 308,
+      "percentage": 0.26
     },
     "0": {
-      "absolute": 92,
-      "percentage": 0.08
+      "absolute": 304,
+      "percentage": 0.25
     }
   },
   "Heimersdorf": {
     "unknown": {
-      "absolute": 218,
-      "percentage": 0.3
-    },
-    "2": {
-      "absolute": 249,
-      "percentage": 0.34
-    },
-    "1": {
-      "absolute": 237,
+      "absolute": 235,
       "percentage": 0.33
     },
+    "2": {
+      "absolute": 274,
+      "percentage": 0.38
+    },
+    "1": {
+      "absolute": 164,
+      "percentage": 0.23
+    },
     "0": {
-      "absolute": 19,
-      "percentage": 0.03
+      "absolute": 50,
+      "percentage": 0.07
     }
   },
   "Porz": {
     "unknown": {
-      "absolute": 303,
-      "percentage": 0.14
-    },
-    "1": {
-      "absolute": 957,
-      "percentage": 0.44
+      "absolute": 403,
+      "percentage": 0.19
     },
     "2": {
-      "absolute": 779,
-      "percentage": 0.36
+      "absolute": 822,
+      "percentage": 0.38
     },
     "0": {
-      "absolute": 112,
-      "percentage": 0.05
+      "absolute": 250,
+      "percentage": 0.12
+    },
+    "1": {
+      "absolute": 676,
+      "percentage": 0.31
     }
   },
   "Libur": {
     "unknown": {
-      "absolute": 22,
-      "percentage": 0.15
+      "absolute": 23,
+      "percentage": 0.16
     },
     "2": {
-      "absolute": 55,
-      "percentage": 0.38
-    },
-    "1": {
-      "absolute": 63,
-      "percentage": 0.43
+      "absolute": 38,
+      "percentage": 0.26
     },
     "0": {
-      "absolute": 6,
-      "percentage": 0.04
+      "absolute": 58,
+      "percentage": 0.4
+    },
+    "1": {
+      "absolute": 27,
+      "percentage": 0.18
     }
   },
   "Worringen": {
     "unknown": {
-      "absolute": 204,
-      "percentage": 0.22
+      "absolute": 224,
+      "percentage": 0.24
     },
     "2": {
-      "absolute": 454,
-      "percentage": 0.48
+      "absolute": 501,
+      "percentage": 0.53
     },
     "1": {
-      "absolute": 264,
-      "percentage": 0.28
+      "absolute": 160,
+      "percentage": 0.17
     },
     "0": {
-      "absolute": 20,
-      "percentage": 0.02
+      "absolute": 57,
+      "percentage": 0.06
     }
   },
   "Ensen": {
     "unknown": {
-      "absolute": 169,
-      "percentage": 0.39
+      "absolute": 173,
+      "percentage": 0.4
     },
     "2": {
-      "absolute": 91,
-      "percentage": 0.21
+      "absolute": 103,
+      "percentage": 0.24
     },
     "1": {
-      "absolute": 149,
-      "percentage": 0.34
+      "absolute": 95,
+      "percentage": 0.22
     },
     "0": {
-      "absolute": 24,
-      "percentage": 0.06
+      "absolute": 62,
+      "percentage": 0.14
     }
   },
   "Mauenheim": {
     "1": {
-      "absolute": 166,
-      "percentage": 0.41
-    },
-    "2": {
-      "absolute": 139,
-      "percentage": 0.34
+      "absolute": 111,
+      "percentage": 0.27
     },
     "0": {
-      "absolute": 14,
-      "percentage": 0.03
+      "absolute": 51,
+      "percentage": 0.13
+    },
+    "2": {
+      "absolute": 146,
+      "percentage": 0.36
     },
     "unknown": {
-      "absolute": 88,
-      "percentage": 0.22
+      "absolute": 99,
+      "percentage": 0.24
     }
   },
   "Lind": {
-    "1": {
-      "absolute": 125,
-      "percentage": 0.3
-    },
     "0": {
-      "absolute": 11,
-      "percentage": 0.03
+      "absolute": 42,
+      "percentage": 0.1
     },
     "2": {
-      "absolute": 180,
-      "percentage": 0.44
+      "absolute": 204,
+      "percentage": 0.5
+    },
+    "1": {
+      "absolute": 70,
+      "percentage": 0.17
     },
     "unknown": {
       "absolute": 95,
@@ -1419,146 +1423,146 @@
   },
   "Wahnheide": {
     "2": {
-      "absolute": 163,
-      "percentage": 0.41
-    },
-    "1": {
-      "absolute": 144,
-      "percentage": 0.36
+      "absolute": 195,
+      "percentage": 0.49
     },
     "unknown": {
-      "absolute": 62,
-      "percentage": 0.16
+      "absolute": 75,
+      "percentage": 0.19
     },
     "0": {
-      "absolute": 28,
-      "percentage": 0.07
+      "absolute": 69,
+      "percentage": 0.17
+    },
+    "1": {
+      "absolute": 58,
+      "percentage": 0.15
     }
   },
   "Wahn": {
-    "2": {
-      "absolute": 373,
-      "percentage": 0.4
+    "unknown": {
+      "absolute": 137,
+      "percentage": 0.15
     },
-    "1": {
-      "absolute": 335,
+    "2": {
+      "absolute": 332,
       "percentage": 0.36
     },
-    "0": {
-      "absolute": 90,
-      "percentage": 0.1
+    "1": {
+      "absolute": 188,
+      "percentage": 0.2
     },
-    "unknown": {
-      "absolute": 123,
-      "percentage": 0.13
+    "0": {
+      "absolute": 264,
+      "percentage": 0.29
     }
   },
   "Grengel": {
     "2": {
-      "absolute": 129,
-      "percentage": 0.45
+      "absolute": 138,
+      "percentage": 0.49
     },
     "1": {
-      "absolute": 77,
-      "percentage": 0.27
+      "absolute": 45,
+      "percentage": 0.16
     },
     "unknown": {
-      "absolute": 68,
-      "percentage": 0.24
+      "absolute": 73,
+      "percentage": 0.26
     },
     "0": {
-      "absolute": 10,
-      "percentage": 0.04
+      "absolute": 28,
+      "percentage": 0.1
     }
   },
   "Elsdorf": {
     "1": {
-      "absolute": 57,
-      "percentage": 0.38
-    },
-    "2": {
-      "absolute": 20,
-      "percentage": 0.13
+      "absolute": 22,
+      "percentage": 0.14
     },
     "0": {
-      "absolute": 35,
-      "percentage": 0.23
+      "absolute": 79,
+      "percentage": 0.52
+    },
+    "2": {
+      "absolute": 7,
+      "percentage": 0.05
     },
     "unknown": {
-      "absolute": 40,
-      "percentage": 0.26
+      "absolute": 44,
+      "percentage": 0.29
     }
   },
   "Urbach": {
     "2": {
-      "absolute": 153,
-      "percentage": 0.31
+      "absolute": 166,
+      "percentage": 0.34
     },
     "1": {
-      "absolute": 174,
-      "percentage": 0.35
+      "absolute": 125,
+      "percentage": 0.25
     },
     "unknown": {
-      "absolute": 114,
-      "percentage": 0.23
+      "absolute": 124,
+      "percentage": 0.25
     },
     "0": {
-      "absolute": 51,
-      "percentage": 0.1
+      "absolute": 77,
+      "percentage": 0.16
     }
   },
   "Langel": {
     "unknown": {
-      "absolute": 82,
-      "percentage": 0.35
-    },
-    "1": {
-      "absolute": 79,
-      "percentage": 0.33
+      "absolute": 85,
+      "percentage": 0.36
     },
     "0": {
-      "absolute": 14,
-      "percentage": 0.06
+      "absolute": 46,
+      "percentage": 0.19
     },
     "2": {
-      "absolute": 62,
-      "percentage": 0.26
+      "absolute": 69,
+      "percentage": 0.29
+    },
+    "1": {
+      "absolute": 37,
+      "percentage": 0.16
     }
   },
   "Westhoven": {
     "1": {
-      "absolute": 189,
-      "percentage": 0.24
+      "absolute": 132,
+      "percentage": 0.17
     },
     "2": {
-      "absolute": 218,
-      "percentage": 0.28
+      "absolute": 234,
+      "percentage": 0.3
     },
     "0": {
-      "absolute": 71,
-      "percentage": 0.09
+      "absolute": 105,
+      "percentage": 0.14
     },
     "unknown": {
-      "absolute": 295,
-      "percentage": 0.38
+      "absolute": 302,
+      "percentage": 0.39
     }
   },
   "Roggendorf/Thenhoven": {
     "1": {
-      "absolute": 296,
-      "percentage": 0.33
+      "absolute": 167,
+      "percentage": 0.19
     },
     "2": {
-      "absolute": 422,
-      "percentage": 0.47
-    },
-    "unknown": {
-      "absolute": 149,
-      "percentage": 0.17
+      "absolute": 369,
+      "percentage": 0.41
     },
     "0": {
-      "absolute": 34,
-      "percentage": 0.04
+      "absolute": 208,
+      "percentage": 0.23
+    },
+    "unknown": {
+      "absolute": 157,
+      "percentage": 0.17
     }
   }
 }

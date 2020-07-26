@@ -4,27 +4,23 @@
     "percentage": 0.02
   },
   "unknown": {
-    "absolute": 6116,
+    "absolute": 6126,
     "percentage": 0.64
   },
   "Acer": {
-    "absolute": 560,
+    "absolute": 559,
     "percentage": 0.06
   },
   "Aesculus": {
-    "absolute": 83,
+    "absolute": 82,
     "percentage": 0.01
   },
-  "Cedrus": {
-    "absolute": 2,
-    "percentage": 0.0
-  },
   "Robinia": {
-    "absolute": 192,
+    "absolute": 194,
     "percentage": 0.02
   },
   "Quercus": {
-    "absolute": 130,
+    "absolute": 129,
     "percentage": 0.01
   },
   "Corylus": {
@@ -36,7 +32,7 @@
     "percentage": 0.0
   },
   "Betula": {
-    "absolute": 91,
+    "absolute": 89,
     "percentage": 0.01
   },
   "Amelanchier": {
@@ -44,7 +40,7 @@
     "percentage": 0.0
   },
   "Platanus": {
-    "absolute": 406,
+    "absolute": 404,
     "percentage": 0.04
   },
   "Tilia": {
@@ -52,7 +48,7 @@
     "percentage": 0.13
   },
   "Prunus": {
-    "absolute": 87,
+    "absolute": 86,
     "percentage": 0.01
   },
   "Salix": {
@@ -76,7 +72,7 @@
     "percentage": 0.0
   },
   "Crataegus": {
-    "absolute": 39,
+    "absolute": 38,
     "percentage": 0.0
   },
   "Catalpa": {
@@ -157,10 +153,6 @@
   },
   "Taxus": {
     "absolute": 23,
-    "percentage": 0.0
-  },
-  "Abies": {
-    "absolute": 1,
     "percentage": 0.0
   },
   "Laburnum": {

@@ -464,9 +464,9 @@
     "abies": [
       "Rotfichte"
     ],
+    "omorica": null,
     "pungens": null,
     "purpurea": null,
-    "omorica": null,
     "orientalis": [
       "Kaukasus-Fichte",
       "Sapindus-Fichte"
@@ -516,11 +516,13 @@
   "Pinus": {
     "nigra": [
       "Schwarzkiefer",
-      "?ûsterreichische Schwarzkiefer",
       "Österreichische Schwarzkiefer"
     ],
     "unknown": [
       "Kiefer"
+    ],
+    "leucodermis": [
+      "Schlangenhaut-Kiefer"
     ],
     "sylvestris": [
       "Gewöhnliche Kiefer"
@@ -637,6 +639,7 @@
     "kobus": [
       "Magnolie"
     ],
+    "soulangiana": null,
     "unknown": [
       "Magnolie"
     ],
@@ -647,8 +650,7 @@
     "acumunata": null,
     "loebneri": null,
     "sinensis": null,
-    "lilliflora": null,
-    "soulangiana": null
+    "lilliflora": null
   },
   "Hippophae": {
     "rhamnoides": [

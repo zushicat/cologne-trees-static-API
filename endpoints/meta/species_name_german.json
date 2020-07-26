@@ -122,7 +122,6 @@
     "Schwarzpappel",
     "Schwarzer Holunder",
     "Schwarzbirke",
-    "?ûsterreichische Schwarzkiefer",
     "Österreichische Schwarzkiefer"
   ],
   "triacanthos": [
@@ -192,12 +191,12 @@
   "hispanica": [
     "Platane"
   ],
+  "americana": [
+    "Amerikanische Linde"
+  ],
   "mahaleb": null,
   "palmatum": [
     "Fächer-Ahorn"
-  ],
-  "americana": [
-    "Amerikanische Linde"
   ],
   "carnea": [
     "Purpur-Kastanie",
@@ -250,6 +249,9 @@
   ],
   "hillieri": [
     "Zierkirsche 'Spire'"
+  ],
+  "leucodermis": [
+    "Schlangenhaut-Kiefer"
   ],
   "alba": [
     "Silberpappel",
@@ -314,6 +316,7 @@
     "Lorbeermispel",
     "Glanzmispel"
   ],
+  "soulangiana": null,
   "sylvestris": [
     "Gewöhnliche Kiefer"
   ],
@@ -346,6 +349,7 @@
     "Gemeiner Judasbaum",
     "Herzbaum"
   ],
+  "omorica": null,
   "decidua": [
     "Europäische Lärche"
   ],
@@ -418,7 +422,6 @@
   "shirasawanun": null,
   "bungeana": null,
   "californica": null,
-  "omorica": null,
   "verticillata": null,
   "fortunei": null,
   "ernestii": null,
@@ -522,7 +525,6 @@
   "armeniaca": null,
   "loebneri": null,
   "lilliflora": null,
-  "soulangiana": null,
   "germanica": null,
   "spinosa": null,
   "toringoides": null,
