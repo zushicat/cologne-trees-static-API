@@ -113,7 +113,7 @@ def _count_trees(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[
     return counted_trees
 
 
-def _bole_radius_count_year_planting(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+def _bole_radius_count_year_planting(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[str, Any]:
     tree_list: Dict[str, Dict[str, Dict[str, int]]] = {}
     
     for tree in tree_data:
@@ -125,7 +125,13 @@ def _bole_radius_count_year_planting(tree_data: List[Dict[str, Any]]) -> Dict[st
         if bole_radius is None:
             continue
 
-        year_planting = tree["base_info"]["year_planting"]
+        if use_prediction is False:
+            year_planting = tree["base_info"]["year_planting"]
+        else:
+            try:
+                year_planting = tree["tree_age"]["year_sprout"]
+            except:
+                pass
         if year_planting is None:
             continue
         
@@ -178,5 +184,9 @@ def create_genus_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020:
     
     # ***
     #
-    dat = _bole_radius_count_year_planting(tree_data_2020)
+    dat = _bole_radius_count_year_planting(tree_data_2020, False)
     write_endpoint_data(dat, ENDPOINT_GROUP, "ground_truth_bole_radius_year_planting")
+
+    dat = _bole_radius_count_year_planting(tree_data_2020, True)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "regression_bole_radius_year_planting")
+    
