@@ -188,5 +188,5 @@ def create_genus_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020:
     write_endpoint_data(dat, ENDPOINT_GROUP, "ground_truth_bole_radius_year_planting")
 
     dat = _bole_radius_count_year_planting(tree_data_2020, True)
-    write_endpoint_data(dat, ENDPOINT_GROUP, "regression_bole_radius_year_planting")
+    write_endpoint_data(dat, ENDPOINT_GROUP, "regression_bole_radius_year_sprout")
     
