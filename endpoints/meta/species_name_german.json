@@ -191,12 +191,12 @@
   "hispanica": [
     "Platane"
   ],
-  "americana": [
-    "Amerikanische Linde"
-  ],
   "mahaleb": null,
   "palmatum": [
     "Fächer-Ahorn"
+  ],
+  "americana": [
+    "Amerikanische Linde"
   ],
   "carnea": [
     "Purpur-Kastanie",
@@ -249,9 +249,6 @@
   ],
   "hillieri": [
     "Zierkirsche 'Spire'"
-  ],
-  "leucodermis": [
-    "Schlangenhaut-Kiefer"
   ],
   "alba": [
     "Silberpappel",

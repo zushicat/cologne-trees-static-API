@@ -1,151 +1,151 @@
 {
   "Robinia": {
     "2": {
-      "absolute": 1906,
+      "absolute": 1893,
       "percentage": 0.35
     },
     "0": {
-      "absolute": 1638,
-      "percentage": 0.3
+      "absolute": 769,
+      "percentage": 0.14
     },
     "1": {
-      "absolute": 1722,
-      "percentage": 0.32
+      "absolute": 2641,
+      "percentage": 0.48
     },
     "unknown": {
-      "absolute": 184,
+      "absolute": 161,
       "percentage": 0.03
     }
   },
   "Platanus": {
     "2": {
-      "absolute": 7588,
-      "percentage": 0.69
+      "absolute": 7509,
+      "percentage": 0.68
     },
     "1": {
-      "absolute": 2831,
+      "absolute": 2899,
       "percentage": 0.26
     },
     "0": {
-      "absolute": 261,
+      "absolute": 271,
       "percentage": 0.02
     },
     "unknown": {
-      "absolute": 285,
+      "absolute": 284,
       "percentage": 0.03
     }
   },
   "Sorbus": {
     "0": {
-      "absolute": 672,
-      "percentage": 0.39
-    },
-    "2": {
-      "absolute": 386,
-      "percentage": 0.23
+      "absolute": 371,
+      "percentage": 0.22
     },
     "1": {
-      "absolute": 605,
-      "percentage": 0.35
+      "absolute": 1156,
+      "percentage": 0.67
+    },
+    "2": {
+      "absolute": 162,
+      "percentage": 0.09
     },
     "unknown": {
-      "absolute": 44,
-      "percentage": 0.03
+      "absolute": 29,
+      "percentage": 0.02
     }
   },
   "Fraxinus": {
     "1": {
-      "absolute": 1002,
-      "percentage": 0.37
+      "absolute": 1388,
+      "percentage": 0.52
     },
     "2": {
-      "absolute": 747,
+      "absolute": 748,
       "percentage": 0.28
     },
     "0": {
-      "absolute": 888,
-      "percentage": 0.33
+      "absolute": 514,
+      "percentage": 0.19
     },
     "unknown": {
-      "absolute": 53,
+      "absolute": 41,
       "percentage": 0.02
     }
   },
   "Tilia": {
     "2": {
-      "absolute": 11859,
-      "percentage": 0.5
+      "absolute": 11742,
+      "percentage": 0.49
     },
     "1": {
-      "absolute": 6960,
-      "percentage": 0.29
+      "absolute": 9685,
+      "percentage": 0.41
     },
     "0": {
-      "absolute": 3791,
-      "percentage": 0.16
+      "absolute": 1225,
+      "percentage": 0.05
     },
     "unknown": {
-      "absolute": 1167,
+      "absolute": 1147,
       "percentage": 0.05
     }
   },
   "Acer": {
     "2": {
-      "absolute": 9581,
+      "absolute": 9474,
       "percentage": 0.42
     },
     "1": {
-      "absolute": 8636,
-      "percentage": 0.38
+      "absolute": 10801,
+      "percentage": 0.47
     },
     "0": {
-      "absolute": 3840,
-      "percentage": 0.17
+      "absolute": 1882,
+      "percentage": 0.08
     },
     "unknown": {
-      "absolute": 764,
+      "absolute": 656,
       "percentage": 0.03
     }
   },
   "Betula": {
     "2": {
-      "absolute": 1752,
+      "absolute": 1750,
       "percentage": 0.49
     },
     "1": {
-      "absolute": 943,
-      "percentage": 0.26
+      "absolute": 1343,
+      "percentage": 0.37
     },
     "0": {
-      "absolute": 566,
-      "percentage": 0.16
+      "absolute": 184,
+      "percentage": 0.05
     },
     "unknown": {
-      "absolute": 323,
+      "absolute": 316,
       "percentage": 0.09
     }
   },
   "Prunus": {
     "2": {
-      "absolute": 873,
-      "percentage": 0.23
-    },
-    "0": {
-      "absolute": 1357,
-      "percentage": 0.35
+      "absolute": 443,
+      "percentage": 0.11
     },
     "1": {
-      "absolute": 1553,
-      "percentage": 0.4
+      "absolute": 1985,
+      "percentage": 0.52
+    },
+    "0": {
+      "absolute": 1353,
+      "percentage": 0.35
     },
     "unknown": {
-      "absolute": 77,
+      "absolute": 72,
       "percentage": 0.02
     }
   },
   "Metasequoia": {
     "0": {
-      "absolute": 7,
+      "absolute": 8,
       "percentage": 0.06
     },
     "2": {
@@ -153,8 +153,8 @@
       "percentage": 0.71
     },
     "1": {
-      "absolute": 25,
-      "percentage": 0.2
+      "absolute": 24,
+      "percentage": 0.19
     },
     "unknown": {
       "absolute": 4,
@@ -163,106 +163,106 @@
   },
   "Ailanthus": {
     "2": {
-      "absolute": 218,
-      "percentage": 0.36
+      "absolute": 363,
+      "percentage": 0.59
     },
     "1": {
-      "absolute": 203,
-      "percentage": 0.33
+      "absolute": 189,
+      "percentage": 0.31
     },
     "0": {
-      "absolute": 143,
-      "percentage": 0.23
+      "absolute": 11,
+      "percentage": 0.02
     },
     "unknown": {
-      "absolute": 49,
+      "absolute": 50,
       "percentage": 0.08
     }
   },
   "Aesculus": {
     "2": {
-      "absolute": 1460,
+      "absolute": 1459,
       "percentage": 0.58
     },
     "1": {
-      "absolute": 494,
-      "percentage": 0.2
+      "absolute": 783,
+      "percentage": 0.31
     },
     "0": {
-      "absolute": 391,
-      "percentage": 0.15
+      "absolute": 109,
+      "percentage": 0.04
     },
     "unknown": {
-      "absolute": 181,
+      "absolute": 174,
       "percentage": 0.07
     }
   },
   "Ulmus": {
     "0": {
-      "absolute": 97,
-      "percentage": 0.32
+      "absolute": 33,
+      "percentage": 0.11
     },
     "1": {
-      "absolute": 80,
-      "percentage": 0.27
+      "absolute": 143,
+      "percentage": 0.48
     },
     "2": {
-      "absolute": 120,
-      "percentage": 0.4
+      "absolute": 116,
+      "percentage": 0.39
     },
     "unknown": {
-      "absolute": 2,
-      "percentage": 0.01
+      "absolute": 5,
+      "percentage": 0.02
     }
   },
   "Carpinus": {
     "2": {
-      "absolute": 3681,
-      "percentage": 0.48
+      "absolute": 2350,
+      "percentage": 0.3
     },
     "1": {
-      "absolute": 2542,
-      "percentage": 0.33
+      "absolute": 4514,
+      "percentage": 0.58
     },
     "0": {
-      "absolute": 1239,
-      "percentage": 0.16
+      "absolute": 618,
+      "percentage": 0.08
     },
     "unknown": {
-      "absolute": 255,
+      "absolute": 249,
       "percentage": 0.03
     }
   },
   "Crataegus": {
-    "2": {
-      "absolute": 260,
-      "percentage": 0.15
-    },
     "1": {
-      "absolute": 797,
-      "percentage": 0.45
+      "absolute": 980,
+      "percentage": 0.56
+    },
+    "2": {
+      "absolute": 54,
+      "percentage": 0.03
     },
     "0": {
-      "absolute": 613,
-      "percentage": 0.35
+      "absolute": 633,
+      "percentage": 0.36
     },
     "unknown": {
-      "absolute": 85,
+      "absolute": 90,
       "percentage": 0.05
     }
   },
   "Pyrus": {
     "0": {
-      "absolute": 747,
-      "percentage": 0.78
+      "absolute": 431,
+      "percentage": 0.45
     },
     "1": {
-      "absolute": 171,
-      "percentage": 0.18
+      "absolute": 508,
+      "percentage": 0.53
     },
     "2": {
-      "absolute": 38,
-      "percentage": 0.04
+      "absolute": 14,
+      "percentage": 0.01
     },
     "unknown": {
       "absolute": 1,
@@ -271,160 +271,160 @@
   },
   "unknown": {
     "unknown": {
-      "absolute": 40035,
-      "percentage": 0.99
+      "absolute": 39839,
+      "percentage": 0.98
     },
-    "2": {
-      "absolute": 357,
+    "1": {
+      "absolute": 327,
       "percentage": 0.01
     },
     "0": {
-      "absolute": 62,
+      "absolute": 45,
       "percentage": 0.0
     },
-    "1": {
-      "absolute": 77,
-      "percentage": 0.0
+    "2": {
+      "absolute": 238,
+      "percentage": 0.01
     }
   },
   "Quercus": {
     "2": {
-      "absolute": 2612,
-      "percentage": 0.68
-    },
-    "0": {
-      "absolute": 632,
-      "percentage": 0.16
+      "absolute": 1260,
+      "percentage": 0.33
     },
     "1": {
-      "absolute": 335,
-      "percentage": 0.09
+      "absolute": 1993,
+      "percentage": 0.52
+    },
+    "0": {
+      "absolute": 328,
+      "percentage": 0.08
     },
     "unknown": {
-      "absolute": 273,
+      "absolute": 282,
       "percentage": 0.07
     }
   },
   "Corylus": {
     "2": {
-      "absolute": 1860,
-      "percentage": 0.78
-    },
-    "0": {
-      "absolute": 231,
-      "percentage": 0.1
+      "absolute": 622,
+      "percentage": 0.26
     },
     "1": {
-      "absolute": 257,
-      "percentage": 0.11
+      "absolute": 1490,
+      "percentage": 0.63
+    },
+    "0": {
+      "absolute": 233,
+      "percentage": 0.1
     },
     "unknown": {
-      "absolute": 30,
+      "absolute": 34,
       "percentage": 0.01
     }
   },
   "Amelanchier": {
     "0": {
-      "absolute": 183,
-      "percentage": 0.7
+      "absolute": 112,
+      "percentage": 0.43
     },
     "1": {
-      "absolute": 44,
-      "percentage": 0.17
+      "absolute": 113,
+      "percentage": 0.43
     },
     "unknown": {
-      "absolute": 19,
-      "percentage": 0.07
+      "absolute": 20,
+      "percentage": 0.08
     },
     "2": {
-      "absolute": 14,
-      "percentage": 0.05
+      "absolute": 15,
+      "percentage": 0.06
     }
   },
   "Catalpa": {
-    "0": {
-      "absolute": 61,
-      "percentage": 0.12
+    "1": {
+      "absolute": 173,
+      "percentage": 0.33
     },
     "2": {
-      "absolute": 367,
-      "percentage": 0.69
-    },
-    "1": {
-      "absolute": 25,
-      "percentage": 0.05
+      "absolute": 245,
+      "percentage": 0.46
     },
     "unknown": {
-      "absolute": 76,
-      "percentage": 0.14
+      "absolute": 81,
+      "percentage": 0.15
+    },
+    "0": {
+      "absolute": 30,
+      "percentage": 0.06
     }
   },
   "Gleditsia": {
-    "2": {
-      "absolute": 431,
-      "percentage": 0.35
-    },
     "1": {
-      "absolute": 349,
-      "percentage": 0.28
+      "absolute": 570,
+      "percentage": 0.46
+    },
+    "2": {
+      "absolute": 212,
+      "percentage": 0.17
     },
     "0": {
-      "absolute": 439,
-      "percentage": 0.35
+      "absolute": 443,
+      "percentage": 0.36
     },
     "unknown": {
-      "absolute": 23,
+      "absolute": 20,
       "percentage": 0.02
     }
   },
   "Sophora": {
     "1": {
-      "absolute": 236,
-      "percentage": 0.29
-    },
-    "0": {
-      "absolute": 224,
-      "percentage": 0.28
+      "absolute": 407,
+      "percentage": 0.51
     },
     "2": {
-      "absolute": 328,
-      "percentage": 0.41
+      "absolute": 315,
+      "percentage": 0.39
     },
     "unknown": {
-      "absolute": 14,
-      "percentage": 0.02
+      "absolute": 12,
+      "percentage": 0.01
+    },
+    "0": {
+      "absolute": 69,
+      "percentage": 0.09
     }
   },
   "Fagus": {
     "2": {
-      "absolute": 401,
-      "percentage": 0.46
+      "absolute": 451,
+      "percentage": 0.52
     },
     "1": {
-      "absolute": 329,
-      "percentage": 0.38
+      "absolute": 304,
+      "percentage": 0.35
     },
     "unknown": {
       "absolute": 98,
       "percentage": 0.11
     },
     "0": {
-      "absolute": 41,
-      "percentage": 0.05
+      "absolute": 17,
+      "percentage": 0.02
     }
   },
   "Liriodendron": {
     "0": {
-      "absolute": 97,
+      "absolute": 94,
       "percentage": 0.45
     },
     "2": {
-      "absolute": 92,
-      "percentage": 0.43
+      "absolute": 59,
+      "percentage": 0.28
     },
     "1": {
-      "absolute": 23,
-      "percentage": 0.11
+      "absolute": 56,
+      "percentage": 0.27
     },
     "unknown": {
       "absolute": 2,
@@ -433,88 +433,88 @@
   },
   "Malus": {
     "0": {
-      "absolute": 555,
+      "absolute": 553,
       "percentage": 0.68
     },
-    "1": {
-      "absolute": 186,
-      "percentage": 0.23
-    },
     "2": {
-      "absolute": 72,
-      "percentage": 0.09
+      "absolute": 15,
+      "percentage": 0.02
+    },
+    "1": {
+      "absolute": 242,
+      "percentage": 0.3
     },
     "unknown": {
-      "absolute": 7,
+      "absolute": 6,
       "percentage": 0.01
     }
   },
   "Populus": {
     "2": {
-      "absolute": 481,
-      "percentage": 0.53
+      "absolute": 620,
+      "percentage": 0.68
     },
     "1": {
-      "absolute": 338,
-      "percentage": 0.37
+      "absolute": 183,
+      "percentage": 0.2
     },
     "0": {
-      "absolute": 68,
+      "absolute": 65,
       "percentage": 0.07
     },
     "unknown": {
-      "absolute": 25,
-      "percentage": 0.03
+      "absolute": 48,
+      "percentage": 0.05
     }
   },
   "Picea": {
-    "unknown": {
-      "absolute": 366,
-      "percentage": 0.78
-    },
-    "2": {
-      "absolute": 93,
-      "percentage": 0.2
-    },
     "1": {
-      "absolute": 5,
-      "percentage": 0.01
+      "absolute": 243,
+      "percentage": 0.52
     },
     "0": {
-      "absolute": 3,
-      "percentage": 0.01
+      "absolute": 72,
+      "percentage": 0.15
+    },
+    "2": {
+      "absolute": 51,
+      "percentage": 0.11
+    },
+    "unknown": {
+      "absolute": 105,
+      "percentage": 0.22
     }
   },
   "Cornus": {
     "unknown": {
-      "absolute": 152,
-      "percentage": 0.57
+      "absolute": 167,
+      "percentage": 0.63
     },
     "2": {
-      "absolute": 101,
-      "percentage": 0.38
-    },
-    "0": {
-      "absolute": 3,
-      "percentage": 0.01
+      "absolute": 48,
+      "percentage": 0.18
     },
     "1": {
-      "absolute": 10,
-      "percentage": 0.04
+      "absolute": 47,
+      "percentage": 0.18
+    },
+    "0": {
+      "absolute": 4,
+      "percentage": 0.02
     }
   },
   "Parrotia": {
     "2": {
-      "absolute": 15,
-      "percentage": 0.11
-    },
-    "1": {
-      "absolute": 27,
-      "percentage": 0.19
+      "absolute": 12,
+      "percentage": 0.09
     },
     "0": {
       "absolute": 96,
-      "percentage": 0.69
+      "percentage": 0.71
+    },
+    "1": {
+      "absolute": 26,
+      "percentage": 0.19
     },
     "unknown": {
       "absolute": 1,
@@ -522,177 +522,181 @@
     }
   },
   "Salix": {
-    "1": {
-      "absolute": 83,
-      "percentage": 0.09
-    },
-    "unknown": {
-      "absolute": 627,
-      "percentage": 0.71
-    },
     "0": {
-      "absolute": 23,
-      "percentage": 0.03
+      "absolute": 197,
+      "percentage": 0.22
+    },
+    "1": {
+      "absolute": 414,
+      "percentage": 0.46
     },
     "2": {
-      "absolute": 147,
-      "percentage": 0.17
+      "absolute": 269,
+      "percentage": 0.3
+    },
+    "unknown": {
+      "absolute": 11,
+      "percentage": 0.01
     }
   },
   "Larix": {
     "unknown": {
-      "absolute": 68,
-      "percentage": 0.72
+      "absolute": 69,
+      "percentage": 0.73
     },
     "2": {
-      "absolute": 24,
-      "percentage": 0.25
+      "absolute": 17,
+      "percentage": 0.18
     },
     "1": {
-      "absolute": 3,
-      "percentage": 0.03
+      "absolute": 9,
+      "percentage": 0.09
     }
   },
   "Pinus": {
     "2": {
-      "absolute": 757,
-      "percentage": 0.52
+      "absolute": 746,
+      "percentage": 0.51
     },
     "1": {
-      "absolute": 464,
+      "absolute": 472,
       "percentage": 0.32
     },
-    "0": {
-      "absolute": 54,
-      "percentage": 0.04
-    },
     "unknown": {
-      "absolute": 193,
+      "absolute": 194,
       "percentage": 0.13
+    },
+    "0": {
+      "absolute": 55,
+      "percentage": 0.04
     }
   },
   "Ginkgo": {
     "2": {
-      "absolute": 227,
-      "percentage": 0.47
-    },
-    "0": {
-      "absolute": 199,
-      "percentage": 0.41
+      "absolute": 109,
+      "percentage": 0.22
     },
     "1": {
-      "absolute": 48,
-      "percentage": 0.1
+      "absolute": 221,
+      "percentage": 0.45
+    },
+    "0": {
+      "absolute": 144,
+      "percentage": 0.29
     },
     "unknown": {
-      "absolute": 14,
+      "absolute": 15,
       "percentage": 0.03
     }
   },
   "Cedrus": {
     "unknown": {
-      "absolute": 54,
-      "percentage": 0.76
+      "absolute": 52,
+      "percentage": 0.73
     },
     "2": {
-      "absolute": 16,
-      "percentage": 0.23
+      "absolute": 14,
+      "percentage": 0.2
     },
     "1": {
-      "absolute": 1,
-      "percentage": 0.01
+      "absolute": 5,
+      "percentage": 0.07
     }
   },
   "Liquidambar": {
     "1": {
-      "absolute": 32,
-      "percentage": 0.09
+      "absolute": 128,
+      "percentage": 0.37
     },
     "0": {
-      "absolute": 165,
+      "absolute": 166,
       "percentage": 0.48
     },
     "2": {
-      "absolute": 140,
-      "percentage": 0.41
+      "absolute": 42,
+      "percentage": 0.12
     },
     "unknown": {
-      "absolute": 8,
+      "absolute": 7,
       "percentage": 0.02
     }
   },
   "Alnus": {
     "0": {
-      "absolute": 48,
-      "percentage": 0.16
-    },
-    "2": {
-      "absolute": 105,
-      "percentage": 0.36
+      "absolute": 29,
+      "percentage": 0.1
     },
     "1": {
-      "absolute": 133,
-      "percentage": 0.45
+      "absolute": 162,
+      "percentage": 0.56
+    },
+    "2": {
+      "absolute": 90,
+      "percentage": 0.31
     },
     "unknown": {
-      "absolute": 8,
-      "percentage": 0.03
+      "absolute": 6,
+      "percentage": 0.02
     }
   },
   "Pterocarya": {
-    "unknown": {
-      "absolute": 90,
-      "percentage": 0.65
+    "1": {
+      "absolute": 48,
+      "percentage": 0.34
     },
     "2": {
-      "absolute": 42,
-      "percentage": 0.3
+      "absolute": 86,
+      "percentage": 0.61
     },
-    "1": {
-      "absolute": 5,
-      "percentage": 0.04
-    },
-    "0": {
+    "unknown": {
       "absolute": 1,
       "percentage": 0.01
+    },
+    "0": {
+      "absolute": 5,
+      "percentage": 0.04
     }
   },
   "Rhus": {
     "unknown": {
-      "absolute": 5,
-      "percentage": 1.0
+      "absolute": 4,
+      "percentage": 0.8
+    },
+    "1": {
+      "absolute": 1,
+      "percentage": 0.2
     }
   },
   "Taxus": {
-    "2": {
-      "absolute": 682,
-      "percentage": 0.71
-    },
     "1": {
-      "absolute": 160,
+      "absolute": 671,
+      "percentage": 0.7
+    },
+    "2": {
+      "absolute": 161,
       "percentage": 0.17
     },
     "0": {
-      "absolute": 62,
-      "percentage": 0.06
+      "absolute": 66,
+      "percentage": 0.07
     },
     "unknown": {
-      "absolute": 50,
-      "percentage": 0.05
+      "absolute": 56,
+      "percentage": 0.06
     }
   },
   "Juglans": {
     "2": {
-      "absolute": 212,
-      "percentage": 0.61
+      "absolute": 109,
+      "percentage": 0.31
     },
     "0": {
       "absolute": 81,
       "percentage": 0.23
     },
     "1": {
-      "absolute": 52,
-      "percentage": 0.15
+      "absolute": 155,
+      "percentage": 0.44
     },
     "unknown": {
       "absolute": 5,
@@ -700,207 +704,207 @@
     }
   },
   "Ostrya": {
-    "2": {
-      "absolute": 6,
-      "percentage": 0.15
+    "1": {
+      "absolute": 10,
+      "percentage": 0.24
     },
     "0": {
-      "absolute": 8,
-      "percentage": 0.2
-    },
-    "1": {
-      "absolute": 4,
-      "percentage": 0.1
+      "absolute": 26,
+      "percentage": 0.63
     },
     "unknown": {
-      "absolute": 23,
-      "percentage": 0.56
+      "absolute": 1,
+      "percentage": 0.02
+    },
+    "2": {
+      "absolute": 4,
+      "percentage": 0.1
     }
   },
   "Phellodendron": {
     "2": {
-      "absolute": 2,
-      "percentage": 0.4
+      "absolute": 1,
+      "percentage": 0.2
     },
     "unknown": {
-      "absolute": 3,
-      "percentage": 0.6
+      "absolute": 4,
+      "percentage": 0.8
     }
   },
   "Ilex": {
     "2": {
-      "absolute": 52,
-      "percentage": 0.47
+      "absolute": 25,
+      "percentage": 0.23
     },
     "unknown": {
-      "absolute": 53,
-      "percentage": 0.48
+      "absolute": 67,
+      "percentage": 0.61
     },
     "0": {
-      "absolute": 2,
-      "percentage": 0.02
+      "absolute": 1,
+      "percentage": 0.01
     },
     "1": {
-      "absolute": 3,
-      "percentage": 0.03
+      "absolute": 17,
+      "percentage": 0.15
     }
   },
   "Magnolia": {
     "0": {
       "absolute": 136,
-      "percentage": 0.76
+      "percentage": 0.77
     },
     "1": {
-      "absolute": 18,
-      "percentage": 0.1
+      "absolute": 30,
+      "percentage": 0.17
     },
     "2": {
-      "absolute": 23,
-      "percentage": 0.13
+      "absolute": 9,
+      "percentage": 0.05
     },
     "unknown": {
-      "absolute": 1,
+      "absolute": 2,
       "percentage": 0.01
     }
   },
   "Hippophae": {
     "unknown": {
-      "absolute": 3,
-      "percentage": 1.0
+      "absolute": 1,
+      "percentage": 0.33
+    },
+    "1": {
+      "absolute": 2,
+      "percentage": 0.67
     }
   },
   "Koelreuteria": {
-    "unknown": {
-      "absolute": 38,
-      "percentage": 0.83
-    },
-    "0": {
-      "absolute": 2,
-      "percentage": 0.04
-    },
     "1": {
-      "absolute": 2,
-      "percentage": 0.04
+      "absolute": 7,
+      "percentage": 0.15
     },
     "2": {
       "absolute": 4,
-      "percentage": 0.09
+      "percentage": 0.08
+    },
+    "0": {
+      "absolute": 34,
+      "percentage": 0.71
+    },
+    "unknown": {
+      "absolute": 3,
+      "percentage": 0.06
     }
   },
   "Sequoia": {
-    "2": {
-      "absolute": 1,
-      "percentage": 0.17
+    "1": {
+      "absolute": 2,
+      "percentage": 0.33
     },
-    "unknown": {
-      "absolute": 5,
-      "percentage": 0.83
+    "2": {
+      "absolute": 4,
+      "percentage": 0.67
     }
   },
   "Paulownia": {
-    "0": {
-      "absolute": 3,
-      "percentage": 0.07
-    },
-    "unknown": {
-      "absolute": 34,
-      "percentage": 0.74
-    },
     "2": {
-      "absolute": 8,
-      "percentage": 0.17
+      "absolute": 17,
+      "percentage": 0.36
+    },
+    "0": {
+      "absolute": 24,
+      "percentage": 0.51
     },
     "1": {
-      "absolute": 1,
-      "percentage": 0.02
+      "absolute": 6,
+      "percentage": 0.13
     }
   },
   "Castanea": {
+    "1": {
+      "absolute": 68,
+      "percentage": 0.53
+    },
     "2": {
-      "absolute": 38,
-      "percentage": 0.29
+      "absolute": 26,
+      "percentage": 0.2
     },
     "0": {
-      "absolute": 56,
-      "percentage": 0.43
-    },
-    "1": {
       "absolute": 35,
       "percentage": 0.27
     }
   },
-  "Abies": {
-    "1": {
-      "absolute": 4,
-      "percentage": 0.02
+  "Sambucus": {
+    "0": {
+      "absolute": 129,
+      "percentage": 0.49
     },
-    "unknown": {
-      "absolute": 160,
-      "percentage": 0.77
+    "1": {
+      "absolute": 121,
+      "percentage": 0.46
     },
     "2": {
-      "absolute": 44,
-      "percentage": 0.21
+      "absolute": 9,
+      "percentage": 0.03
+    },
+    "unknown": {
+      "absolute": 4,
+      "percentage": 0.02
+    }
+  },
+  "Abies": {
+    "1": {
+      "absolute": 76,
+      "percentage": 0.36
+    },
+    "2": {
+      "absolute": 75,
+      "percentage": 0.36
+    },
+    "unknown": {
+      "absolute": 51,
+      "percentage": 0.24
     },
     "0": {
-      "absolute": 1,
-      "percentage": 0.0
+      "absolute": 7,
+      "percentage": 0.03
     }
   },
   "Rhamnus": {
     "1": {
-      "absolute": 1,
-      "percentage": 0.2
+      "absolute": 2,
+      "percentage": 0.4
     },
     "2": {
       "absolute": 1,
       "percentage": 0.2
     },
     "unknown": {
-      "absolute": 3,
-      "percentage": 0.6
-    }
-  },
-  "Sambucus": {
-    "unknown": {
-      "absolute": 186,
-      "percentage": 0.72
-    },
-    "0": {
-      "absolute": 5,
-      "percentage": 0.02
-    },
-    "2": {
-      "absolute": 58,
-      "percentage": 0.22
-    },
-    "1": {
-      "absolute": 10,
-      "percentage": 0.04
+      "absolute": 2,
+      "percentage": 0.4
     }
   },
   "Photinia": {
-    "2": {
+    "0": {
       "absolute": 1,
       "percentage": 1.0
     }
   },
   "Verschiedene": {
     "unknown": {
-      "absolute": 15,
-      "percentage": 0.04
+      "absolute": 13,
+      "percentage": 0.03
     },
     "2": {
-      "absolute": 213,
-      "percentage": 0.57
+      "absolute": 172,
+      "percentage": 0.46
     },
     "1": {
-      "absolute": 39,
-      "percentage": 0.1
+      "absolute": 167,
+      "percentage": 0.44
     },
     "0": {
-      "absolute": 105,
-      "percentage": 0.28
+      "absolute": 26,
+      "percentage": 0.07
     }
   },
   "Cupressocyparis": {
@@ -911,126 +915,132 @@
   },
   "Chamaecyparis": {
     "unknown": {
-      "absolute": 144,
-      "percentage": 0.88
-    },
-    "2": {
-      "absolute": 13,
-      "percentage": 0.08
+      "absolute": 135,
+      "percentage": 0.82
     },
     "1": {
-      "absolute": 5,
-      "percentage": 0.03
+      "absolute": 22,
+      "percentage": 0.13
     },
-    "0": {
-      "absolute": 2,
-      "percentage": 0.01
+    "2": {
+      "absolute": 7,
+      "percentage": 0.04
     }
   },
   "Caragana": {
     "unknown": {
-      "absolute": 122,
-      "percentage": 0.66
+      "absolute": 119,
+      "percentage": 0.64
     },
     "2": {
-      "absolute": 41,
-      "percentage": 0.22
-    },
-    "0": {
-      "absolute": 1,
-      "percentage": 0.01
+      "absolute": 26,
+      "percentage": 0.14
     },
     "1": {
-      "absolute": 22,
-      "percentage": 0.12
+      "absolute": 41,
+      "percentage": 0.22
     }
   },
   "Pseudotsuga": {
     "unknown": {
-      "absolute": 84,
-      "percentage": 0.75
+      "absolute": 64,
+      "percentage": 0.57
     },
     "2": {
-      "absolute": 26,
-      "percentage": 0.23
+      "absolute": 15,
+      "percentage": 0.13
     },
-    "0": {
-      "absolute": 2,
-      "percentage": 0.02
+    "1": {
+      "absolute": 33,
+      "percentage": 0.29
     }
   },
   "Cercis": {
-    "unknown": {
-      "absolute": 12,
-      "percentage": 0.6
+    "0": {
+      "absolute": 6,
+      "percentage": 0.26
+    },
+    "1": {
+      "absolute": 9,
+      "percentage": 0.39
     },
     "2": {
-      "absolute": 5,
-      "percentage": 0.25
-    },
-    "0": {
-      "absolute": 3,
-      "percentage": 0.15
+      "absolute": 8,
+      "percentage": 0.35
     }
   },
   "Tsuga": {
+    "1": {
+      "absolute": 11,
+      "percentage": 0.05
+    },
     "unknown": {
-      "absolute": 191,
-      "percentage": 0.93
+      "absolute": 188,
+      "percentage": 0.92
     },
     "2": {
-      "absolute": 12,
-      "percentage": 0.06
-    },
-    "0": {
-      "absolute": 2,
-      "percentage": 0.01
+      "absolute": 6,
+      "percentage": 0.03
     }
   },
   "Zelkova": {
     "unknown": {
-      "absolute": 37,
-      "percentage": 0.9
+      "absolute": 38,
+      "percentage": 0.93
     },
     "0": {
-      "absolute": 4,
-      "percentage": 0.1
+      "absolute": 3,
+      "percentage": 0.07
     }
   },
   "Thuja": {
+    "1": {
+      "absolute": 13,
+      "percentage": 0.02
+    },
     "unknown": {
-      "absolute": 504,
+      "absolute": 502,
       "percentage": 0.95
     },
     "2": {
-      "absolute": 22,
-      "percentage": 0.04
+      "absolute": 13,
+      "percentage": 0.02
     },
     "0": {
       "absolute": 1,
-      "percentage": 0.0
-    },
-    "1": {
-      "absolute": 2,
       "percentage": 0.0
     }
   },
   "Cercidiphyllum": {
     "2": {
-      "absolute": 9,
-      "percentage": 0.13
+      "absolute": 8,
+      "percentage": 0.12
     },
     "unknown": {
-      "absolute": 52,
-      "percentage": 0.76
+      "absolute": 1,
+      "percentage": 0.01
     },
     "1": {
-      "absolute": 3,
-      "percentage": 0.04
+      "absolute": 41,
+      "percentage": 0.6
     },
     "0": {
-      "absolute": 4,
-      "percentage": 0.06
+      "absolute": 18,
+      "percentage": 0.26
+    }
+  },
+  "Sequoiadendron": {
+    "1": {
+      "absolute": 8,
+      "percentage": 0.42
+    },
+    "2": {
+      "absolute": 8,
+      "percentage": 0.42
+    },
+    "0": {
+      "absolute": 3,
+      "percentage": 0.16
     }
   },
   "Morus": {
@@ -1042,7 +1052,7 @@
       "absolute": 10,
       "percentage": 0.77
     },
-    "2": {
+    "1": {
       "absolute": 1,
       "percentage": 0.08
     }
@@ -1052,13 +1062,13 @@
       "absolute": 6,
       "percentage": 0.5
     },
-    "2": {
-      "absolute": 5,
-      "percentage": 0.42
-    },
     "1": {
-      "absolute": 1,
-      "percentage": 0.08
+      "absolute": 3,
+      "percentage": 0.25
+    },
+    "2": {
+      "absolute": 3,
+      "percentage": 0.25
     }
   },
   "Viburnum": {
@@ -1067,26 +1077,30 @@
       "percentage": 0.12
     },
     "unknown": {
-      "absolute": 6,
-      "percentage": 0.75
+      "absolute": 2,
+      "percentage": 0.25
     },
     "0": {
       "absolute": 1,
       "percentage": 0.12
+    },
+    "1": {
+      "absolute": 4,
+      "percentage": 0.5
     }
   },
   "Juniperus": {
     "unknown": {
-      "absolute": 34,
-      "percentage": 0.69
+      "absolute": 31,
+      "percentage": 0.63
     },
-    "2": {
+    "1": {
       "absolute": 14,
       "percentage": 0.29
     },
-    "0": {
-      "absolute": 1,
-      "percentage": 0.02
+    "2": {
+      "absolute": 4,
+      "percentage": 0.08
     }
   },
   "Albizia": {
@@ -1102,7 +1116,7 @@
     }
   },
   "Pistacia": {
-    "2": {
+    "0": {
       "absolute": 1,
       "percentage": 1.0
     }
@@ -1118,7 +1132,7 @@
     }
   },
   "Buxus": {
-    "2": {
+    "unknown": {
       "absolute": 2,
       "percentage": 0.4
     },
@@ -1126,9 +1140,13 @@
       "absolute": 1,
       "percentage": 0.2
     },
-    "unknown": {
-      "absolute": 2,
-      "percentage": 0.4
+    "1": {
+      "absolute": 1,
+      "percentage": 0.2
+    },
+    "2": {
+      "absolute": 1,
+      "percentage": 0.2
     }
   },
   "Torreya": {
@@ -1184,33 +1202,25 @@
       "absolute": 2,
       "percentage": 0.5
     },
-    "2": {
-      "absolute": 1,
-      "percentage": 0.25
-    },
     "1": {
-      "absolute": 1,
-      "percentage": 0.25
+      "absolute": 2,
+      "percentage": 0.5
     }
   },
   "Zanthoxylum": {
-    "2": {
-      "absolute": 1,
-      "percentage": 0.5
-    },
     "unknown": {
-      "absolute": 1,
-      "percentage": 0.5
+      "absolute": 2,
+      "percentage": 1.0
     }
   },
   "Davidia": {
     "unknown": {
-      "absolute": 4,
-      "percentage": 0.8
+      "absolute": 3,
+      "percentage": 0.6
     },
-    "2": {
-      "absolute": 1,
-      "percentage": 0.2
+    "1": {
+      "absolute": 2,
+      "percentage": 0.4
     }
   },
   "Sciadopitis": {
@@ -1245,12 +1255,8 @@
   },
   "Taxodium": {
     "unknown": {
-      "absolute": 5,
-      "percentage": 0.83
-    },
-    "2": {
-      "absolute": 1,
-      "percentage": 0.17
+      "absolute": 6,
+      "percentage": 1.0
     }
   },
   "Crataegomespilus": {
@@ -1264,7 +1270,7 @@
       "absolute": 1,
       "percentage": 0.5
     },
-    "2": {
+    "1": {
       "absolute": 1,
       "percentage": 0.5
     }
@@ -1318,13 +1324,21 @@
     }
   },
   "Celtis": {
+    "unknown": {
+      "absolute": 21,
+      "percentage": 0.7
+    },
     "2": {
       "absolute": 5,
       "percentage": 0.17
     },
-    "unknown": {
-      "absolute": 25,
-      "percentage": 0.83
+    "1": {
+      "absolute": 3,
+      "percentage": 0.1
+    },
+    "0": {
+      "absolute": 1,
+      "percentage": 0.03
     }
   },
   "Clerodendrum": {
@@ -1363,12 +1377,8 @@
   },
   "Broussonetia": {
     "unknown": {
-      "absolute": 4,
-      "percentage": 0.57
-    },
-    "2": {
-      "absolute": 3,
-      "percentage": 0.43
+      "absolute": 7,
+      "percentage": 1.0
     }
   },
   "Idesia": {
@@ -1385,12 +1395,8 @@
   },
   "Gymnocladus": {
     "unknown": {
-      "absolute": 1,
-      "percentage": 0.25
-    },
-    "2": {
-      "absolute": 3,
-      "percentage": 0.75
+      "absolute": 4,
+      "percentage": 1.0
     }
   },
   "Trochodendron": {
@@ -1406,31 +1412,17 @@
     }
   },
   "Syringa": {
-    "unknown": {
-      "absolute": 17,
-      "percentage": 0.81
-    },
-    "2": {
-      "absolute": 2,
-      "percentage": 0.1
-    },
     "1": {
-      "absolute": 2,
-      "percentage": 0.1
-    }
-  },
-  "Sequoiadendron": {
+      "absolute": 8,
+      "percentage": 0.38
+    },
     "unknown": {
-      "absolute": 14,
-      "percentage": 0.78
+      "absolute": 12,
+      "percentage": 0.57
     },
     "2": {
-      "absolute": 3,
-      "percentage": 0.17
-    },
-    "0": {
       "absolute": 1,
-      "percentage": 0.06
+      "percentage": 0.05
     }
   },
   "Eucommia": {
@@ -1441,12 +1433,16 @@
   },
   "Mespilus": {
     "unknown": {
-      "absolute": 4,
-      "percentage": 0.8
+      "absolute": 2,
+      "percentage": 0.4
     },
     "2": {
       "absolute": 1,
       "percentage": 0.2
+    },
+    "1": {
+      "absolute": 2,
+      "percentage": 0.4
     }
   },
   "Maclura": {
@@ -1468,13 +1464,9 @@
     }
   },
   "Cladastris": {
-    "2": {
-      "absolute": 1,
-      "percentage": 0.5
-    },
     "unknown": {
-      "absolute": 1,
-      "percentage": 0.5
+      "absolute": 2,
+      "percentage": 1.0
     }
   },
   "Lindera": {
@@ -1490,13 +1482,9 @@
     }
   },
   "Euonymus": {
-    "2": {
-      "absolute": 2,
-      "percentage": 0.67
-    },
     "unknown": {
-      "absolute": 1,
-      "percentage": 0.33
+      "absolute": 3,
+      "percentage": 1.0
     }
   }
 }

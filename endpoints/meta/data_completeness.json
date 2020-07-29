@@ -1,10 +1,10 @@
 {
   "dataset_completeness": {
-    "mean": 0.62,
-    "median": 0.82
+    "mean": 0.64,
+    "median": 0.87
   },
   "base_info_completeness": {
-    "mean": 0.62,
+    "mean": 0.68,
     "median": 0.67
   },
   "tree_taxonomy_completeness": {
@@ -16,7 +16,7 @@
     "median": 1.0
   },
   "tree_age_completeness": {
-    "mean": 0.66,
+    "mean": 0.67,
     "median": 1.0
   }
 }
