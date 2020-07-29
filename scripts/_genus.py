@@ -120,7 +120,7 @@ def _bole_radius_count_year_planting(tree_data: List[Dict[str, Any]], use_predic
         genus_name = tree["tree_taxonomy"]["genus"]
         if genus_name is None:
             continue
-        
+
         bole_radius = tree["tree_measures"]["bole_radius"]
         if bole_radius is None:
             continue
@@ -134,7 +134,7 @@ def _bole_radius_count_year_planting(tree_data: List[Dict[str, Any]], use_predic
                 pass
         if year_planting is None:
             continue
-        
+
         if tree_list.get(genus_name) is None:
             tree_list[genus_name]: Dict[str, Dict[str, int]] = {}
         
