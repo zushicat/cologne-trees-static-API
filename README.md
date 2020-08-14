@@ -55,9 +55,11 @@ The ages of trees (if known) are grouped as followed:
 - 1: 26 - 40
 - 2: >= 40
 
-Or "unknown".    
+or "unknown"    
 
-These values are not derived from the (usually) estimated age values in the original datasets but predicted with a regression of genus and bole radius (X) and age of a tree (y).
+These values are not derived from the (usually) estimated age values in the original datasets but predicted with a regression of genus and bole radius (X) and age of a tree (y).    
+The endpoint genus_with_predictions uses predicted values both for agegroup and genus, otherwise _with_predictions indicates the usage of predicted agegroups.
+
 
 ```
 agegroups / tree_count
@@ -68,6 +70,8 @@ agegroups / districts
 agegroups / districts_with_predictions
 agegroups / genus
 agegroups / genus_with_predictions
+agegroups / object_type
+agegroups / object_type_with_predictions
 ```
 
 ### districts
@@ -80,6 +84,7 @@ districts / genus
 districts / genus_with_predictions
 districts / age_groups
 districts / age_groups_with_predictions
+districts / object_type
 ```
 
 ### suburbs
@@ -93,6 +98,7 @@ suburbs / genus
 suburbs / genus_with_predictions
 suburbs / age_groups
 suburbs / age_groups_with_predictions
+suburbs / object_type
 ```
 
 ### genus
@@ -128,4 +134,33 @@ meta / district_data_completeness
 meta / suburb_data_completeness
 meta / data_completeness
 meta / overall_tree_count
+```
+
+
+### objects_type
+Aggregations collected under object types (meaning surroundings) where a tree is located. The object types are defined as followed: 
+- allotment garden
+- sports field
+- playground
+- building/school/dormitory (home) building
+- street/court (plaza)
+- green space
+- cemetery
+- biotope area
+- river/creek
+- special facility
+- forest
+- compensatory area
+
+or "unknown"
+
+```
+object_type / tree_count
+object_type / cut_tree_count
+object_type / district
+object_type / suburb
+object_type / age_groups
+object_type / age_groups_with_prediction
+object_type / ground_truth_bole_radius_year_planting
+object_type / regression_bole_radius_year_sprout
 ```
