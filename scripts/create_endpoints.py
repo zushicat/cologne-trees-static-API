@@ -6,6 +6,7 @@ from _districts import create_districts_endpoints
 from _genus import create_genus_endpoints
 from _meta import create_meta_endpoints
 from _suburbs import create_suburbs_endpoints
+from _object_type import create_object_type_endpoints
 
 from _utils import filter_cut_trees
 
@@ -34,3 +35,4 @@ if __name__ == "__main__":
     create_genus_endpoints(tree_data_2017, tree_data_2020)
     create_suburbs_endpoints(tree_data_2017, tree_data_2020)
     create_meta_endpoints(tree_data_2017, tree_data_2020)
+    create_object_type_endpoints(tree_data_2017, tree_data_2020)

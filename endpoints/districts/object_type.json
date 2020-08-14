@@ -1,0 +1,262 @@
+{
+  "Kalk": {
+    "street/court (plaza)": {
+      "absolute": 2073,
+      "percentage": 0.15
+    },
+    "building/school/dormitory (home) building": {
+      "absolute": 10696,
+      "percentage": 0.79
+    },
+    "playground": {
+      "absolute": 183,
+      "percentage": 0.01
+    },
+    "green space": {
+      "absolute": 57,
+      "percentage": 0.0
+    },
+    "cemetery": {
+      "absolute": 2,
+      "percentage": 0.0
+    },
+    "unknown": {
+      "absolute": 478,
+      "percentage": 0.04
+    }
+  },
+  "Mülheim": {
+    "street/court (plaza)": {
+      "absolute": 2285,
+      "percentage": 0.13
+    },
+    "building/school/dormitory (home) building": {
+      "absolute": 13048,
+      "percentage": 0.75
+    },
+    "green space": {
+      "absolute": 259,
+      "percentage": 0.01
+    },
+    "allotment garden": {
+      "absolute": 1,
+      "percentage": 0.0
+    },
+    "playground": {
+      "absolute": 37,
+      "percentage": 0.0
+    },
+    "unknown": {
+      "absolute": 1798,
+      "percentage": 0.1
+    }
+  },
+  "Innenstadt": {
+    "building/school/dormitory (home) building": {
+      "absolute": 14035,
+      "percentage": 0.72
+    },
+    "street/court (plaza)": {
+      "absolute": 3905,
+      "percentage": 0.2
+    },
+    "green space": {
+      "absolute": 416,
+      "percentage": 0.02
+    },
+    "playground": {
+      "absolute": 560,
+      "percentage": 0.03
+    },
+    "allotment garden": {
+      "absolute": 31,
+      "percentage": 0.0
+    },
+    "unknown": {
+      "absolute": 502,
+      "percentage": 0.03
+    }
+  },
+  "Porz": {
+    "building/school/dormitory (home) building": {
+      "absolute": 9346,
+      "percentage": 0.79
+    },
+    "street/court (plaza)": {
+      "absolute": 1760,
+      "percentage": 0.15
+    },
+    "green space": {
+      "absolute": 131,
+      "percentage": 0.01
+    },
+    "special facility": {
+      "absolute": 55,
+      "percentage": 0.0
+    },
+    "playground": {
+      "absolute": 54,
+      "percentage": 0.0
+    },
+    "biotope area": {
+      "absolute": 3,
+      "percentage": 0.0
+    },
+    "unknown": {
+      "absolute": 420,
+      "percentage": 0.04
+    }
+  },
+  "Nippes": {
+    "building/school/dormitory (home) building": {
+      "absolute": 11998,
+      "percentage": 0.73
+    },
+    "street/court (plaza)": {
+      "absolute": 3101,
+      "percentage": 0.19
+    },
+    "green space": {
+      "absolute": 348,
+      "percentage": 0.02
+    },
+    "playground": {
+      "absolute": 259,
+      "percentage": 0.02
+    },
+    "special facility": {
+      "absolute": 4,
+      "percentage": 0.0
+    },
+    "cemetery": {
+      "absolute": 1,
+      "percentage": 0.0
+    },
+    "unknown": {
+      "absolute": 745,
+      "percentage": 0.05
+    },
+    "allotment garden": {
+      "absolute": 7,
+      "percentage": 0.0
+    }
+  },
+  "unknown": {
+    "building/school/dormitory (home) building": {
+      "absolute": 235,
+      "percentage": 0.76
+    },
+    "street/court (plaza)": {
+      "absolute": 33,
+      "percentage": 0.11
+    },
+    "playground": {
+      "absolute": 1,
+      "percentage": 0.0
+    },
+    "unknown": {
+      "absolute": 39,
+      "percentage": 0.13
+    }
+  },
+  "Lindenthal": {
+    "building/school/dormitory (home) building": {
+      "absolute": 17800,
+      "percentage": 0.73
+    },
+    "street/court (plaza)": {
+      "absolute": 5210,
+      "percentage": 0.21
+    },
+    "playground": {
+      "absolute": 569,
+      "percentage": 0.02
+    },
+    "green space": {
+      "absolute": 283,
+      "percentage": 0.01
+    },
+    "unknown": {
+      "absolute": 499,
+      "percentage": 0.02
+    },
+    "cemetery": {
+      "absolute": 3,
+      "percentage": 0.0
+    }
+  },
+  "Rodenkirchen": {
+    "street/court (plaza)": {
+      "absolute": 1988,
+      "percentage": 0.13
+    },
+    "building/school/dormitory (home) building": {
+      "absolute": 11931,
+      "percentage": 0.8
+    },
+    "playground": {
+      "absolute": 507,
+      "percentage": 0.03
+    },
+    "green space": {
+      "absolute": 57,
+      "percentage": 0.0
+    },
+    "unknown": {
+      "absolute": 418,
+      "percentage": 0.03
+    }
+  },
+  "Ehrenfeld": {
+    "street/court (plaza)": {
+      "absolute": 2716,
+      "percentage": 0.18
+    },
+    "building/school/dormitory (home) building": {
+      "absolute": 11131,
+      "percentage": 0.74
+    },
+    "playground": {
+      "absolute": 617,
+      "percentage": 0.04
+    },
+    "sports field": {
+      "absolute": 2,
+      "percentage": 0.0
+    },
+    "green space": {
+      "absolute": 62,
+      "percentage": 0.0
+    },
+    "unknown": {
+      "absolute": 552,
+      "percentage": 0.04
+    }
+  },
+  "Chorweiler": {
+    "building/school/dormitory (home) building": {
+      "absolute": 14343,
+      "percentage": 0.84
+    },
+    "street/court (plaza)": {
+      "absolute": 2049,
+      "percentage": 0.12
+    },
+    "playground": {
+      "absolute": 37,
+      "percentage": 0.0
+    },
+    "green space": {
+      "absolute": 119,
+      "percentage": 0.01
+    },
+    "cemetery": {
+      "absolute": 1,
+      "percentage": 0.0
+    },
+    "unknown": {
+      "absolute": 464,
+      "percentage": 0.03
+    }
+  }
+}

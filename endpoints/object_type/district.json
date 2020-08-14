@@ -1,0 +1,262 @@
+{
+  "street/court (plaza)": {
+    "Kalk": {
+      "absolute": 2073,
+      "percentage": 0.08
+    },
+    "Mülheim": {
+      "absolute": 2285,
+      "percentage": 0.09
+    },
+    "Porz": {
+      "absolute": 1760,
+      "percentage": 0.07
+    },
+    "Innenstadt": {
+      "absolute": 3905,
+      "percentage": 0.16
+    },
+    "Nippes": {
+      "absolute": 3101,
+      "percentage": 0.12
+    },
+    "Lindenthal": {
+      "absolute": 5210,
+      "percentage": 0.21
+    },
+    "Rodenkirchen": {
+      "absolute": 1988,
+      "percentage": 0.08
+    },
+    "unknown": {
+      "absolute": 33,
+      "percentage": 0.0
+    },
+    "Ehrenfeld": {
+      "absolute": 2716,
+      "percentage": 0.11
+    },
+    "Chorweiler": {
+      "absolute": 2049,
+      "percentage": 0.08
+    }
+  },
+  "building/school/dormitory (home) building": {
+    "Mülheim": {
+      "absolute": 13048,
+      "percentage": 0.11
+    },
+    "Kalk": {
+      "absolute": 10696,
+      "percentage": 0.09
+    },
+    "Innenstadt": {
+      "absolute": 14035,
+      "percentage": 0.12
+    },
+    "Porz": {
+      "absolute": 9346,
+      "percentage": 0.08
+    },
+    "Nippes": {
+      "absolute": 11998,
+      "percentage": 0.1
+    },
+    "unknown": {
+      "absolute": 235,
+      "percentage": 0.0
+    },
+    "Lindenthal": {
+      "absolute": 17800,
+      "percentage": 0.16
+    },
+    "Rodenkirchen": {
+      "absolute": 11931,
+      "percentage": 0.1
+    },
+    "Ehrenfeld": {
+      "absolute": 11131,
+      "percentage": 0.1
+    },
+    "Chorweiler": {
+      "absolute": 14343,
+      "percentage": 0.13
+    }
+  },
+  "green space": {
+    "Mülheim": {
+      "absolute": 259,
+      "percentage": 0.15
+    },
+    "Kalk": {
+      "absolute": 57,
+      "percentage": 0.03
+    },
+    "Innenstadt": {
+      "absolute": 416,
+      "percentage": 0.24
+    },
+    "Lindenthal": {
+      "absolute": 283,
+      "percentage": 0.16
+    },
+    "Rodenkirchen": {
+      "absolute": 57,
+      "percentage": 0.03
+    },
+    "Ehrenfeld": {
+      "absolute": 62,
+      "percentage": 0.04
+    },
+    "Nippes": {
+      "absolute": 348,
+      "percentage": 0.2
+    },
+    "Chorweiler": {
+      "absolute": 119,
+      "percentage": 0.07
+    },
+    "Porz": {
+      "absolute": 131,
+      "percentage": 0.08
+    }
+  },
+  "allotment garden": {
+    "Mülheim": {
+      "absolute": 1,
+      "percentage": 0.03
+    },
+    "Innenstadt": {
+      "absolute": 31,
+      "percentage": 0.79
+    },
+    "Nippes": {
+      "absolute": 7,
+      "percentage": 0.18
+    }
+  },
+  "playground": {
+    "Kalk": {
+      "absolute": 183,
+      "percentage": 0.06
+    },
+    "Innenstadt": {
+      "absolute": 560,
+      "percentage": 0.2
+    },
+    "Lindenthal": {
+      "absolute": 569,
+      "percentage": 0.2
+    },
+    "Rodenkirchen": {
+      "absolute": 507,
+      "percentage": 0.18
+    },
+    "Ehrenfeld": {
+      "absolute": 617,
+      "percentage": 0.22
+    },
+    "Nippes": {
+      "absolute": 259,
+      "percentage": 0.09
+    },
+    "Chorweiler": {
+      "absolute": 37,
+      "percentage": 0.01
+    },
+    "unknown": {
+      "absolute": 1,
+      "percentage": 0.0
+    },
+    "Porz": {
+      "absolute": 54,
+      "percentage": 0.02
+    },
+    "Mülheim": {
+      "absolute": 37,
+      "percentage": 0.01
+    }
+  },
+  "unknown": {
+    "Lindenthal": {
+      "absolute": 499,
+      "percentage": 0.08
+    },
+    "Innenstadt": {
+      "absolute": 502,
+      "percentage": 0.08
+    },
+    "Mülheim": {
+      "absolute": 1798,
+      "percentage": 0.3
+    },
+    "Nippes": {
+      "absolute": 745,
+      "percentage": 0.13
+    },
+    "Porz": {
+      "absolute": 420,
+      "percentage": 0.07
+    },
+    "Chorweiler": {
+      "absolute": 464,
+      "percentage": 0.08
+    },
+    "Ehrenfeld": {
+      "absolute": 552,
+      "percentage": 0.09
+    },
+    "Kalk": {
+      "absolute": 478,
+      "percentage": 0.08
+    },
+    "Rodenkirchen": {
+      "absolute": 418,
+      "percentage": 0.07
+    },
+    "unknown": {
+      "absolute": 39,
+      "percentage": 0.01
+    }
+  },
+  "sports field": {
+    "Ehrenfeld": {
+      "absolute": 2,
+      "percentage": 1.0
+    }
+  },
+  "special facility": {
+    "Nippes": {
+      "absolute": 4,
+      "percentage": 0.07
+    },
+    "Porz": {
+      "absolute": 55,
+      "percentage": 0.93
+    }
+  },
+  "cemetery": {
+    "Chorweiler": {
+      "absolute": 1,
+      "percentage": 0.14
+    },
+    "Kalk": {
+      "absolute": 2,
+      "percentage": 0.29
+    },
+    "Nippes": {
+      "absolute": 1,
+      "percentage": 0.14
+    },
+    "Lindenthal": {
+      "absolute": 3,
+      "percentage": 0.43
+    }
+  },
+  "biotope area": {
+    "Porz": {
+      "absolute": 3,
+      "percentage": 1.0
+    }
+  }
+}

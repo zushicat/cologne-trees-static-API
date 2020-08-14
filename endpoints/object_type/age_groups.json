@@ -1,0 +1,142 @@
+{
+  "street/court (plaza)": {
+    "2": {
+      "absolute": 14734,
+      "percentage": 0.59
+    },
+    "1": {
+      "absolute": 9044,
+      "percentage": 0.36
+    },
+    "0": {
+      "absolute": 990,
+      "percentage": 0.04
+    },
+    "unknown": {
+      "absolute": 352,
+      "percentage": 0.01
+    }
+  },
+  "building/school/dormitory (home) building": {
+    "0": {
+      "absolute": 9807,
+      "percentage": 0.09
+    },
+    "1": {
+      "absolute": 35323,
+      "percentage": 0.31
+    },
+    "2": {
+      "absolute": 25436,
+      "percentage": 0.22
+    },
+    "unknown": {
+      "absolute": 43997,
+      "percentage": 0.38
+    }
+  },
+  "green space": {
+    "2": {
+      "absolute": 960,
+      "percentage": 0.55
+    },
+    "1": {
+      "absolute": 618,
+      "percentage": 0.36
+    },
+    "unknown": {
+      "absolute": 26,
+      "percentage": 0.02
+    },
+    "0": {
+      "absolute": 128,
+      "percentage": 0.07
+    }
+  },
+  "allotment garden": {
+    "1": {
+      "absolute": 21,
+      "percentage": 0.54
+    },
+    "2": {
+      "absolute": 17,
+      "percentage": 0.44
+    },
+    "0": {
+      "absolute": 1,
+      "percentage": 0.03
+    }
+  },
+  "playground": {
+    "2": {
+      "absolute": 1318,
+      "percentage": 0.47
+    },
+    "1": {
+      "absolute": 1031,
+      "percentage": 0.37
+    },
+    "0": {
+      "absolute": 457,
+      "percentage": 0.16
+    },
+    "unknown": {
+      "absolute": 18,
+      "percentage": 0.01
+    }
+  },
+  "unknown": {
+    "2": {
+      "absolute": 321,
+      "percentage": 0.05
+    },
+    "1": {
+      "absolute": 407,
+      "percentage": 0.07
+    },
+    "0": {
+      "absolute": 170,
+      "percentage": 0.03
+    },
+    "unknown": {
+      "absolute": 5017,
+      "percentage": 0.85
+    }
+  },
+  "sports field": {
+    "0": {
+      "absolute": 1,
+      "percentage": 0.5
+    },
+    "2": {
+      "absolute": 1,
+      "percentage": 0.5
+    }
+  },
+  "special facility": {
+    "1": {
+      "absolute": 3,
+      "percentage": 0.05
+    },
+    "2": {
+      "absolute": 56,
+      "percentage": 0.95
+    }
+  },
+  "cemetery": {
+    "2": {
+      "absolute": 2,
+      "percentage": 0.29
+    },
+    "1": {
+      "absolute": 5,
+      "percentage": 0.71
+    }
+  },
+  "biotope area": {
+    "2": {
+      "absolute": 3,
+      "percentage": 1.0
+    }
+  }
+}

@@ -74,6 +74,31 @@ def _count_district_by_genus(tree_data: List[Dict[str, Any]], use_prediction: bo
     return counted_trees
 
 
+def _count_district_by_object_type(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
+    counted_trees: Dict[str, int] = {}
+    for tree in tree_data:
+        district_name = clean_key(tree["geo_info"]["district"])
+        if counted_trees.get(district_name) is None:
+            counted_trees[district_name]: Dict[str, Any] = {}
+        
+        object_type = tree["base_info"]["object_type"]
+        object_type = clean_key(object_type)
+        
+        if counted_trees[district_name].get(object_type) is None:
+            counted_trees[district_name][object_type]: Dict[str, Any] = {
+                "absolute": 0,
+                "percentage": 0
+            }
+        counted_trees[district_name][object_type]["absolute"] += 1
+
+    for district, district_vals in counted_trees.items():
+        all_district_trees = sum([x["absolute"] for x in district_vals.values()])
+        for object_type, vals in district_vals.items():
+            counted_trees[district][object_type]["percentage"] = round(vals["absolute"]/all_district_trees, 2)
+    
+    return counted_trees
+
+
 def _count_trees(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     counted_trees: Dict[str, int] = {}
     for tree in tree_data:
@@ -157,3 +182,7 @@ def create_districts_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2
     # dat = _count_neighbours_radius_50(tree_data_2020)
     # write_endpoint_data(dat, ENDPOINT_GROUP, "density_neighbours_radius_50")
     
+    # ***
+    #
+    dat = _count_district_by_object_type(tree_data_2020)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "object_type")

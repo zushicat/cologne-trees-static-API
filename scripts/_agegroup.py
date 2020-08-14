@@ -111,6 +111,41 @@ def _count_age_group_by_genus(tree_data: List[Dict[str, Any]], use_prediction: b
     return counted_trees
 
 
+def _count_age_group_by_object_type(tree_data: List[Dict[str, Any]], use_prediction: bool) -> Dict[str, Any]:
+    counted_trees: Dict[str, int] = {}
+    for tree in tree_data:
+        age_group = tree["tree_age"]["age_group_2020"]
+        if age_group is None:
+            if use_prediction is True:
+                try:
+                    if tree["predictions"]["by_radius_prediction"]["age_group"]["probability"] >= MIN_PROBABILITY:
+                        age_group = tree["predictions"]["by_radius_prediction"]["age_group"]["prediction"]
+                except:
+                    pass
+        
+        age_group = clean_key(age_group)
+        
+        if counted_trees.get(age_group) is None:
+            counted_trees[age_group]: Dict[str, Any] = {}
+
+        object_type = tree["base_info"]["object_type"]
+        object_type = clean_key(object_type)
+        
+        if counted_trees[age_group].get(object_type) is None:
+            counted_trees[age_group][object_type]: Dict[str, Any] = {
+                "absolute": 0,
+                "percentage": 0
+            }
+        counted_trees[age_group][object_type]["absolute"] += 1
+
+    for agegroup, agegroup_vals in counted_trees.items():
+        all_agegroup_trees = sum([x["absolute"] for x in agegroup_vals.values()])
+        for object_type, vals in agegroup_vals.items():
+            counted_trees[agegroup][object_type]["percentage"] = round(vals["absolute"]/all_agegroup_trees, 2)
+    
+    return counted_trees
+
+
 def create_agegroup_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
     # ***
     #
@@ -145,3 +180,11 @@ def create_agegroup_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_20
 
     dat = _count_age_group_by_genus(tree_data_2020, True)
     write_endpoint_data(dat, ENDPOINT_GROUP, "genus_with_predictions")
+
+    # ***
+    #
+    dat = _count_age_group_by_object_type(tree_data_2020, False)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "object_type")
+
+    dat = _count_age_group_by_object_type(tree_data_2020, True)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "object_type_with_predictions")
