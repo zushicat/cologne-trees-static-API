@@ -1,66 +1,66 @@
 {
   "street/court (plaza)": {
     "2": {
-      "absolute": 14859,
+      "absolute": 14811,
       "percentage": 0.59
     },
     "1": {
-      "absolute": 9128,
+      "absolute": 9086,
       "percentage": 0.36
     },
     "0": {
-      "absolute": 1007,
+      "absolute": 1004,
       "percentage": 0.04
     },
     "unknown": {
-      "absolute": 126,
+      "absolute": 132,
       "percentage": 0.01
     }
   },
   "building/school/dormitory (home) building": {
     "0": {
-      "absolute": 9986,
+      "absolute": 9824,
       "percentage": 0.09
     },
     "1": {
-      "absolute": 36973,
+      "absolute": 35523,
       "percentage": 0.32
     },
     "2": {
-      "absolute": 26850,
-      "percentage": 0.23
+      "absolute": 26125,
+      "percentage": 0.24
     },
     "unknown": {
-      "absolute": 40754,
+      "absolute": 39480,
       "percentage": 0.36
     }
   },
   "green space": {
     "2": {
-      "absolute": 960,
+      "absolute": 945,
       "percentage": 0.55
     },
     "1": {
-      "absolute": 619,
+      "absolute": 614,
       "percentage": 0.36
     },
     "unknown": {
-      "absolute": 24,
+      "absolute": 22,
       "percentage": 0.01
     },
     "0": {
-      "absolute": 129,
+      "absolute": 128,
       "percentage": 0.07
     }
   },
   "allotment garden": {
     "1": {
-      "absolute": 21,
+      "absolute": 20,
       "percentage": 0.54
     },
     "2": {
-      "absolute": 17,
-      "percentage": 0.44
+      "absolute": 16,
+      "percentage": 0.43
     },
     "0": {
       "absolute": 1,
@@ -69,37 +69,37 @@
   },
   "playground": {
     "2": {
-      "absolute": 1324,
+      "absolute": 1283,
       "percentage": 0.47
     },
     "1": {
-      "absolute": 1035,
-      "percentage": 0.37
+      "absolute": 990,
+      "percentage": 0.36
     },
     "0": {
-      "absolute": 457,
+      "absolute": 440,
       "percentage": 0.16
     },
     "unknown": {
-      "absolute": 8,
+      "absolute": 10,
       "percentage": 0.0
     }
   },
   "unknown": {
     "2": {
-      "absolute": 359,
+      "absolute": 344,
       "percentage": 0.06
     },
     "1": {
-      "absolute": 442,
-      "percentage": 0.07
+      "absolute": 415,
+      "percentage": 0.08
     },
     "0": {
-      "absolute": 191,
+      "absolute": 176,
       "percentage": 0.03
     },
     "unknown": {
-      "absolute": 4923,
+      "absolute": 4509,
       "percentage": 0.83
     }
   },
@@ -124,13 +124,13 @@
     }
   },
   "cemetery": {
-    "2": {
-      "absolute": 2,
-      "percentage": 0.29
-    },
     "1": {
       "absolute": 5,
-      "percentage": 0.71
+      "percentage": 0.83
+    },
+    "2": {
+      "absolute": 1,
+      "percentage": 0.17
     }
   },
   "biotope area": {

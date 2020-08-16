@@ -1,26 +1,22 @@
 {
   "street/court (plaza)": {
-    "absolute": 4969,
-    "percentage": 0.52
+    "absolute": 3014,
+    "percentage": 0.49
   },
   "green space": {
-    "absolute": 1518,
-    "percentage": 0.16
-  },
-  "building/school/dormitory (home) building": {
-    "absolute": 47,
-    "percentage": 0.0
+    "absolute": 1048,
+    "percentage": 0.17
   },
   "playground": {
-    "absolute": 478,
-    "percentage": 0.05
+    "absolute": 190,
+    "percentage": 0.03
   },
   "sports field": {
-    "absolute": 5,
+    "absolute": 4,
     "percentage": 0.0
   },
   "allotment garden": {
-    "absolute": 45,
+    "absolute": 23,
     "percentage": 0.0
   },
   "special facility": {
@@ -28,11 +24,15 @@
     "percentage": 0.0
   },
   "unknown": {
-    "absolute": 2497,
-    "percentage": 0.26
+    "absolute": 1758,
+    "percentage": 0.29
   },
   "cemetery": {
-    "absolute": 45,
+    "absolute": 25,
+    "percentage": 0.0
+  },
+  "building/school/dormitory (home) building": {
+    "absolute": 20,
     "percentage": 0.0
   },
   "biotope area": {

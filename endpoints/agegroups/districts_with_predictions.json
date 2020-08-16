@@ -1,23 +1,23 @@
 {
   "2": {
     "Kalk": {
-      "absolute": 3628,
+      "absolute": 3571,
       "percentage": 0.08
     },
     "Mülheim": {
-      "absolute": 4887,
+      "absolute": 4785,
       "percentage": 0.11
     },
     "Porz": {
-      "absolute": 3865,
+      "absolute": 3772,
       "percentage": 0.09
     },
     "Innenstadt": {
-      "absolute": 7029,
+      "absolute": 6918,
       "percentage": 0.16
     },
     "Nippes": {
-      "absolute": 4622,
+      "absolute": 4491,
       "percentage": 0.1
     },
     "unknown": {
@@ -25,57 +25,57 @@
       "percentage": 0.0
     },
     "Lindenthal": {
-      "absolute": 6991,
+      "absolute": 6890,
       "percentage": 0.16
     },
     "Rodenkirchen": {
-      "absolute": 4216,
-      "percentage": 0.09
+      "absolute": 4172,
+      "percentage": 0.1
     },
     "Ehrenfeld": {
-      "absolute": 5033,
+      "absolute": 4913,
       "percentage": 0.11
     },
     "Chorweiler": {
-      "absolute": 4117,
+      "absolute": 4030,
       "percentage": 0.09
     }
   },
   "0": {
     "Mülheim": {
-      "absolute": 1096,
+      "absolute": 1076,
       "percentage": 0.09
     },
     "Kalk": {
-      "absolute": 1238,
+      "absolute": 1216,
       "percentage": 0.11
     },
     "Nippes": {
-      "absolute": 1065,
+      "absolute": 1052,
       "percentage": 0.09
     },
     "Innenstadt": {
-      "absolute": 1555,
+      "absolute": 1522,
       "percentage": 0.13
     },
     "Rodenkirchen": {
-      "absolute": 1641,
+      "absolute": 1604,
       "percentage": 0.14
     },
     "Porz": {
-      "absolute": 1113,
-      "percentage": 0.09
+      "absolute": 1100,
+      "percentage": 0.1
     },
     "Lindenthal": {
-      "absolute": 1756,
+      "absolute": 1733,
       "percentage": 0.15
     },
     "Ehrenfeld": {
-      "absolute": 1050,
+      "absolute": 1032,
       "percentage": 0.09
     },
     "Chorweiler": {
-      "absolute": 1227,
+      "absolute": 1208,
       "percentage": 0.1
     },
     "unknown": {
@@ -85,23 +85,23 @@
   },
   "1": {
     "Mülheim": {
-      "absolute": 5569,
-      "percentage": 0.12
+      "absolute": 5342,
+      "percentage": 0.11
     },
     "Kalk": {
-      "absolute": 5036,
+      "absolute": 4844,
       "percentage": 0.1
     },
     "Innenstadt": {
-      "absolute": 6340,
+      "absolute": 6154,
       "percentage": 0.13
     },
     "Porz": {
-      "absolute": 4076,
+      "absolute": 3925,
       "percentage": 0.08
     },
     "Nippes": {
-      "absolute": 5340,
+      "absolute": 5124,
       "percentage": 0.11
     },
     "unknown": {
@@ -109,41 +109,41 @@
       "percentage": 0.0
     },
     "Lindenthal": {
-      "absolute": 6087,
+      "absolute": 5988,
       "percentage": 0.13
     },
     "Rodenkirchen": {
-      "absolute": 4265,
+      "absolute": 4184,
       "percentage": 0.09
     },
     "Ehrenfeld": {
-      "absolute": 4691,
+      "absolute": 4500,
       "percentage": 0.1
     },
     "Chorweiler": {
-      "absolute": 6748,
+      "absolute": 6521,
       "percentage": 0.14
     }
   },
   "unknown": {
     "Mülheim": {
-      "absolute": 5876,
+      "absolute": 5641,
       "percentage": 0.13
     },
     "Kalk": {
-      "absolute": 3587,
+      "absolute": 3452,
       "percentage": 0.08
     },
     "Nippes": {
-      "absolute": 5436,
+      "absolute": 5216,
       "percentage": 0.12
     },
     "Innenstadt": {
-      "absolute": 4525,
+      "absolute": 4408,
       "percentage": 0.1
     },
     "Porz": {
-      "absolute": 2715,
+      "absolute": 2563,
       "percentage": 0.06
     },
     "unknown": {
@@ -151,19 +151,19 @@
       "percentage": 0.0
     },
     "Lindenthal": {
-      "absolute": 9530,
+      "absolute": 9215,
       "percentage": 0.21
     },
     "Rodenkirchen": {
-      "absolute": 4779,
+      "absolute": 4616,
       "percentage": 0.1
     },
     "Ehrenfeld": {
-      "absolute": 4306,
+      "absolute": 4139,
       "percentage": 0.09
     },
     "Chorweiler": {
-      "absolute": 4921,
+      "absolute": 4743,
       "percentage": 0.11
     }
   }

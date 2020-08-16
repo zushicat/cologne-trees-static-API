@@ -1,92 +1,92 @@
 {
   "Kalk": {
     "2": {
-      "absolute": 3628,
+      "absolute": 3571,
       "percentage": 0.27
     },
     "1": {
-      "absolute": 5036,
+      "absolute": 4844,
       "percentage": 0.37
     },
     "0": {
-      "absolute": 1238,
+      "absolute": 1216,
       "percentage": 0.09
     },
     "unknown": {
-      "absolute": 3587,
-      "percentage": 0.27
+      "absolute": 3452,
+      "percentage": 0.26
     }
   },
   "Mülheim": {
     "2": {
-      "absolute": 4887,
+      "absolute": 4785,
       "percentage": 0.28
     },
     "0": {
-      "absolute": 1096,
+      "absolute": 1076,
       "percentage": 0.06
     },
     "1": {
-      "absolute": 5569,
+      "absolute": 5342,
       "percentage": 0.32
     },
     "unknown": {
-      "absolute": 5876,
-      "percentage": 0.34
+      "absolute": 5641,
+      "percentage": 0.33
     }
   },
   "Innenstadt": {
     "1": {
-      "absolute": 6340,
-      "percentage": 0.33
+      "absolute": 6154,
+      "percentage": 0.32
     },
     "2": {
-      "absolute": 7029,
+      "absolute": 6918,
       "percentage": 0.36
     },
     "0": {
-      "absolute": 1555,
+      "absolute": 1522,
       "percentage": 0.08
     },
     "unknown": {
-      "absolute": 4525,
+      "absolute": 4408,
       "percentage": 0.23
     }
   },
   "Porz": {
     "2": {
-      "absolute": 3865,
+      "absolute": 3772,
       "percentage": 0.33
     },
     "1": {
-      "absolute": 4076,
+      "absolute": 3925,
       "percentage": 0.35
     },
     "unknown": {
-      "absolute": 2715,
+      "absolute": 2563,
       "percentage": 0.23
     },
     "0": {
-      "absolute": 1113,
-      "percentage": 0.09
+      "absolute": 1100,
+      "percentage": 0.1
     }
   },
   "Nippes": {
     "1": {
-      "absolute": 5340,
+      "absolute": 5124,
       "percentage": 0.32
     },
     "2": {
-      "absolute": 4622,
+      "absolute": 4491,
       "percentage": 0.28
     },
     "unknown": {
-      "absolute": 5436,
+      "absolute": 5216,
       "percentage": 0.33
     },
     "0": {
-      "absolute": 1065,
-      "percentage": 0.06
+      "absolute": 1052,
+      "percentage": 0.07
     }
   },
   "unknown": {
@@ -109,73 +109,73 @@
   },
   "Lindenthal": {
     "2": {
-      "absolute": 6991,
+      "absolute": 6890,
       "percentage": 0.29
     },
     "unknown": {
-      "absolute": 9530,
+      "absolute": 9215,
       "percentage": 0.39
     },
     "1": {
-      "absolute": 6087,
+      "absolute": 5988,
       "percentage": 0.25
     },
     "0": {
-      "absolute": 1756,
+      "absolute": 1733,
       "percentage": 0.07
     }
   },
   "Rodenkirchen": {
     "2": {
-      "absolute": 4216,
-      "percentage": 0.28
+      "absolute": 4172,
+      "percentage": 0.29
     },
     "1": {
-      "absolute": 4265,
+      "absolute": 4184,
       "percentage": 0.29
     },
     "0": {
-      "absolute": 1641,
+      "absolute": 1604,
       "percentage": 0.11
     },
     "unknown": {
-      "absolute": 4779,
+      "absolute": 4616,
       "percentage": 0.32
     }
   },
   "Ehrenfeld": {
     "2": {
-      "absolute": 5033,
-      "percentage": 0.33
+      "absolute": 4913,
+      "percentage": 0.34
     },
     "1": {
-      "absolute": 4691,
+      "absolute": 4500,
       "percentage": 0.31
     },
     "0": {
-      "absolute": 1050,
+      "absolute": 1032,
       "percentage": 0.07
     },
     "unknown": {
-      "absolute": 4306,
-      "percentage": 0.29
+      "absolute": 4139,
+      "percentage": 0.28
     }
   },
   "Chorweiler": {
     "unknown": {
-      "absolute": 4921,
+      "absolute": 4743,
       "percentage": 0.29
     },
     "2": {
-      "absolute": 4117,
+      "absolute": 4030,
       "percentage": 0.24
     },
     "1": {
-      "absolute": 6748,
+      "absolute": 6521,
       "percentage": 0.4
     },
     "0": {
-      "absolute": 1227,
+      "absolute": 1208,
       "percentage": 0.07
     }
   }

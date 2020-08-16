@@ -1,12 +1,12 @@
 {
   "Kalk": {
-    "mean": 0.77,
+    "mean": 0.78,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
   },
   "Flittard": {
-    "mean": 0.41,
+    "mean": 0.42,
     "median": 0.08,
     "min": 0.08,
     "max": 1.0
@@ -24,13 +24,13 @@
     "max": 1.0
   },
   "Holweide": {
-    "mean": 0.62,
+    "mean": 0.63,
     "median": 0.82,
     "min": 0.08,
     "max": 1.0
   },
   "Mülheim": {
-    "mean": 0.69,
+    "mean": 0.7,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
@@ -72,7 +72,7 @@
     "max": 1.0
   },
   "Humboldt/Gremberg": {
-    "mean": 0.71,
+    "mean": 0.72,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
@@ -84,25 +84,25 @@
     "max": 1.0
   },
   "Eil": {
-    "mean": 0.55,
+    "mean": 0.56,
     "median": 0.82,
     "min": 0.08,
     "max": 1.0
   },
   "Rath/Heumar": {
-    "mean": 0.58,
+    "mean": 0.59,
     "median": 0.82,
     "min": 0.08,
     "max": 1.0
   },
   "Vingst": {
-    "mean": 0.75,
+    "mean": 0.76,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
   },
   "Ostheim": {
-    "mean": 0.67,
+    "mean": 0.68,
     "median": 0.87,
     "min": 0.0,
     "max": 1.0
@@ -128,17 +128,17 @@
   "Neustadt/Nord": {
     "mean": 0.67,
     "median": 0.87,
-    "min": 0.0,
+    "min": 0.08,
     "max": 1.0
   },
   "Riehl": {
-    "mean": 0.65,
+    "mean": 0.66,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
   },
   "Nippes": {
-    "mean": 0.72,
+    "mean": 0.73,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
@@ -192,8 +192,8 @@
     "max": 1.0
   },
   "Zollstock": {
-    "mean": 0.46,
-    "median": 0.17,
+    "mean": 0.47,
+    "median": 0.32,
     "min": 0.0,
     "max": 1.0
   },
@@ -210,19 +210,19 @@
     "max": 1.0
   },
   "Weiden": {
-    "mean": 0.7,
+    "mean": 0.71,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
   },
   "Müngersdorf": {
     "mean": 0.66,
-    "median": 0.87,
+    "median": 0.9,
     "min": 0.08,
     "max": 1.0
   },
   "Meschenich": {
-    "mean": 0.55,
+    "mean": 0.56,
     "median": 0.82,
     "min": 0.08,
     "max": 1.0
@@ -240,13 +240,13 @@
     "max": 0.95
   },
   "Godorf": {
-    "mean": 0.41,
+    "mean": 0.42,
     "median": 0.08,
     "min": 0.08,
     "max": 0.95
   },
   "Raderthal": {
-    "mean": 0.67,
+    "mean": 0.68,
     "median": 0.82,
     "min": 0.08,
     "max": 1.0
@@ -282,37 +282,37 @@
     "max": 1.0
   },
   "Weiß": {
-    "mean": 0.66,
+    "mean": 0.67,
     "median": 0.82,
     "min": 0.08,
     "max": 1.0
   },
   "Junkersdorf": {
-    "mean": 0.64,
+    "mean": 0.65,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
   },
   "Klettenberg": {
-    "mean": 0.77,
+    "mean": 0.78,
     "median": 0.9,
     "min": 0.0,
     "max": 1.0
   },
   "Braunsfeld": {
-    "mean": 0.87,
+    "mean": 0.88,
     "median": 0.9,
     "min": 0.08,
     "max": 1.0
   },
   "Ehrenfeld": {
-    "mean": 0.79,
+    "mean": 0.8,
     "median": 0.9,
     "min": 0.08,
     "max": 1.0
   },
   "Ossendorf": {
-    "mean": 0.53,
+    "mean": 0.54,
     "median": 0.82,
     "min": 0.0,
     "max": 1.0
@@ -342,7 +342,7 @@
     "max": 1.0
   },
   "Esch/Auweiler": {
-    "mean": 0.7,
+    "mean": 0.71,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
@@ -360,19 +360,19 @@
     "max": 1.0
   },
   "Niehl": {
-    "mean": 0.57,
+    "mean": 0.58,
     "median": 0.82,
     "min": 0.08,
     "max": 1.0
   },
   "Weidenpesch": {
-    "mean": 0.59,
+    "mean": 0.6,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
   },
   "Merkenich": {
-    "mean": 0.6,
+    "mean": 0.61,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
@@ -390,7 +390,7 @@
     "max": 1.0
   },
   "Pesch": {
-    "mean": 0.56,
+    "mean": 0.58,
     "median": 0.82,
     "min": 0.08,
     "max": 1.0
@@ -409,7 +409,7 @@
   },
   "Volkhoven/Weiler": {
     "mean": 0.8,
-    "median": 0.87,
+    "median": 0.9,
     "min": 0.08,
     "max": 1.0
   },
@@ -420,7 +420,7 @@
     "max": 1.0
   },
   "Finkenberg": {
-    "mean": 0.77,
+    "mean": 0.78,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
@@ -438,13 +438,13 @@
     "max": 1.0
   },
   "Porz": {
-    "mean": 0.78,
+    "mean": 0.79,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0
   },
   "Libur": {
-    "mean": 0.79,
+    "mean": 0.8,
     "median": 0.92,
     "min": 0.08,
     "max": 1.0
@@ -468,7 +468,7 @@
     "max": 1.0
   },
   "Lind": {
-    "mean": 0.7,
+    "mean": 0.71,
     "median": 0.87,
     "min": 0.08,
     "max": 0.95
@@ -486,7 +486,7 @@
     "max": 1.0
   },
   "Grengel": {
-    "mean": 0.67,
+    "mean": 0.68,
     "median": 0.87,
     "min": 0.08,
     "max": 0.95

@@ -262,7 +262,6 @@
   "papyrifera": [
     "Papierbirke"
   ],
-  "caroliniana": null,
   "cerasifera": [
     "Blut-Pflaume",
     "Pappel"
@@ -386,7 +385,6 @@
   ],
   "julibrissin": null,
   "araucana": null,
-  "zenii": null,
   "hybride": null,
   "capillipes": null,
   "macrophylla": null,
@@ -499,6 +497,7 @@
   "rhoifolia": null,
   "cordiformis": null,
   "ailantifolia": null,
+  "caroliniana": null,
   "dulcis dulcis": null,
   "turbinata": null,
   "chinense": null,

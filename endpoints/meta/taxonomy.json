@@ -49,7 +49,6 @@
     "unknown": [
       "Esche"
     ],
-    "caroliniana": null,
     "ornus": [
       "Blumen-Esch"
     ],
@@ -58,6 +57,7 @@
     ],
     "americana": null,
     "pennsylvanica": null,
+    "caroliniana": null,
     "longicuspis": null
   },
   "Tilia": {
@@ -641,7 +641,6 @@
       "Magnolie"
     ],
     "grandiflora": null,
-    "zenii": null,
     "hybride": null,
     "macrophylla": null,
     "acumunata": null,

@@ -1,12 +1,12 @@
 {
   "Kalk": {
-    "mean": 0.65,
+    "mean": 0.66,
     "median": 0.87,
     "min": 0.0,
     "max": 1.0
   },
   "Mülheim": {
-    "mean": 0.59,
+    "mean": 0.6,
     "median": 0.82,
     "min": 0.0,
     "max": 1.0
@@ -18,7 +18,7 @@
     "max": 1.0
   },
   "Porz": {
-    "mean": 0.7,
+    "mean": 0.71,
     "median": 0.87,
     "min": 0.08,
     "max": 1.0

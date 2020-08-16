@@ -5,8 +5,8 @@
       "percentage": 0.21
     },
     "building/school/dormitory (home) building": {
-      "absolute": 1690,
-      "percentage": 0.78
+      "absolute": 1662,
+      "percentage": 0.77
     },
     "playground": {
       "absolute": 24,
@@ -20,24 +20,24 @@
   "Flittard": {
     "street/court (plaza)": {
       "absolute": 39,
-      "percentage": 0.04
+      "percentage": 0.05
     },
     "building/school/dormitory (home) building": {
-      "absolute": 725,
-      "percentage": 0.83
+      "absolute": 702,
+      "percentage": 0.84
     },
     "unknown": {
-      "absolute": 106,
-      "percentage": 0.12
+      "absolute": 94,
+      "percentage": 0.11
     }
   },
   "Stammheim": {
     "street/court (plaza)": {
-      "absolute": 119,
+      "absolute": 116,
       "percentage": 0.13
     },
     "building/school/dormitory (home) building": {
-      "absolute": 785,
+      "absolute": 756,
       "percentage": 0.86
     },
     "unknown": {
@@ -47,8 +47,8 @@
   },
   "Buchheim": {
     "building/school/dormitory (home) building": {
-      "absolute": 1077,
-      "percentage": 0.9
+      "absolute": 1026,
+      "percentage": 0.89
     },
     "street/court (plaza)": {
       "absolute": 109,
@@ -56,7 +56,7 @@
     },
     "green space": {
       "absolute": 6,
-      "percentage": 0.0
+      "percentage": 0.01
     },
     "unknown": {
       "absolute": 9,
@@ -65,47 +65,47 @@
   },
   "Holweide": {
     "building/school/dormitory (home) building": {
-      "absolute": 2174,
+      "absolute": 2080,
       "percentage": 0.88
     },
     "street/court (plaza)": {
-      "absolute": 244,
+      "absolute": 243,
       "percentage": 0.1
     },
     "unknown": {
-      "absolute": 51,
+      "absolute": 43,
       "percentage": 0.02
     }
   },
   "Mülheim": {
     "building/school/dormitory (home) building": {
-      "absolute": 3452,
+      "absolute": 3337,
       "percentage": 0.68
     },
     "street/court (plaza)": {
-      "absolute": 981,
-      "percentage": 0.19
+      "absolute": 980,
+      "percentage": 0.2
     },
     "green space": {
       "absolute": 226,
-      "percentage": 0.04
+      "percentage": 0.05
     },
     "playground": {
-      "absolute": 37,
+      "absolute": 36,
       "percentage": 0.01
     },
     "unknown": {
-      "absolute": 383,
-      "percentage": 0.08
+      "absolute": 338,
+      "percentage": 0.07
     }
   },
   "Buchforst": {
     "street/court (plaza)": {
       "absolute": 151,
-      "percentage": 0.3
+      "percentage": 0.31
     },
     "building/school/dormitory (home) building": {
-      "absolute": 352,
+      "absolute": 338,
       "percentage": 0.69
     },
     "unknown": {
@@ -115,11 +115,11 @@
   },
   "Höhenhaus": {
     "street/court (plaza)": {
-      "absolute": 85,
+      "absolute": 84,
       "percentage": 0.05
     },
     "building/school/dormitory (home) building": {
-      "absolute": 1595,
+      "absolute": 1544,
       "percentage": 0.88
     },
     "allotment garden": {
@@ -131,17 +131,17 @@
       "percentage": 0.01
     },
     "unknown": {
-      "absolute": 106,
+      "absolute": 103,
       "percentage": 0.06
     }
   },
   "Dünnwald": {
     "street/court (plaza)": {
-      "absolute": 159,
+      "absolute": 155,
       "percentage": 0.14
     },
     "building/school/dormitory (home) building": {
-      "absolute": 950,
+      "absolute": 918,
       "percentage": 0.85
     },
     "green space": {
@@ -155,21 +155,21 @@
   },
   "Dellbrück": {
     "building/school/dormitory (home) building": {
-      "absolute": 1938,
+      "absolute": 1871,
       "percentage": 0.56
     },
     "street/court (plaza)": {
-      "absolute": 398,
+      "absolute": 396,
       "percentage": 0.12
     },
     "unknown": {
-      "absolute": 1124,
-      "percentage": 0.32
+      "absolute": 1097,
+      "percentage": 0.33
     }
   },
   "Merheim": {
     "building/school/dormitory (home) building": {
-      "absolute": 1234,
+      "absolute": 1197,
       "percentage": 0.76
     },
     "street/court (plaza)": {
@@ -177,7 +177,7 @@
       "percentage": 0.16
     },
     "playground": {
-      "absolute": 87,
+      "absolute": 86,
       "percentage": 0.05
     },
     "green space": {
@@ -185,39 +185,39 @@
       "percentage": 0.02
     },
     "unknown": {
-      "absolute": 16,
-      "percentage": 0.01
+      "absolute": 7,
+      "percentage": 0.0
     }
   },
   "Deutz": {
     "building/school/dormitory (home) building": {
-      "absolute": 3973,
+      "absolute": 3873,
       "percentage": 0.8
     },
     "street/court (plaza)": {
-      "absolute": 615,
-      "percentage": 0.12
+      "absolute": 613,
+      "percentage": 0.13
     },
     "green space": {
       "absolute": 37,
       "percentage": 0.01
     },
     "playground": {
-      "absolute": 148,
+      "absolute": 147,
       "percentage": 0.03
     },
     "allotment garden": {
-      "absolute": 31,
+      "absolute": 29,
       "percentage": 0.01
     },
     "unknown": {
-      "absolute": 139,
+      "absolute": 124,
       "percentage": 0.03
     }
   },
   "Humboldt/Gremberg": {
     "building/school/dormitory (home) building": {
-      "absolute": 1454,
+      "absolute": 1422,
       "percentage": 0.82
     },
     "street/court (plaza)": {
@@ -229,36 +229,36 @@
       "percentage": 0.02
     },
     "playground": {
-      "absolute": 72,
+      "absolute": 71,
       "percentage": 0.04
     },
     "unknown": {
-      "absolute": 95,
+      "absolute": 85,
       "percentage": 0.05
     }
   },
   "Höhenberg": {
     "building/school/dormitory (home) building": {
-      "absolute": 1183,
-      "percentage": 0.81
+      "absolute": 1140,
+      "percentage": 0.8
     },
     "street/court (plaza)": {
       "absolute": 234,
-      "percentage": 0.16
+      "percentage": 0.17
     },
     "cemetery": {
       "absolute": 2,
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 44,
+      "absolute": 42,
       "percentage": 0.03
     }
   },
   "Eil": {
     "building/school/dormitory (home) building": {
-      "absolute": 780,
-      "percentage": 0.88
+      "absolute": 749,
+      "percentage": 0.87
     },
     "street/court (plaza)": {
       "absolute": 98,
@@ -275,7 +275,7 @@
   },
   "Rath/Heumar": {
     "building/school/dormitory (home) building": {
-      "absolute": 1290,
+      "absolute": 1247,
       "percentage": 0.8
     },
     "street/court (plaza)": {
@@ -286,63 +286,63 @@
   "Vingst": {
     "street/court (plaza)": {
       "absolute": 277,
-      "percentage": 0.3
+      "percentage": 0.31
     },
     "building/school/dormitory (home) building": {
-      "absolute": 560,
+      "absolute": 542,
       "percentage": 0.61
     },
     "unknown": {
-      "absolute": 82,
-      "percentage": 0.09
+      "absolute": 74,
+      "percentage": 0.08
     }
   },
   "Ostheim": {
     "street/court (plaza)": {
-      "absolute": 152,
+      "absolute": 150,
       "percentage": 0.08
     },
     "building/school/dormitory (home) building": {
-      "absolute": 1594,
-      "percentage": 0.84
+      "absolute": 1524,
+      "percentage": 0.85
     },
     "unknown": {
-      "absolute": 143,
-      "percentage": 0.08
+      "absolute": 118,
+      "percentage": 0.07
     }
   },
   "Neubrück": {
     "street/court (plaza)": {
-      "absolute": 98,
+      "absolute": 91,
       "percentage": 0.1
     },
     "building/school/dormitory (home) building": {
-      "absolute": 821,
-      "percentage": 0.83
+      "absolute": 785,
+      "percentage": 0.84
     },
     "unknown": {
-      "absolute": 76,
-      "percentage": 0.08
+      "absolute": 59,
+      "percentage": 0.06
     }
   },
   "Gremberghoven": {
     "street/court (plaza)": {
       "absolute": 107,
-      "percentage": 0.22
+      "percentage": 0.23
     },
     "building/school/dormitory (home) building": {
-      "absolute": 372,
-      "percentage": 0.78
+      "absolute": 364,
+      "percentage": 0.77
     }
   },
   "Brück": {
     "building/school/dormitory (home) building": {
-      "absolute": 870,
-      "percentage": 0.83
+      "absolute": 853,
+      "percentage": 0.82
     },
     "street/court (plaza)": {
       "absolute": 173,
-      "percentage": 0.16
+      "percentage": 0.17
     },
     "unknown": {
       "absolute": 8,
@@ -355,37 +355,37 @@
       "percentage": 0.24
     },
     "building/school/dormitory (home) building": {
-      "absolute": 4019,
+      "absolute": 3929,
       "percentage": 0.71
     },
     "green space": {
-      "absolute": 101,
+      "absolute": 100,
       "percentage": 0.02
     },
     "playground": {
-      "absolute": 95,
+      "absolute": 92,
       "percentage": 0.02
     },
     "unknown": {
-      "absolute": 105,
+      "absolute": 92,
       "percentage": 0.02
     }
   },
   "Riehl": {
     "building/school/dormitory (home) building": {
-      "absolute": 2681,
-      "percentage": 0.7
+      "absolute": 2577,
+      "percentage": 0.69
     },
     "street/court (plaza)": {
-      "absolute": 898,
-      "percentage": 0.23
+      "absolute": 897,
+      "percentage": 0.24
     },
     "green space": {
       "absolute": 100,
       "percentage": 0.03
     },
     "playground": {
-      "absolute": 31,
+      "absolute": 30,
       "percentage": 0.01
     },
     "allotment garden": {
@@ -393,8 +393,8 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 140,
-      "percentage": 0.04
+      "absolute": 125,
+      "percentage": 0.03
     }
   },
   "Nippes": {
@@ -403,11 +403,11 @@
       "percentage": 0.14
     },
     "building/school/dormitory (home) building": {
-      "absolute": 2234,
+      "absolute": 2147,
       "percentage": 0.77
     },
     "playground": {
-      "absolute": 123,
+      "absolute": 120,
       "percentage": 0.04
     },
     "green space": {
@@ -415,7 +415,7 @@
       "percentage": 0.02
     },
     "unknown": {
-      "absolute": 70,
+      "absolute": 62,
       "percentage": 0.02
     }
   },
@@ -439,11 +439,11 @@
   },
   "Altstadt/Nord": {
     "building/school/dormitory (home) building": {
-      "absolute": 1321,
+      "absolute": 1289,
       "percentage": 0.65
     },
     "street/court (plaza)": {
-      "absolute": 584,
+      "absolute": 580,
       "percentage": 0.29
     },
     "green space": {
@@ -451,73 +451,73 @@
       "percentage": 0.03
     },
     "playground": {
-      "absolute": 53,
+      "absolute": 50,
       "percentage": 0.03
     },
     "unknown": {
-      "absolute": 7,
+      "absolute": 6,
       "percentage": 0.0
     }
   },
   "Neustadt/Süd": {
     "building/school/dormitory (home) building": {
-      "absolute": 2721,
+      "absolute": 2667,
       "percentage": 0.7
     },
     "street/court (plaza)": {
-      "absolute": 876,
-      "percentage": 0.22
+      "absolute": 875,
+      "percentage": 0.23
     },
     "green space": {
       "absolute": 74,
       "percentage": 0.02
     },
     "playground": {
-      "absolute": 65,
+      "absolute": 64,
       "percentage": 0.02
     },
     "unknown": {
-      "absolute": 178,
-      "percentage": 0.05
+      "absolute": 153,
+      "percentage": 0.04
     }
   },
   "Altstadt/Süd": {
     "street/court (plaza)": {
-      "absolute": 481,
+      "absolute": 478,
       "percentage": 0.17
     },
     "building/school/dormitory (home) building": {
-      "absolute": 2001,
+      "absolute": 1921,
       "percentage": 0.69
     },
     "playground": {
-      "absolute": 199,
+      "absolute": 194,
       "percentage": 0.07
     },
     "green space": {
-      "absolute": 136,
+      "absolute": 133,
       "percentage": 0.05
     },
     "unknown": {
-      "absolute": 73,
-      "percentage": 0.03
+      "absolute": 65,
+      "percentage": 0.02
     }
   },
   "Lindenthal": {
     "building/school/dormitory (home) building": {
-      "absolute": 8046,
-      "percentage": 0.83
+      "absolute": 7811,
+      "percentage": 0.82
     },
     "street/court (plaza)": {
-      "absolute": 1414,
+      "absolute": 1411,
       "percentage": 0.15
     },
     "playground": {
-      "absolute": 86,
+      "absolute": 84,
       "percentage": 0.01
     },
     "green space": {
-      "absolute": 87,
+      "absolute": 85,
       "percentage": 0.01
     },
     "cemetery": {
@@ -525,7 +525,7 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 110,
+      "absolute": 105,
       "percentage": 0.01
     }
   },
@@ -535,7 +535,7 @@
       "percentage": 0.27
     },
     "building/school/dormitory (home) building": {
-      "absolute": 2929,
+      "absolute": 2859,
       "percentage": 0.69
     },
     "playground": {
@@ -547,21 +547,21 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 68,
+      "absolute": 65,
       "percentage": 0.02
     }
   },
   "Bayenthal": {
     "street/court (plaza)": {
       "absolute": 347,
-      "percentage": 0.36
+      "percentage": 0.37
     },
     "building/school/dormitory (home) building": {
-      "absolute": 564,
+      "absolute": 545,
       "percentage": 0.58
     },
     "playground": {
-      "absolute": 50,
+      "absolute": 48,
       "percentage": 0.05
     },
     "green space": {
@@ -575,12 +575,12 @@
   },
   "Poll": {
     "building/school/dormitory (home) building": {
-      "absolute": 989,
+      "absolute": 968,
       "percentage": 0.57
     },
     "street/court (plaza)": {
-      "absolute": 475,
-      "percentage": 0.27
+      "absolute": 471,
+      "percentage": 0.28
     },
     "special facility": {
       "absolute": 55,
@@ -591,13 +591,13 @@
       "percentage": 0.05
     },
     "unknown": {
-      "absolute": 140,
+      "absolute": 128,
       "percentage": 0.08
     }
   },
   "Zollstock": {
     "building/school/dormitory (home) building": {
-      "absolute": 2245,
+      "absolute": 2186,
       "percentage": 0.84
     },
     "playground": {
@@ -613,7 +613,7 @@
       "percentage": 0.01
     },
     "unknown": {
-      "absolute": 183,
+      "absolute": 172,
       "percentage": 0.07
     }
   },
@@ -623,21 +623,21 @@
       "percentage": 0.06
     },
     "building/school/dormitory (home) building": {
-      "absolute": 993,
+      "absolute": 974,
       "percentage": 0.86
     },
     "playground": {
-      "absolute": 76,
+      "absolute": 75,
       "percentage": 0.07
     },
     "unknown": {
-      "absolute": 7,
+      "absolute": 6,
       "percentage": 0.01
     }
   },
   "Lövenich": {
     "building/school/dormitory (home) building": {
-      "absolute": 762,
+      "absolute": 753,
       "percentage": 0.83
     },
     "street/court (plaza)": {
@@ -645,21 +645,21 @@
       "percentage": 0.08
     },
     "playground": {
-      "absolute": 87,
+      "absolute": 83,
       "percentage": 0.09
     }
   },
   "Weiden": {
     "building/school/dormitory (home) building": {
-      "absolute": 1225,
+      "absolute": 1184,
       "percentage": 0.65
     },
     "street/court (plaza)": {
-      "absolute": 482,
+      "absolute": 481,
       "percentage": 0.26
     },
     "playground": {
-      "absolute": 116,
+      "absolute": 107,
       "percentage": 0.06
     },
     "green space": {
@@ -667,21 +667,21 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 44,
+      "absolute": 41,
       "percentage": 0.02
     }
   },
   "Müngersdorf": {
     "building/school/dormitory (home) building": {
-      "absolute": 1048,
+      "absolute": 1023,
       "percentage": 0.66
     },
     "street/court (plaza)": {
-      "absolute": 398,
-      "percentage": 0.25
+      "absolute": 396,
+      "percentage": 0.26
     },
     "playground": {
-      "absolute": 27,
+      "absolute": 26,
       "percentage": 0.02
     },
     "green space": {
@@ -689,18 +689,18 @@
       "percentage": 0.01
     },
     "unknown": {
-      "absolute": 87,
-      "percentage": 0.06
+      "absolute": 85,
+      "percentage": 0.05
     }
   },
   "Meschenich": {
     "playground": {
-      "absolute": 22,
-      "percentage": 0.05
+      "absolute": 20,
+      "percentage": 0.04
     },
     "building/school/dormitory (home) building": {
-      "absolute": 448,
-      "percentage": 0.95
+      "absolute": 435,
+      "percentage": 0.96
     }
   },
   "Rondorf": {
@@ -709,7 +709,7 @@
       "percentage": 0.01
     },
     "building/school/dormitory (home) building": {
-      "absolute": 1862,
+      "absolute": 1841,
       "percentage": 0.96
     },
     "playground": {
@@ -731,18 +731,18 @@
       "percentage": 0.0
     },
     "building/school/dormitory (home) building": {
-      "absolute": 262,
+      "absolute": 248,
       "percentage": 0.95
     },
     "playground": {
       "absolute": 12,
-      "percentage": 0.04
+      "percentage": 0.05
     }
   },
   "Godorf": {
     "building/school/dormitory (home) building": {
-      "absolute": 326,
-      "percentage": 0.94
+      "absolute": 311,
+      "percentage": 0.93
     },
     "street/court (plaza)": {
       "absolute": 1,
@@ -755,33 +755,33 @@
   },
   "Raderthal": {
     "building/school/dormitory (home) building": {
-      "absolute": 1039,
+      "absolute": 1001,
       "percentage": 0.89
     },
     "playground": {
-      "absolute": 27,
+      "absolute": 23,
       "percentage": 0.02
     },
     "street/court (plaza)": {
       "absolute": 86,
-      "percentage": 0.07
+      "percentage": 0.08
     },
     "unknown": {
-      "absolute": 21,
+      "absolute": 17,
       "percentage": 0.02
     }
   },
   "Rodenkirchen": {
     "building/school/dormitory (home) building": {
-      "absolute": 1409,
-      "percentage": 0.68
+      "absolute": 1364,
+      "percentage": 0.67
     },
     "street/court (plaza)": {
       "absolute": 487,
-      "percentage": 0.23
+      "percentage": 0.24
     },
     "playground": {
-      "absolute": 144,
+      "absolute": 137,
       "percentage": 0.07
     },
     "green space": {
@@ -795,7 +795,7 @@
   },
   "Hahnwald": {
     "building/school/dormitory (home) building": {
-      "absolute": 263,
+      "absolute": 258,
       "percentage": 1.0
     }
   },
@@ -805,8 +805,8 @@
       "percentage": 0.3
     },
     "building/school/dormitory (home) building": {
-      "absolute": 1649,
-      "percentage": 0.68
+      "absolute": 1634,
+      "percentage": 0.67
     },
     "green space": {
       "absolute": 21,
@@ -817,13 +817,13 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 31,
+      "absolute": 25,
       "percentage": 0.01
     }
   },
   "Raderberg": {
     "building/school/dormitory (home) building": {
-      "absolute": 362,
+      "absolute": 351,
       "percentage": 0.88
     },
     "street/court (plaza)": {
@@ -832,28 +832,28 @@
     },
     "playground": {
       "absolute": 18,
-      "percentage": 0.04
+      "percentage": 0.05
     },
     "unknown": {
-      "absolute": 22,
+      "absolute": 19,
       "percentage": 0.05
     }
   },
   "Sürth": {
     "building/school/dormitory (home) building": {
-      "absolute": 1157,
-      "percentage": 0.82
+      "absolute": 1137,
+      "percentage": 0.83
     },
     "street/court (plaza)": {
       "absolute": 104,
-      "percentage": 0.07
+      "percentage": 0.08
     },
     "playground": {
-      "absolute": 100,
+      "absolute": 96,
       "percentage": 0.07
     },
     "unknown": {
-      "absolute": 44,
+      "absolute": 39,
       "percentage": 0.03
     }
   },
@@ -863,15 +863,15 @@
       "percentage": 0.06
     },
     "building/school/dormitory (home) building": {
-      "absolute": 345,
-      "percentage": 0.76
+      "absolute": 344,
+      "percentage": 0.77
     },
     "playground": {
       "absolute": 21,
       "percentage": 0.05
     },
     "unknown": {
-      "absolute": 59,
+      "absolute": 58,
       "percentage": 0.13
     }
   },
@@ -881,29 +881,29 @@
       "percentage": 0.12
     },
     "building/school/dormitory (home) building": {
-      "absolute": 1802,
+      "absolute": 1759,
       "percentage": 0.77
     },
     "playground": {
-      "absolute": 34,
+      "absolute": 31,
       "percentage": 0.01
     },
     "green space": {
-      "absolute": 153,
-      "percentage": 0.07
+      "absolute": 138,
+      "percentage": 0.06
     },
     "unknown": {
-      "absolute": 78,
+      "absolute": 76,
       "percentage": 0.03
     }
   },
   "Klettenberg": {
     "street/court (plaza)": {
-      "absolute": 538,
-      "percentage": 0.43
+      "absolute": 534,
+      "percentage": 0.44
     },
     "building/school/dormitory (home) building": {
-      "absolute": 606,
+      "absolute": 602,
       "percentage": 0.49
     },
     "green space": {
@@ -911,17 +911,17 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 103,
-      "percentage": 0.08
+      "absolute": 84,
+      "percentage": 0.07
     }
   },
   "Braunsfeld": {
     "street/court (plaza)": {
-      "absolute": 816,
+      "absolute": 813,
       "percentage": 0.64
     },
     "building/school/dormitory (home) building": {
-      "absolute": 389,
+      "absolute": 384,
       "percentage": 0.3
     },
     "green space": {
@@ -929,7 +929,7 @@
       "percentage": 0.01
     },
     "playground": {
-      "absolute": 61,
+      "absolute": 59,
       "percentage": 0.05
     },
     "unknown": {
@@ -939,33 +939,33 @@
   },
   "Ehrenfeld": {
     "street/court (plaza)": {
-      "absolute": 985,
-      "percentage": 0.26
+      "absolute": 983,
+      "percentage": 0.27
     },
     "building/school/dormitory (home) building": {
-      "absolute": 2374,
+      "absolute": 2297,
       "percentage": 0.63
     },
     "playground": {
-      "absolute": 331,
-      "percentage": 0.09
+      "absolute": 302,
+      "percentage": 0.08
     },
     "green space": {
       "absolute": 14,
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 37,
+      "absolute": 36,
       "percentage": 0.01
     }
   },
   "Ossendorf": {
     "building/school/dormitory (home) building": {
-      "absolute": 2502,
+      "absolute": 2406,
       "percentage": 0.8
     },
     "street/court (plaza)": {
-      "absolute": 279,
+      "absolute": 277,
       "percentage": 0.09
     },
     "sports field": {
@@ -973,29 +973,29 @@
       "percentage": 0.0
     },
     "playground": {
-      "absolute": 106,
+      "absolute": 102,
       "percentage": 0.03
     },
     "green space": {
-      "absolute": 22,
+      "absolute": 21,
       "percentage": 0.01
     },
     "unknown": {
-      "absolute": 198,
+      "absolute": 182,
       "percentage": 0.06
     }
   },
   "Bocklemünd/Mengenich": {
     "building/school/dormitory (home) building": {
-      "absolute": 947,
+      "absolute": 924,
       "percentage": 0.85
     },
     "street/court (plaza)": {
-      "absolute": 82,
+      "absolute": 80,
       "percentage": 0.07
     },
     "playground": {
-      "absolute": 33,
+      "absolute": 31,
       "percentage": 0.03
     },
     "green space": {
@@ -1003,18 +1003,18 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 50,
+      "absolute": 46,
       "percentage": 0.04
     }
   },
   "Vogelsang": {
     "building/school/dormitory (home) building": {
-      "absolute": 2345,
+      "absolute": 2264,
       "percentage": 0.85
     },
     "street/court (plaza)": {
-      "absolute": 371,
-      "percentage": 0.13
+      "absolute": 367,
+      "percentage": 0.14
     },
     "green space": {
       "absolute": 20,
@@ -1025,39 +1025,39 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 12,
+      "absolute": 11,
       "percentage": 0.0
     }
   },
   "Bickendorf": {
     "building/school/dormitory (home) building": {
-      "absolute": 984,
+      "absolute": 946,
       "percentage": 0.61
     },
     "street/court (plaza)": {
-      "absolute": 375,
-      "percentage": 0.23
+      "absolute": 374,
+      "percentage": 0.24
     },
     "playground": {
-      "absolute": 74,
+      "absolute": 72,
       "percentage": 0.05
     },
     "unknown": {
-      "absolute": 171,
+      "absolute": 164,
       "percentage": 0.11
     }
   },
   "Neuehrenfeld": {
     "building/school/dormitory (home) building": {
-      "absolute": 1979,
-      "percentage": 0.72
+      "absolute": 1887,
+      "percentage": 0.71
     },
     "street/court (plaza)": {
       "absolute": 624,
-      "percentage": 0.23
+      "percentage": 0.24
     },
     "playground": {
-      "absolute": 66,
+      "absolute": 65,
       "percentage": 0.02
     },
     "green space": {
@@ -1065,13 +1065,13 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 84,
+      "absolute": 74,
       "percentage": 0.03
     }
   },
   "Esch/Auweiler": {
     "building/school/dormitory (home) building": {
-      "absolute": 929,
+      "absolute": 887,
       "percentage": 0.84
     },
     "playground": {
@@ -1079,7 +1079,7 @@
       "percentage": 0.02
     },
     "street/court (plaza)": {
-      "absolute": 152,
+      "absolute": 151,
       "percentage": 0.14
     },
     "unknown": {
@@ -1090,14 +1090,14 @@
   "Bilderstöckchen": {
     "street/court (plaza)": {
       "absolute": 316,
-      "percentage": 0.14
+      "percentage": 0.15
     },
     "building/school/dormitory (home) building": {
-      "absolute": 1587,
+      "absolute": 1536,
       "percentage": 0.73
     },
     "green space": {
-      "absolute": 90,
+      "absolute": 89,
       "percentage": 0.04
     },
     "playground": {
@@ -1105,17 +1105,17 @@
       "percentage": 0.02
     },
     "unknown": {
-      "absolute": 148,
-      "percentage": 0.07
+      "absolute": 133,
+      "percentage": 0.06
     }
   },
   "Longerich": {
     "building/school/dormitory (home) building": {
-      "absolute": 1466,
-      "percentage": 0.75
+      "absolute": 1367,
+      "percentage": 0.74
     },
     "street/court (plaza)": {
-      "absolute": 231,
+      "absolute": 227,
       "percentage": 0.12
     },
     "playground": {
@@ -1131,21 +1131,21 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 231,
-      "percentage": 0.12
+      "absolute": 211,
+      "percentage": 0.11
     }
   },
   "Niehl": {
     "street/court (plaza)": {
-      "absolute": 884,
-      "percentage": 0.23
+      "absolute": 880,
+      "percentage": 0.24
     },
     "building/school/dormitory (home) building": {
-      "absolute": 2826,
+      "absolute": 2720,
       "percentage": 0.73
     },
     "playground": {
-      "absolute": 36,
+      "absolute": 35,
       "percentage": 0.01
     },
     "green space": {
@@ -1163,19 +1163,19 @@
   },
   "Weidenpesch": {
     "building/school/dormitory (home) building": {
-      "absolute": 958,
-      "percentage": 0.73
+      "absolute": 919,
+      "percentage": 0.72
     },
     "street/court (plaza)": {
-      "absolute": 268,
-      "percentage": 0.2
+      "absolute": 267,
+      "percentage": 0.21
     },
     "green space": {
       "absolute": 19,
       "percentage": 0.01
     },
     "unknown": {
-      "absolute": 70,
+      "absolute": 66,
       "percentage": 0.05
     },
     "playground": {
@@ -1185,7 +1185,7 @@
   },
   "Merkenich": {
     "building/school/dormitory (home) building": {
-      "absolute": 1083,
+      "absolute": 1056,
       "percentage": 0.9
     },
     "street/court (plaza)": {
@@ -1193,17 +1193,17 @@
       "percentage": 0.08
     },
     "unknown": {
-      "absolute": 25,
+      "absolute": 23,
       "percentage": 0.02
     }
   },
   "Fühlingen": {
     "street/court (plaza)": {
-      "absolute": 148,
+      "absolute": 147,
       "percentage": 0.07
     },
     "building/school/dormitory (home) building": {
-      "absolute": 2005,
+      "absolute": 1973,
       "percentage": 0.92
     },
     "unknown": {
@@ -1213,7 +1213,7 @@
   },
   "Chorweiler": {
     "building/school/dormitory (home) building": {
-      "absolute": 2774,
+      "absolute": 2707,
       "percentage": 0.82
     },
     "street/court (plaza)": {
@@ -1229,18 +1229,18 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 141,
+      "absolute": 133,
       "percentage": 0.04
     }
   },
   "Pesch": {
     "street/court (plaza)": {
       "absolute": 98,
-      "percentage": 0.09
+      "percentage": 0.1
     },
     "building/school/dormitory (home) building": {
-      "absolute": 932,
-      "percentage": 0.9
+      "absolute": 877,
+      "percentage": 0.89
     },
     "green space": {
       "absolute": 4,
@@ -1253,11 +1253,11 @@
   },
   "Lindweiler": {
     "street/court (plaza)": {
-      "absolute": 91,
+      "absolute": 89,
       "percentage": 0.22
     },
     "building/school/dormitory (home) building": {
-      "absolute": 314,
+      "absolute": 303,
       "percentage": 0.74
     },
     "green space": {
@@ -1271,12 +1271,12 @@
   },
   "Seeberg": {
     "building/school/dormitory (home) building": {
-      "absolute": 1708,
+      "absolute": 1612,
       "percentage": 0.73
     },
     "street/court (plaza)": {
-      "absolute": 557,
-      "percentage": 0.24
+      "absolute": 554,
+      "percentage": 0.25
     },
     "playground": {
       "absolute": 8,
@@ -1287,32 +1287,32 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 48,
+      "absolute": 41,
       "percentage": 0.02
     }
   },
   "Volkhoven/Weiler": {
     "building/school/dormitory (home) building": {
-      "absolute": 1467,
+      "absolute": 1431,
       "percentage": 0.91
     },
     "street/court (plaza)": {
       "absolute": 119,
-      "percentage": 0.07
+      "percentage": 0.08
     },
     "unknown": {
-      "absolute": 27,
+      "absolute": 26,
       "percentage": 0.02
     }
   },
   "Zündorf": {
     "building/school/dormitory (home) building": {
-      "absolute": 1082,
-      "percentage": 0.86
+      "absolute": 1044,
+      "percentage": 0.85
     },
     "street/court (plaza)": {
       "absolute": 170,
-      "percentage": 0.13
+      "percentage": 0.14
     },
     "unknown": {
       "absolute": 9,
@@ -1321,12 +1321,12 @@
   },
   "Finkenberg": {
     "building/school/dormitory (home) building": {
-      "absolute": 909,
+      "absolute": 862,
       "percentage": 0.91
     },
     "street/court (plaza)": {
-      "absolute": 84,
-      "percentage": 0.08
+      "absolute": 83,
+      "percentage": 0.09
     },
     "unknown": {
       "absolute": 5,
@@ -1335,11 +1335,11 @@
   },
   "Blumenberg": {
     "building/school/dormitory (home) building": {
-      "absolute": 1055,
+      "absolute": 1022,
       "percentage": 0.88
     },
     "street/court (plaza)": {
-      "absolute": 145,
+      "absolute": 144,
       "percentage": 0.12
     },
     "unknown": {
@@ -1349,25 +1349,25 @@
   },
   "Heimersdorf": {
     "building/school/dormitory (home) building": {
-      "absolute": 568,
-      "percentage": 0.79
+      "absolute": 527,
+      "percentage": 0.78
     },
     "street/court (plaza)": {
-      "absolute": 104,
-      "percentage": 0.14
+      "absolute": 101,
+      "percentage": 0.15
     },
     "unknown": {
-      "absolute": 51,
+      "absolute": 44,
       "percentage": 0.07
     }
   },
   "Porz": {
     "building/school/dormitory (home) building": {
-      "absolute": 1660,
-      "percentage": 0.77
+      "absolute": 1598,
+      "percentage": 0.78
     },
     "street/court (plaza)": {
-      "absolute": 314,
+      "absolute": 311,
       "percentage": 0.15
     },
     "green space": {
@@ -1375,13 +1375,13 @@
       "percentage": 0.01
     },
     "unknown": {
-      "absolute": 155,
-      "percentage": 0.07
+      "absolute": 126,
+      "percentage": 0.06
     }
   },
   "Libur": {
     "building/school/dormitory (home) building": {
-      "absolute": 120,
+      "absolute": 118,
       "percentage": 0.82
     },
     "street/court (plaza)": {
@@ -1395,25 +1395,21 @@
   },
   "Worringen": {
     "building/school/dormitory (home) building": {
-      "absolute": 758,
+      "absolute": 742,
       "percentage": 0.8
     },
     "street/court (plaza)": {
       "absolute": 112,
       "percentage": 0.12
     },
-    "cemetery": {
-      "absolute": 1,
-      "percentage": 0.0
-    },
     "unknown": {
-      "absolute": 71,
-      "percentage": 0.08
+      "absolute": 69,
+      "percentage": 0.07
     }
   },
   "Ensen": {
     "building/school/dormitory (home) building": {
-      "absolute": 359,
+      "absolute": 351,
       "percentage": 0.83
     },
     "street/court (plaza)": {
@@ -1425,36 +1421,36 @@
       "percentage": 0.02
     },
     "unknown": {
-      "absolute": 9,
+      "absolute": 7,
       "percentage": 0.02
     }
   },
   "Mauenheim": {
     "street/court (plaza)": {
       "absolute": 112,
-      "percentage": 0.28
+      "percentage": 0.29
     },
     "building/school/dormitory (home) building": {
-      "absolute": 246,
-      "percentage": 0.6
+      "absolute": 231,
+      "percentage": 0.59
     },
     "playground": {
       "absolute": 6,
-      "percentage": 0.01
+      "percentage": 0.02
     },
     "unknown": {
-      "absolute": 43,
+      "absolute": 42,
       "percentage": 0.11
     }
   },
   "Lind": {
     "street/court (plaza)": {
       "absolute": 62,
-      "percentage": 0.15
+      "percentage": 0.16
     },
     "building/school/dormitory (home) building": {
-      "absolute": 336,
-      "percentage": 0.82
+      "absolute": 310,
+      "percentage": 0.81
     },
     "biotope area": {
       "absolute": 3,
@@ -1462,26 +1458,26 @@
     },
     "unknown": {
       "absolute": 10,
-      "percentage": 0.02
+      "percentage": 0.03
     }
   },
   "Wahnheide": {
     "building/school/dormitory (home) building": {
-      "absolute": 330,
+      "absolute": 305,
       "percentage": 0.83
     },
     "street/court (plaza)": {
-      "absolute": 32,
+      "absolute": 31,
       "percentage": 0.08
     },
     "unknown": {
-      "absolute": 35,
+      "absolute": 32,
       "percentage": 0.09
     }
   },
   "Wahn": {
     "building/school/dormitory (home) building": {
-      "absolute": 749,
+      "absolute": 726,
       "percentage": 0.81
     },
     "street/court (plaza)": {
@@ -1489,18 +1485,18 @@
       "percentage": 0.17
     },
     "unknown": {
-      "absolute": 16,
+      "absolute": 15,
       "percentage": 0.02
     }
   },
   "Grengel": {
     "building/school/dormitory (home) building": {
-      "absolute": 257,
-      "percentage": 0.9
+      "absolute": 246,
+      "percentage": 0.91
     },
     "unknown": {
-      "absolute": 27,
-      "percentage": 0.1
+      "absolute": 25,
+      "percentage": 0.09
     }
   },
   "Elsdorf": {
@@ -1515,15 +1511,15 @@
   },
   "Urbach": {
     "street/court (plaza)": {
-      "absolute": 51,
+      "absolute": 49,
       "percentage": 0.1
     },
     "building/school/dormitory (home) building": {
-      "absolute": 377,
-      "percentage": 0.77
+      "absolute": 362,
+      "percentage": 0.76
     },
     "playground": {
-      "absolute": 54,
+      "absolute": 53,
       "percentage": 0.11
     },
     "green space": {
@@ -1533,7 +1529,7 @@
   },
   "Langel": {
     "building/school/dormitory (home) building": {
-      "absolute": 193,
+      "absolute": 187,
       "percentage": 0.81
     },
     "street/court (plaza)": {
@@ -1544,10 +1540,10 @@
   "Westhoven": {
     "street/court (plaza)": {
       "absolute": 64,
-      "percentage": 0.08
+      "percentage": 0.09
     },
     "building/school/dormitory (home) building": {
-      "absolute": 707,
+      "absolute": 682,
       "percentage": 0.91
     },
     "unknown": {
@@ -1557,7 +1553,7 @@
   },
   "Roggendorf/Thenhoven": {
     "building/school/dormitory (home) building": {
-      "absolute": 750,
+      "absolute": 734,
       "percentage": 0.83
     },
     "street/court (plaza)": {

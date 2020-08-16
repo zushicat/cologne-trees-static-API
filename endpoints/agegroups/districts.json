@@ -1,23 +1,23 @@
 {
   "2": {
     "Kalk": {
-      "absolute": 3509,
+      "absolute": 3465,
       "percentage": 0.08
     },
     "Mülheim": {
-      "absolute": 4751,
+      "absolute": 4665,
       "percentage": 0.11
     },
     "Porz": {
-      "absolute": 3762,
+      "absolute": 3675,
       "percentage": 0.09
     },
     "Innenstadt": {
-      "absolute": 6723,
+      "absolute": 6647,
       "percentage": 0.16
     },
     "Nippes": {
-      "absolute": 4351,
+      "absolute": 4288,
       "percentage": 0.1
     },
     "unknown": {
@@ -25,58 +25,58 @@
       "percentage": 0.0
     },
     "Lindenthal": {
-      "absolute": 6764,
+      "absolute": 6677,
       "percentage": 0.16
     },
     "Rodenkirchen": {
-      "absolute": 4057,
-      "percentage": 0.09
+      "absolute": 4025,
+      "percentage": 0.1
     },
     "Ehrenfeld": {
-      "absolute": 4858,
+      "absolute": 4754,
       "percentage": 0.11
     },
     "Chorweiler": {
-      "absolute": 4030,
+      "absolute": 3949,
       "percentage": 0.09
     }
   },
   "0": {
     "Mülheim": {
-      "absolute": 1084,
+      "absolute": 1065,
       "percentage": 0.09
     },
     "Kalk": {
-      "absolute": 1209,
+      "absolute": 1187,
       "percentage": 0.1
     },
     "Nippes": {
-      "absolute": 1045,
+      "absolute": 1035,
       "percentage": 0.09
     },
     "Innenstadt": {
-      "absolute": 1521,
+      "absolute": 1490,
       "percentage": 0.13
     },
     "Rodenkirchen": {
-      "absolute": 1595,
+      "absolute": 1561,
       "percentage": 0.14
     },
     "Porz": {
-      "absolute": 1106,
+      "absolute": 1093,
       "percentage": 0.1
     },
     "Lindenthal": {
-      "absolute": 1721,
+      "absolute": 1702,
       "percentage": 0.15
     },
     "Ehrenfeld": {
-      "absolute": 1031,
+      "absolute": 1013,
       "percentage": 0.09
     },
     "Chorweiler": {
-      "absolute": 1211,
-      "percentage": 0.1
+      "absolute": 1195,
+      "percentage": 0.11
     },
     "unknown": {
       "absolute": 31,
@@ -85,23 +85,23 @@
   },
   "1": {
     "Mülheim": {
-      "absolute": 5344,
-      "percentage": 0.12
+      "absolute": 5147,
+      "percentage": 0.11
     },
     "Kalk": {
-      "absolute": 4811,
+      "absolute": 4660,
       "percentage": 0.1
     },
     "Innenstadt": {
-      "absolute": 6135,
+      "absolute": 5985,
       "percentage": 0.13
     },
     "Porz": {
-      "absolute": 3995,
+      "absolute": 3859,
       "percentage": 0.09
     },
     "Nippes": {
-      "absolute": 5146,
+      "absolute": 4970,
       "percentage": 0.11
     },
     "unknown": {
@@ -109,41 +109,41 @@
       "percentage": 0.0
     },
     "Lindenthal": {
-      "absolute": 5889,
+      "absolute": 5799,
       "percentage": 0.13
     },
     "Rodenkirchen": {
-      "absolute": 4146,
+      "absolute": 4077,
       "percentage": 0.09
     },
     "Ehrenfeld": {
-      "absolute": 4534,
+      "absolute": 4374,
       "percentage": 0.1
     },
     "Chorweiler": {
-      "absolute": 6378,
+      "absolute": 6213,
       "percentage": 0.14
     }
   },
   "unknown": {
     "Mülheim": {
-      "absolute": 6249,
+      "absolute": 5967,
       "percentage": 0.13
     },
     "Kalk": {
-      "absolute": 3960,
+      "absolute": 3771,
       "percentage": 0.08
     },
     "Porz": {
-      "absolute": 2906,
+      "absolute": 2733,
       "percentage": 0.06
     },
     "Nippes": {
-      "absolute": 5921,
+      "absolute": 5590,
       "percentage": 0.12
     },
     "Innenstadt": {
-      "absolute": 5070,
+      "absolute": 4880,
       "percentage": 0.1
     },
     "unknown": {
@@ -151,19 +151,19 @@
       "percentage": 0.0
     },
     "Lindenthal": {
-      "absolute": 9990,
+      "absolute": 9648,
       "percentage": 0.2
     },
     "Rodenkirchen": {
-      "absolute": 5103,
+      "absolute": 4913,
       "percentage": 0.1
     },
     "Ehrenfeld": {
-      "absolute": 4657,
+      "absolute": 4443,
       "percentage": 0.09
     },
     "Chorweiler": {
-      "absolute": 5394,
+      "absolute": 5145,
       "percentage": 0.11
     }
   }
