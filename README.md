@@ -82,8 +82,12 @@ districts / tree_count
 districts / cut_tree_count
 districts / genus
 districts / genus_with_predictions
+districts / cut_tree_genus
+districts / cut_tree_genus_with_predictions
 districts / age_groups
 districts / age_groups_with_predictions
+districts / cut_tree_age_groups
+districts / cut_tree_age_groups_with_predictions
 districts / object_type
 ```
 
