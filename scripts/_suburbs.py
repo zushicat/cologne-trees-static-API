@@ -168,6 +168,12 @@ def create_suburbs_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_202
     dat = _count_suburb_by_genus(tree_data_2020, True)
     write_endpoint_data(dat, ENDPOINT_GROUP, "genus_with_predictions")
 
+    dat = _count_suburb_by_genus(tree_data_2017, False)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "cut_tree_genus")
+
+    dat = _count_suburb_by_genus(tree_data_2017, True)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "cut_tree_genus_with_predictions")
+
     # ***
     #
     dat = _count_suburb_by_age_group(tree_data_2020, False)
@@ -175,6 +181,12 @@ def create_suburbs_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_202
 
     dat = _count_suburb_by_age_group(tree_data_2020, True)
     write_endpoint_data(dat, ENDPOINT_GROUP, "age_groups_with_predictions")
+
+    dat = _count_suburb_by_age_group(tree_data_2017, False)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "cut_tree_age_groups")
+
+    dat = _count_suburb_by_age_group(tree_data_2017, True)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "cut_tree_age_groups_with_predictions")
 
     # ***
     #

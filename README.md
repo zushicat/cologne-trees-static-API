@@ -100,8 +100,12 @@ suburbs / tree_count
 suburbs / cut_tree_count
 suburbs / genus
 suburbs / genus_with_predictions
+suburbs / cut_tree_genus
+suburbs / cut_tree_genus_with_predictions
 suburbs / age_groups
 suburbs / age_groups_with_predictions
+suburbs / cut_tree_age_groups
+suburbs / cut_tree_age_groups_with_predictions
 suburbs / object_type
 ```
 
