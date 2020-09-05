@@ -146,7 +146,7 @@ meta / overall_tree_count
 
 
 ### objects_type
-Aggregations collected under object types (meaning surroundings) where a tree is located. The object types are defined as followed: 
+Aggregations collected under object types (tree environment) where a tree is located. The object types are defined as followed: 
 - allotment garden
 - sports field
 - playground
@@ -172,3 +172,18 @@ object_type / age_groups_with_prediction
 object_type / ground_truth_bole_radius_year_planting
 object_type / regression_bole_radius_year_sprout
 ```
+
+The data source is the official tree inventory.
+
+
+### location_type
+Aggregations collected under location types (tree environment) where a tree is located.
+
+```
+location_type / tree_count_location_type
+location_type / cut_tree_count_location_type
+location_type / tree_count_osm_keys
+location_type / cut_tree_count_osm_keys
+```
+
+The data source is a match of the tree (point) location with OpenStreetMap (OSM) data.
