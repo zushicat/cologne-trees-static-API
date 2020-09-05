@@ -1,0 +1,13 @@
+{
+  "farmland": 227,
+  "highway": 3086,
+  "unknown": 418,
+  "park": 742,
+  "forest": 994,
+  "cemetery": 182,
+  "grass": 272,
+  "playground": 120,
+  "meadow": 103,
+  "allotments": 118,
+  "recreation_ground": 37
+}

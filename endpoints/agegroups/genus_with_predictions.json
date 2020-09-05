@@ -5,11 +5,11 @@
       "percentage": 0.04
     },
     "Platanus": {
-      "absolute": 7289,
+      "absolute": 7285,
       "percentage": 0.17
     },
     "Tilia": {
-      "absolute": 11331,
+      "absolute": 11310,
       "percentage": 0.26
     },
     "Fraxinus": {
@@ -17,7 +17,7 @@
       "percentage": 0.02
     },
     "Acer": {
-      "absolute": 9111,
+      "absolute": 9094,
       "percentage": 0.21
     },
     "Betula": {
@@ -41,7 +41,7 @@
       "percentage": 0.03
     },
     "Carpinus": {
-      "absolute": 2162,
+      "absolute": 2161,
       "percentage": 0.05
     },
     "Sorbus": {
@@ -1635,15 +1635,15 @@
       "percentage": 0.1
     },
     "Acer": {
-      "absolute": 1832,
+      "absolute": 1830,
       "percentage": 0.16
     },
     "Pyrus": {
-      "absolute": 418,
+      "absolute": 414,
       "percentage": 0.04
     },
     "Prunus": {
-      "absolute": 1306,
+      "absolute": 1305,
       "percentage": 0.11
     },
     "Amelanchier": {
@@ -1651,7 +1651,7 @@
       "percentage": 0.01
     },
     "Platanus": {
-      "absolute": 268,
+      "absolute": 266,
       "percentage": 0.02
     },
     "Liriodendron": {
@@ -1671,11 +1671,11 @@
       "percentage": 0.03
     },
     "Malus": {
-      "absolute": 541,
+      "absolute": 540,
       "percentage": 0.05
     },
     "Crataegus": {
-      "absolute": 622,
+      "absolute": 621,
       "percentage": 0.05
     },
     "Carpinus": {
@@ -1695,7 +1695,7 @@
       "percentage": 0.02
     },
     "Fraxinus": {
-      "absolute": 510,
+      "absolute": 507,
       "percentage": 0.04
     },
     "Liquidambar": {
@@ -1719,7 +1719,7 @@
       "percentage": 0.01
     },
     "Gleditsia": {
-      "absolute": 438,
+      "absolute": 421,
       "percentage": 0.04
     },
     "Juglans": {
@@ -2325,11 +2325,11 @@
   },
   "1": {
     "Fraxinus": {
-      "absolute": 1351,
+      "absolute": 1350,
       "percentage": 0.03
     },
     "Acer": {
-      "absolute": 10192,
+      "absolute": 10167,
       "percentage": 0.22
     },
     "Metasequoia": {
@@ -2345,11 +2345,11 @@
       "percentage": 0.02
     },
     "Tilia": {
-      "absolute": 9467,
+      "absolute": 9444,
       "percentage": 0.2
     },
     "Prunus": {
-      "absolute": 1905,
+      "absolute": 1902,
       "percentage": 0.04
     },
     "Robinia": {
@@ -2361,11 +2361,11 @@
       "percentage": 0.02
     },
     "Pyrus": {
-      "absolute": 498,
+      "absolute": 497,
       "percentage": 0.01
     },
     "Quercus": {
-      "absolute": 1915,
+      "absolute": 1914,
       "percentage": 0.04
     },
     "Corylus": {
@@ -2373,11 +2373,11 @@
       "percentage": 0.03
     },
     "Platanus": {
-      "absolute": 2844,
+      "absolute": 2837,
       "percentage": 0.06
     },
     "Carpinus": {
-      "absolute": 3997,
+      "absolute": 3991,
       "percentage": 0.09
     },
     "Catalpa": {
@@ -2385,7 +2385,7 @@
       "percentage": 0.0
     },
     "Gleditsia": {
-      "absolute": 559,
+      "absolute": 556,
       "percentage": 0.01
     },
     "Sophora": {
@@ -2409,7 +2409,7 @@
       "percentage": 0.0
     },
     "Salix": {
-      "absolute": 383,
+      "absolute": 382,
       "percentage": 0.01
     },
     "Pinus": {
@@ -2621,7 +2621,7 @@
       "percentage": 0.0
     },
     "Taxus": {
-      "absolute": 627,
+      "absolute": 626,
       "percentage": 0.01
     },
     "Ailanthus": {
@@ -2797,7 +2797,7 @@
       "percentage": 0.0
     },
     "Malus": {
-      "absolute": 236,
+      "absolute": 235,
       "percentage": 0.01
     },
     "{'prediction': 'Platanus', 'probability': 0.57}": {
@@ -3005,7 +3005,7 @@
       "percentage": 0.0
     },
     "Sambucus": {
-      "absolute": 115,
+      "absolute": 114,
       "percentage": 0.0
     },
     "{'prediction': 'Fraxinus', 'probability': 0.75}": {
@@ -4535,7 +4535,7 @@
   },
   "unknown": {
     "unknown": {
-      "absolute": 30864,
+      "absolute": 30708,
       "percentage": 0.7
     },
     "{'prediction': 'Platanus', 'probability': 0.34}": {
@@ -4579,7 +4579,7 @@
       "percentage": 0.0
     },
     "Tilia": {
-      "absolute": 677,
+      "absolute": 674,
       "percentage": 0.02
     },
     "Cedrus": {
@@ -5675,7 +5675,7 @@
       "percentage": 0.0
     },
     "Ilex": {
-      "absolute": 69,
+      "absolute": 68,
       "percentage": 0.0
     },
     "{'prediction': 'Ginkgo', 'probability': 0.29}": {

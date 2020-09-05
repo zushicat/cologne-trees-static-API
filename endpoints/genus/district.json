@@ -50,10 +50,6 @@
       "absolute": 2255,
       "percentage": 0.21
     },
-    "unknown": {
-      "absolute": 13,
-      "percentage": 0.0
-    },
     "Nippes": {
       "absolute": 730,
       "percentage": 0.07
@@ -153,10 +149,6 @@
     "Chorweiler": {
       "absolute": 351,
       "percentage": 0.13
-    },
-    "unknown": {
-      "absolute": 4,
-      "percentage": 0.0
     }
   },
   "Tilia": {
@@ -179,10 +171,6 @@
     "Nippes": {
       "absolute": 2689,
       "percentage": 0.12
-    },
-    "unknown": {
-      "absolute": 47,
-      "percentage": 0.0
     },
     "Lindenthal": {
       "absolute": 4559,
@@ -208,7 +196,7 @@
     },
     "Kalk": {
       "absolute": 1838,
-      "percentage": 0.08
+      "percentage": 0.09
     },
     "Porz": {
       "absolute": 1862,
@@ -221,10 +209,6 @@
     "Nippes": {
       "absolute": 2343,
       "percentage": 0.11
-    },
-    "unknown": {
-      "absolute": 44,
-      "percentage": 0.0
     },
     "Lindenthal": {
       "absolute": 2780,
@@ -317,10 +301,6 @@
     "Chorweiler": {
       "absolute": 503,
       "percentage": 0.14
-    },
-    "unknown": {
-      "absolute": 4,
-      "percentage": 0.0
     }
   },
   "Metasequoia": {
@@ -503,10 +483,6 @@
     "Porz": {
       "absolute": 670,
       "percentage": 0.1
-    },
-    "unknown": {
-      "absolute": 7,
-      "percentage": 0.0
     }
   },
   "Crataegus": {
@@ -545,10 +521,6 @@
     "Chorweiler": {
       "absolute": 97,
       "percentage": 0.06
-    },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.0
     }
   },
   "Pyrus": {
@@ -578,7 +550,7 @@
     },
     "Nippes": {
       "absolute": 116,
-      "percentage": 0.12
+      "percentage": 0.13
     },
     "Chorweiler": {
       "absolute": 182,
@@ -587,10 +559,6 @@
     "Porz": {
       "absolute": 45,
       "percentage": 0.05
-    },
-    "unknown": {
-      "absolute": 5,
-      "percentage": 0.01
     }
   },
   "unknown": {
@@ -613,10 +581,6 @@
     "Innenstadt": {
       "absolute": 4256,
       "percentage": 0.1
-    },
-    "unknown": {
-      "absolute": 156,
-      "percentage": 0.0
     },
     "Lindenthal": {
       "absolute": 6477,
@@ -671,10 +635,6 @@
     "Chorweiler": {
       "absolute": 568,
       "percentage": 0.15
-    },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.0
     }
   },
   "Corylus": {
@@ -802,11 +762,11 @@
     },
     "Innenstadt": {
       "absolute": 223,
-      "percentage": 0.18
+      "percentage": 0.19
     },
     "Lindenthal": {
       "absolute": 165,
-      "percentage": 0.13
+      "percentage": 0.14
     },
     "Ehrenfeld": {
       "absolute": 239,
@@ -819,10 +779,6 @@
     "Chorweiler": {
       "absolute": 129,
       "percentage": 0.11
-    },
-    "unknown": {
-      "absolute": 20,
-      "percentage": 0.02
     },
     "Rodenkirchen": {
       "absolute": 59,
@@ -983,10 +939,6 @@
     "Porz": {
       "absolute": 142,
       "percentage": 0.18
-    },
-    "unknown": {
-      "absolute": 2,
-      "percentage": 0.0
     }
   },
   "Populus": {
@@ -1136,7 +1088,7 @@
     },
     "Kalk": {
       "absolute": 71,
-      "percentage": 0.08
+      "percentage": 0.09
     },
     "Innenstadt": {
       "absolute": 45,
@@ -1156,7 +1108,7 @@
     },
     "Ehrenfeld": {
       "absolute": 71,
-      "percentage": 0.08
+      "percentage": 0.09
     },
     "Nippes": {
       "absolute": 57,
@@ -1165,10 +1117,6 @@
     "Chorweiler": {
       "absolute": 146,
       "percentage": 0.17
-    },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.0
     }
   },
   "Larix": {
@@ -1483,10 +1431,6 @@
     "Kalk": {
       "absolute": 63,
       "percentage": 0.07
-    },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.0
     }
   },
   "Juglans": {
@@ -1562,11 +1506,11 @@
   "Ilex": {
     "Innenstadt": {
       "absolute": 31,
-      "percentage": 0.29
+      "percentage": 0.3
     },
     "Nippes": {
       "absolute": 28,
-      "percentage": 0.26
+      "percentage": 0.27
     },
     "Chorweiler": {
       "absolute": 8,
@@ -1594,11 +1538,7 @@
     },
     "Porz": {
       "absolute": 10,
-      "percentage": 0.09
-    },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.01
+      "percentage": 0.1
     }
   },
   "Magnolia": {
@@ -1853,10 +1793,6 @@
     "Porz": {
       "absolute": 8,
       "percentage": 0.03
-    },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.0
     }
   },
   "Photinia": {

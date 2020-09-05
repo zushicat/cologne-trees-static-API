@@ -28,10 +28,6 @@
       "absolute": 1988,
       "percentage": 0.08
     },
-    "unknown": {
-      "absolute": 33,
-      "percentage": 0.0
-    },
     "Ehrenfeld": {
       "absolute": 2705,
       "percentage": 0.11
@@ -61,10 +57,6 @@
     "Nippes": {
       "absolute": 11497,
       "percentage": 0.1
-    },
-    "unknown": {
-      "absolute": 235,
-      "percentage": 0.0
     },
     "Lindenthal": {
       "absolute": 17349,
@@ -164,10 +156,6 @@
       "absolute": 37,
       "percentage": 0.01
     },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.0
-    },
     "Porz": {
       "absolute": 53,
       "percentage": 0.02
@@ -188,7 +176,7 @@
     },
     "Mülheim": {
       "absolute": 1703,
-      "percentage": 0.31
+      "percentage": 0.32
     },
     "Nippes": {
       "absolute": 682,
@@ -208,15 +196,11 @@
     },
     "Kalk": {
       "absolute": 407,
-      "percentage": 0.07
+      "percentage": 0.08
     },
     "Rodenkirchen": {
       "absolute": 388,
       "percentage": 0.07
-    },
-    "unknown": {
-      "absolute": 39,
-      "percentage": 0.01
     }
   },
   "sports field": {

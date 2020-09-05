@@ -1,10 +1,10 @@
 {
   "street/court (plaza)": {
-    "absolute": 25033,
+    "absolute": 25000,
     "percentage": 0.17
   },
   "building/school/dormitory (home) building": {
-    "absolute": 110952,
+    "absolute": 110717,
     "percentage": 0.76
   },
   "green space": {
@@ -16,11 +16,11 @@
     "percentage": 0.0
   },
   "playground": {
-    "absolute": 2723,
+    "absolute": 2722,
     "percentage": 0.02
   },
   "unknown": {
-    "absolute": 5444,
+    "absolute": 5405,
     "percentage": 0.04
   },
   "sports field": {

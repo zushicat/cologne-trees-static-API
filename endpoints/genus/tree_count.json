@@ -4,7 +4,7 @@
     "percentage": 0.04
   },
   "Platanus": {
-    "absolute": 10596,
+    "absolute": 10583,
     "percentage": 0.07
   },
   "Sorbus": {
@@ -12,15 +12,15 @@
     "percentage": 0.01
   },
   "Fraxinus": {
-    "absolute": 2626,
+    "absolute": 2622,
     "percentage": 0.02
   },
   "Tilia": {
-    "absolute": 22682,
+    "absolute": 22635,
     "percentage": 0.16
   },
   "Acer": {
-    "absolute": 21624,
+    "absolute": 21580,
     "percentage": 0.15
   },
   "Betula": {
@@ -28,7 +28,7 @@
     "percentage": 0.02
   },
   "Prunus": {
-    "absolute": 3705,
+    "absolute": 3701,
     "percentage": 0.03
   },
   "Metasequoia": {
@@ -48,23 +48,23 @@
     "percentage": 0.0
   },
   "Carpinus": {
-    "absolute": 6931,
+    "absolute": 6924,
     "percentage": 0.05
   },
   "Crataegus": {
-    "absolute": 1710,
+    "absolute": 1709,
     "percentage": 0.01
   },
   "Pyrus": {
-    "absolute": 930,
+    "absolute": 925,
     "percentage": 0.01
   },
   "unknown": {
-    "absolute": 41386,
+    "absolute": 41230,
     "percentage": 0.28
   },
   "Quercus": {
-    "absolute": 3724,
+    "absolute": 3723,
     "percentage": 0.03
   },
   "Corylus": {
@@ -80,7 +80,7 @@
     "percentage": 0.0
   },
   "Gleditsia": {
-    "absolute": 1225,
+    "absolute": 1205,
     "percentage": 0.01
   },
   "Sophora": {
@@ -96,7 +96,7 @@
     "percentage": 0.0
   },
   "Malus": {
-    "absolute": 799,
+    "absolute": 797,
     "percentage": 0.01
   },
   "Populus": {
@@ -116,7 +116,7 @@
     "percentage": 0.0
   },
   "Salix": {
-    "absolute": 836,
+    "absolute": 835,
     "percentage": 0.01
   },
   "Larix": {
@@ -152,7 +152,7 @@
     "percentage": 0.0
   },
   "Taxus": {
-    "absolute": 890,
+    "absolute": 889,
     "percentage": 0.01
   },
   "Juglans": {
@@ -168,7 +168,7 @@
     "percentage": 0.0
   },
   "Ilex": {
-    "absolute": 106,
+    "absolute": 105,
     "percentage": 0.0
   },
   "Magnolia": {
@@ -204,7 +204,7 @@
     "percentage": 0.0
   },
   "Sambucus": {
-    "absolute": 238,
+    "absolute": 237,
     "percentage": 0.0
   },
   "Photinia": {

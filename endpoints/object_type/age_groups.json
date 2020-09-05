@@ -1,15 +1,15 @@
 {
   "street/court (plaza)": {
     "2": {
-      "absolute": 14695,
+      "absolute": 14689,
       "percentage": 0.59
     },
     "1": {
-      "absolute": 9003,
+      "absolute": 8989,
       "percentage": 0.36
     },
     "0": {
-      "absolute": 988,
+      "absolute": 975,
       "percentage": 0.04
     },
     "unknown": {
@@ -19,19 +19,19 @@
   },
   "building/school/dormitory (home) building": {
     "0": {
-      "absolute": 9653,
+      "absolute": 9635,
       "percentage": 0.09
     },
     "1": {
-      "absolute": 34134,
+      "absolute": 34074,
       "percentage": 0.31
     },
     "2": {
-      "absolute": 24878,
+      "absolute": 24842,
       "percentage": 0.22
     },
     "unknown": {
-      "absolute": 42287,
+      "absolute": 42166,
       "percentage": 0.38
     }
   },
@@ -69,7 +69,7 @@
   },
   "playground": {
     "2": {
-      "absolute": 1279,
+      "absolute": 1278,
       "percentage": 0.47
     },
     "1": {
@@ -99,7 +99,7 @@
       "percentage": 0.03
     },
     "unknown": {
-      "absolute": 4575,
+      "absolute": 4536,
       "percentage": 0.84
     }
   },

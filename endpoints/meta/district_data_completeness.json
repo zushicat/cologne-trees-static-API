@@ -29,12 +29,6 @@
     "min": 0.0,
     "max": 1.0
   },
-  "unknown": {
-    "mean": 0.45,
-    "median": 0.08,
-    "min": 0.0,
-    "max": 0.95
-  },
   "Lindenthal": {
     "mean": 0.63,
     "median": 0.82,

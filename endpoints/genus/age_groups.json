@@ -19,16 +19,16 @@
   },
   "Platanus": {
     "2": {
-      "absolute": 7257,
-      "percentage": 0.68
+      "absolute": 7253,
+      "percentage": 0.69
     },
     "1": {
-      "absolute": 2828,
+      "absolute": 2821,
       "percentage": 0.27
     },
     "0": {
-      "absolute": 266,
-      "percentage": 0.03
+      "absolute": 264,
+      "percentage": 0.02
     },
     "unknown": {
       "absolute": 245,
@@ -55,7 +55,7 @@
   },
   "Fraxinus": {
     "1": {
-      "absolute": 1345,
+      "absolute": 1344,
       "percentage": 0.51
     },
     "2": {
@@ -63,7 +63,7 @@
       "percentage": 0.28
     },
     "0": {
-      "absolute": 509,
+      "absolute": 506,
       "percentage": 0.19
     },
     "unknown": {
@@ -73,11 +73,11 @@
   },
   "Tilia": {
     "2": {
-      "absolute": 11263,
+      "absolute": 11242,
       "percentage": 0.5
     },
     "1": {
-      "absolute": 9421,
+      "absolute": 9398,
       "percentage": 0.42
     },
     "0": {
@@ -85,21 +85,21 @@
       "percentage": 0.05
     },
     "unknown": {
-      "absolute": 793,
+      "absolute": 790,
       "percentage": 0.03
     }
   },
   "Acer": {
     "2": {
-      "absolute": 9071,
+      "absolute": 9054,
       "percentage": 0.42
     },
     "1": {
-      "absolute": 10116,
+      "absolute": 10091,
       "percentage": 0.47
     },
     "0": {
-      "absolute": 1828,
+      "absolute": 1826,
       "percentage": 0.08
     },
     "unknown": {
@@ -131,11 +131,11 @@
       "percentage": 0.11
     },
     "1": {
-      "absolute": 1893,
+      "absolute": 1890,
       "percentage": 0.51
     },
     "0": {
-      "absolute": 1303,
+      "absolute": 1302,
       "percentage": 0.35
     },
     "unknown": {
@@ -217,7 +217,7 @@
   },
   "Carpinus": {
     "2": {
-      "absolute": 2158,
+      "absolute": 2157,
       "percentage": 0.31
     },
     "unknown": {
@@ -225,7 +225,7 @@
       "percentage": 0.03
     },
     "1": {
-      "absolute": 3988,
+      "absolute": 3982,
       "percentage": 0.58
     },
     "0": {
@@ -243,7 +243,7 @@
       "percentage": 0.03
     },
     "0": {
-      "absolute": 617,
+      "absolute": 616,
       "percentage": 0.36
     },
     "unknown": {
@@ -253,12 +253,12 @@
   },
   "Pyrus": {
     "0": {
-      "absolute": 417,
+      "absolute": 413,
       "percentage": 0.45
     },
     "1": {
-      "absolute": 496,
-      "percentage": 0.53
+      "absolute": 495,
+      "percentage": 0.54
     },
     "unknown": {
       "absolute": 4,
@@ -271,7 +271,7 @@
   },
   "unknown": {
     "unknown": {
-      "absolute": 41386,
+      "absolute": 41230,
       "percentage": 1.0
     }
   },
@@ -281,7 +281,7 @@
       "percentage": 0.33
     },
     "1": {
-      "absolute": 1907,
+      "absolute": 1906,
       "percentage": 0.51
     },
     "0": {
@@ -349,7 +349,7 @@
   },
   "Gleditsia": {
     "1": {
-      "absolute": 558,
+      "absolute": 555,
       "percentage": 0.46
     },
     "2": {
@@ -361,8 +361,8 @@
       "percentage": 0.02
     },
     "0": {
-      "absolute": 436,
-      "percentage": 0.36
+      "absolute": 419,
+      "percentage": 0.35
     }
   },
   "Sophora": {
@@ -417,7 +417,7 @@
   },
   "Malus": {
     "0": {
-      "absolute": 541,
+      "absolute": 540,
       "percentage": 0.68
     },
     "2": {
@@ -425,7 +425,7 @@
       "percentage": 0.02
     },
     "1": {
-      "absolute": 235,
+      "absolute": 234,
       "percentage": 0.29
     },
     "unknown": {
@@ -499,7 +499,7 @@
       "percentage": 0.22
     },
     "1": {
-      "absolute": 366,
+      "absolute": 365,
       "percentage": 0.44
     },
     "2": {
@@ -621,7 +621,7 @@
   },
   "Taxus": {
     "1": {
-      "absolute": 624,
+      "absolute": 623,
       "percentage": 0.7
     },
     "2": {
@@ -681,7 +681,7 @@
   },
   "Ilex": {
     "unknown": {
-      "absolute": 106,
+      "absolute": 105,
       "percentage": 1.0
     }
   },
@@ -795,7 +795,7 @@
   },
   "Sambucus": {
     "1": {
-      "absolute": 108,
+      "absolute": 107,
       "percentage": 0.45
     },
     "unknown": {

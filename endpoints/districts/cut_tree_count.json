@@ -1,7 +1,7 @@
 {
   "Mülheim": {
     "absolute": 701,
-    "percentage": 0.11
+    "percentage": 0.12
   },
   "Kalk": {
     "absolute": 636,
@@ -10,10 +10,6 @@
   "Porz": {
     "absolute": 267,
     "percentage": 0.04
-  },
-  "unknown": {
-    "absolute": 14,
-    "percentage": 0.0
   },
   "Innenstadt": {
     "absolute": 699,

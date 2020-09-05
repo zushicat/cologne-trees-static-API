@@ -141,24 +141,6 @@
       "percentage": 0.0
     }
   },
-  "unknown": {
-    "building/school/dormitory (home) building": {
-      "absolute": 235,
-      "percentage": 0.76
-    },
-    "street/court (plaza)": {
-      "absolute": 33,
-      "percentage": 0.11
-    },
-    "playground": {
-      "absolute": 1,
-      "percentage": 0.0
-    },
-    "unknown": {
-      "absolute": 39,
-      "percentage": 0.13
-    }
-  },
   "Lindenthal": {
     "building/school/dormitory (home) building": {
       "absolute": 17349,

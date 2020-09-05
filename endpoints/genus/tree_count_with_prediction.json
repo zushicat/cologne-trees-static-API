@@ -4,7 +4,7 @@
     "percentage": 0.04
   },
   "Platanus": {
-    "absolute": 10904,
+    "absolute": 10891,
     "percentage": 0.07
   },
   "Sorbus": {
@@ -12,15 +12,15 @@
     "percentage": 0.01
   },
   "Fraxinus": {
-    "absolute": 2664,
+    "absolute": 2660,
     "percentage": 0.02
   },
   "Tilia": {
-    "absolute": 23637,
+    "absolute": 23590,
     "percentage": 0.16
   },
   "Acer": {
-    "absolute": 22122,
+    "absolute": 22078,
     "percentage": 0.15
   },
   "Betula": {
@@ -28,7 +28,7 @@
     "percentage": 0.02
   },
   "Prunus": {
-    "absolute": 3754,
+    "absolute": 3750,
     "percentage": 0.03
   },
   "Metasequoia": {
@@ -48,23 +48,23 @@
     "percentage": 0.0
   },
   "Carpinus": {
-    "absolute": 7015,
+    "absolute": 7008,
     "percentage": 0.05
   },
   "Crataegus": {
-    "absolute": 1740,
+    "absolute": 1739,
     "percentage": 0.01
   },
   "Pyrus": {
-    "absolute": 949,
+    "absolute": 944,
     "percentage": 0.01
   },
   "unknown": {
-    "absolute": 38794,
+    "absolute": 38638,
     "percentage": 0.27
   },
   "Quercus": {
-    "absolute": 3787,
+    "absolute": 3786,
     "percentage": 0.03
   },
   "Corylus": {
@@ -80,7 +80,7 @@
     "percentage": 0.0
   },
   "Gleditsia": {
-    "absolute": 1242,
+    "absolute": 1222,
     "percentage": 0.01
   },
   "Sophora": {
@@ -96,7 +96,7 @@
     "percentage": 0.0
   },
   "Malus": {
-    "absolute": 804,
+    "absolute": 802,
     "percentage": 0.01
   },
   "Populus": {
@@ -116,7 +116,7 @@
     "percentage": 0.0
   },
   "Salix": {
-    "absolute": 843,
+    "absolute": 842,
     "percentage": 0.01
   },
   "Larix": {
@@ -152,7 +152,7 @@
     "percentage": 0.0
   },
   "Taxus": {
-    "absolute": 891,
+    "absolute": 890,
     "percentage": 0.01
   },
   "Juglans": {
@@ -168,7 +168,7 @@
     "percentage": 0.0
   },
   "Ilex": {
-    "absolute": 106,
+    "absolute": 105,
     "percentage": 0.0
   },
   "Magnolia": {
@@ -196,7 +196,7 @@
     "percentage": 0.0
   },
   "Sambucus": {
-    "absolute": 240,
+    "absolute": 239,
     "percentage": 0.0
   },
   "Abies": {

@@ -1,11 +1,11 @@
 {
   "2": {
     "street/court (plaza)": {
-      "absolute": 14811,
+      "absolute": 14805,
       "percentage": 0.34
     },
     "building/school/dormitory (home) building": {
-      "absolute": 26125,
+      "absolute": 26089,
       "percentage": 0.6
     },
     "green space": {
@@ -13,7 +13,7 @@
       "percentage": 0.02
     },
     "playground": {
-      "absolute": 1283,
+      "absolute": 1282,
       "percentage": 0.03
     },
     "unknown": {
@@ -43,11 +43,11 @@
   },
   "0": {
     "building/school/dormitory (home) building": {
-      "absolute": 9824,
+      "absolute": 9806,
       "percentage": 0.85
     },
     "street/court (plaza)": {
-      "absolute": 1004,
+      "absolute": 991,
       "percentage": 0.09
     },
     "playground": {
@@ -73,11 +73,11 @@
   },
   "1": {
     "building/school/dormitory (home) building": {
-      "absolute": 35523,
+      "absolute": 35463,
       "percentage": 0.76
     },
     "street/court (plaza)": {
-      "absolute": 9086,
+      "absolute": 9072,
       "percentage": 0.19
     },
     "green space": {
@@ -111,7 +111,7 @@
       "percentage": 0.0
     },
     "building/school/dormitory (home) building": {
-      "absolute": 39480,
+      "absolute": 39359,
       "percentage": 0.89
     },
     "green space": {
@@ -123,7 +123,7 @@
       "percentage": 0.0
     },
     "unknown": {
-      "absolute": 4509,
+      "absolute": 4470,
       "percentage": 0.1
     }
   }

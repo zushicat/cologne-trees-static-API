@@ -94,7 +94,7 @@
     },
     "Neustadt/Süd": {
       "absolute": 875,
-      "percentage": 0.03
+      "percentage": 0.04
     },
     "Altstadt/Süd": {
       "absolute": 478,
@@ -115,10 +115,6 @@
     "Deutz": {
       "absolute": 613,
       "percentage": 0.02
-    },
-    "unknown": {
-      "absolute": 33,
-      "percentage": 0.0
     },
     "Poll": {
       "absolute": 471,
@@ -380,7 +376,7 @@
     },
     "Kalk": {
       "absolute": 1662,
-      "percentage": 0.01
+      "percentage": 0.02
     },
     "Deutz": {
       "absolute": 3873,
@@ -428,10 +424,6 @@
     },
     "Gremberghoven": {
       "absolute": 364,
-      "percentage": 0.0
-    },
-    "unknown": {
-      "absolute": 235,
       "percentage": 0.0
     },
     "Altstadt/Nord": {
@@ -1016,10 +1008,6 @@
       "absolute": 102,
       "percentage": 0.04
     },
-    "unknown": {
-      "absolute": 1,
-      "percentage": 0.0
-    },
     "Vogelsang": {
       "absolute": 7,
       "percentage": 0.0
@@ -1312,10 +1300,6 @@
     },
     "Weiß": {
       "absolute": 58,
-      "percentage": 0.01
-    },
-    "unknown": {
-      "absolute": 39,
       "percentage": 0.01
     },
     "Seeberg": {

@@ -431,24 +431,6 @@
       "percentage": 0.11
     }
   },
-  "unknown": {
-    "1": {
-      "absolute": 74,
-      "percentage": 0.24
-    },
-    "unknown": {
-      "absolute": 160,
-      "percentage": 0.52
-    },
-    "2": {
-      "absolute": 43,
-      "percentage": 0.14
-    },
-    "0": {
-      "absolute": 31,
-      "percentage": 0.1
-    }
-  },
   "Altstadt/Nord": {
     "0": {
       "absolute": 206,

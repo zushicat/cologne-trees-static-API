@@ -20,10 +20,6 @@
       "absolute": 4288,
       "percentage": 0.1
     },
-    "unknown": {
-      "absolute": 43,
-      "percentage": 0.0
-    },
     "Lindenthal": {
       "absolute": 6677,
       "percentage": 0.16
@@ -77,10 +73,6 @@
     "Chorweiler": {
       "absolute": 1195,
       "percentage": 0.11
-    },
-    "unknown": {
-      "absolute": 31,
-      "percentage": 0.0
     }
   },
   "1": {
@@ -103,10 +95,6 @@
     "Nippes": {
       "absolute": 4970,
       "percentage": 0.11
-    },
-    "unknown": {
-      "absolute": 74,
-      "percentage": 0.0
     },
     "Lindenthal": {
       "absolute": 5799,
@@ -145,10 +133,6 @@
     "Innenstadt": {
       "absolute": 4880,
       "percentage": 0.1
-    },
-    "unknown": {
-      "absolute": 160,
-      "percentage": 0.0
     },
     "Lindenthal": {
       "absolute": 9648,

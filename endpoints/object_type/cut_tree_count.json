@@ -1,10 +1,10 @@
 {
   "street/court (plaza)": {
-    "absolute": 3014,
+    "absolute": 3004,
     "percentage": 0.49
   },
   "green space": {
-    "absolute": 1048,
+    "absolute": 1046,
     "percentage": 0.17
   },
   "playground": {
@@ -24,7 +24,7 @@
     "percentage": 0.0
   },
   "unknown": {
-    "absolute": 1758,
+    "absolute": 1756,
     "percentage": 0.29
   },
   "cemetery": {
