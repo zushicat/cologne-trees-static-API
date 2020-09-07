@@ -14,6 +14,7 @@ ENDPOINT_GROUP = "location_type"
 
 def _location_type(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     location_types_count: Dict[str, int] = {}
+    
     for tree in tree_data:
         location_types = tree["tree_location_type"]
         
@@ -28,9 +29,16 @@ def _location_type(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
         if len(location_types) == 1 and "highway" in location_types:
             is_highway = True
 
+        use_green_spaces_agriculture = True
+        if len(location_types) > 1 and "green_spaces_leisure" in location_types and "green_spaces_agriculture" in location_types:
+            use_green_spaces_agriculture = False
+
         for location_type in location_types:
             if location_type == "highway" and is_highway is False:
                 continue
+            if location_type == "green_spaces_agriculture" and use_green_spaces_agriculture is False:
+                continue
+
             if location_types_count.get(location_type) is None:
                 location_types_count[location_type] = 0
             location_types_count[location_type] += 1
@@ -40,6 +48,7 @@ def _location_type(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
 
 def _osm_keys(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     osm_keys_count: Dict[str, int] = {}
+    
     for tree in tree_data:
         location_types = tree["tree_location_type"]
         
@@ -54,8 +63,14 @@ def _osm_keys(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
         if len(location_types) == 1 and "highway" in location_types:
             is_highway = True
 
+        use_green_spaces_agriculture = True
+        if len(location_types) > 1 and "green_spaces_leisure" in location_types and "green_spaces_agriculture" in location_types:
+            use_green_spaces_agriculture = False
+
         for location_type, osm_node in location_types.items():
             if location_type == "highway" and is_highway is False:
+                continue
+            if location_type == "green_spaces_agriculture" and use_green_spaces_agriculture is False:
                 continue
             
             if is_highway is True:
