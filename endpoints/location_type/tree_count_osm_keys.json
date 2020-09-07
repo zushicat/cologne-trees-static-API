@@ -1,16 +1,16 @@
 {
-  "allotments": 6278,
+  "allotments": 4367,
   "highway": 68015,
   "unknown": 8411,
-  "farmland": 6368,
-  "forest": 12172,
+  "farmland": 5457,
+  "forest": 7165,
   "park": 28730,
-  "meadow": 2584,
+  "meadow": 1662,
   "cemetery": 9876,
   "grass": 7813,
   "playground": 2918,
   "recreation_ground": 1142,
   "village_green": 68,
-  "orchard": 25,
+  "orchard": 8,
   "greenfield": 28
 }
