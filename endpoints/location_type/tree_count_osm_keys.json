@@ -1,16 +1,16 @@
 {
-  "unknown": 37240,
-  "highway": 67979,
-  "farmland": 1745,
-  "forest": 2696,
-  "park": 16181,
-  "cemetery": 8264,
-  "playground": 2828,
-  "allotments": 2814,
-  "grass": 4137,
-  "meadow": 1199,
-  "recreation_ground": 505,
+  "highway": 89927,
+  "farmland": 983,
+  "forest": 2490,
+  "park": 15415,
+  "unknown": 18427,
+  "allotments": 2466,
+  "grass": 3723,
+  "meadow": 939,
+  "playground": 2642,
+  "cemetery": 8103,
+  "recreation_ground": 478,
   "orchard": 9,
   "village_green": 44,
-  "greenfield": 19
+  "greenfield": 14
 }

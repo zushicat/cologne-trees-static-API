@@ -1,13 +1,13 @@
 {
-  "unknown": 1907,
-  "highway": 2734,
-  "forest": 471,
-  "playground": 106,
-  "farmland": 79,
-  "allotments": 38,
-  "grass": 179,
-  "park": 405,
-  "meadow": 42,
-  "recreation_ground": 21,
-  "cemetery": 108
+  "highway": 3925,
+  "unknown": 839,
+  "forest": 453,
+  "playground": 103,
+  "farmland": 32,
+  "allotments": 20,
+  "grass": 170,
+  "park": 389,
+  "meadow": 41,
+  "recreation_ground": 19,
+  "cemetery": 99
 }
