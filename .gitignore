@@ -13,4 +13,5 @@ __pycache__/
 Pipfile.lock
 
 # 
-data/trees_cologne_merged.jsonln
+data/trees_cologne_inventory.jsonln
+data/trees_cologne_detection_2019.jsonln
