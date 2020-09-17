@@ -358,7 +358,7 @@ def _genus_species_name_german_tree(tree_data: List[Dict[str, Any]]) -> Dict[str
 
 
 
-def create_meta_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
+def create_meta_endpoints_inventory(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
     # ***
     #
     dat = _districts_suburbs(tree_data_2020)

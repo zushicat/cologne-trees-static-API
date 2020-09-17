@@ -1,0 +1,11 @@
+{
+  "park": 1392,
+  "highway": 1743,
+  "unknown": 1234,
+  "meadow": 35,
+  "grass": 84,
+  "forest": 99,
+  "playground": 50,
+  "recreation_ground": 40,
+  "allotments": 2
+}

@@ -154,7 +154,7 @@ def _object_type_count_year_planting(tree_data: List[Dict[str, Any]], use_predic
     return tree_list
 
 
-def create_object_type_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
+def create_object_type_endpoints_inventory(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
     # ***
     #
     dat = _count_trees(tree_data_2020)

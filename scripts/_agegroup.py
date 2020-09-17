@@ -146,7 +146,7 @@ def _count_age_group_by_object_type(tree_data: List[Dict[str, Any]], use_predict
     return counted_trees
 
 
-def create_agegroup_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
+def create_agegroup_endpoints_inventory(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
     # ***
     #
     dat = _count_trees(tree_data_2020, False)

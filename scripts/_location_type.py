@@ -86,7 +86,7 @@ def _osm_keys(tree_data: List[Dict[str, Any]]) -> Dict[str, Any]:
     return osm_keys_count
 
 
-def create_location_type_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
+def create_location_type_endpoints_inventory(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
     # ***
     #
     dat = _location_type(tree_data_2020)
@@ -103,3 +103,14 @@ def create_location_type_endpoints(tree_data_2017: List[Dict[str, Any]], tree_da
     dat = _osm_keys(tree_data_2017)
     write_endpoint_data(dat, ENDPOINT_GROUP, "cut_tree_count_osm_keys")
 
+
+def create_location_type_endpoints_detection(tree_data: List[Dict[str, Any]], year: str) -> None:
+    # ***
+    #
+    dat = _location_type(tree_data)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "tree_count_location_type", year)
+
+    # ***
+    #
+    dat = _osm_keys(tree_data)
+    write_endpoint_data(dat, ENDPOINT_GROUP, "tree_count_osm_keys", year)

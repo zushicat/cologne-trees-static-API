@@ -149,7 +149,7 @@ def _count_neighbours_radius_50(tree_data: List[Dict[str, Any]]) -> Dict[str, An
     return counted_trees
 
 
-def create_suburbs_endpoints(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
+def create_suburbs_endpoints_inventory(tree_data_2017: List[Dict[str, Any]], tree_data_2020: List[Dict[str, Any]]) -> None:
     # ***
     #
     dat = _count_trees(tree_data_2020)

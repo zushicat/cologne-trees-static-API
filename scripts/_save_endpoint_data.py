@@ -23,7 +23,14 @@ def _create_data_endpoint(data: Dict[str, Any], endpoint_group: str, endpoint_na
         f.write(json.dumps(data, indent=2, ensure_ascii=False))
 
 
-def write_endpoint_data(data: Dict[str, Any], endpoint_group: str, endpoint_name: str) -> None:
+def write_endpoint_data(data: Dict[str, Any], endpoint_group: str, endpoint_name: str, year: str = None) -> None:
+    '''
+    Only detections pass year information
+    '''
+    global BASE_DATA_DIR
+    if year is not None:
+        BASE_DATA_DIR = f"../endpoints/detection/{year}"
+
     _create_base_dir()
     _create_group_dir(endpoint_group)
     _create_data_endpoint(data, endpoint_group, endpoint_name)
